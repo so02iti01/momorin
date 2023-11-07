@@ -731,24 +731,6 @@
             "length": "16908593"
           },
           "imageUrl": null
-        },
-        {
-          "id": "bf7ae681-5a2a-4d9e-9dd3-f4289b0c6021",
-          "author": null,
-          "description": "不久前，国内多个城市公布了 2022 年地铁报告，虽然许多城市地铁的日均客流量都超过了五六百万，但大多数城市地铁都在亏损。其实全球各大城市的地铁公司不赚钱是常态，在众多国际化大都市中，中国香港的地铁却是少数几个能稳定盈利的城市地铁公司。为什么地铁公司盈利难？香港地铁能盈利的原因有哪些？本期轻解读就与之相关 [06:38]。你平时出门爱搭乘地铁吗？你所在城市的地铁给你带来了多大便利呢？在评论区和我们一起聊聊吧。\n本期还有关于中秋国庆假期、微软与 OpenAI、马斯克和锅圈的新动态 [01:51]，欢迎收听！\n主播\nMengyi\n幕后制作\n监制：Zelin、Qianwen\n实习研究员：盔盔、柚米\n运营：瑞涵\n后期：Jack\n商业内容策划：Nene\n封面设计：饭团\n\n声动商务会客厅 ｜招聘入口｜给早咖啡投稿｜加入会员计划\n「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。\n\n我们还有这些播客：声东击西、What's Next｜科技早知道、商业WHY酱、跳进兔子洞、吃喝玩乐了不起、泡腾 VC 、反潮流俱乐部\n如果你喜欢我们的节目，欢迎 打赏 支持，或把我们的节目推荐给朋友",
-          "link": "https://www.xiaoyuzhoufm.com/episode/652335657dc2e44b6cd15908?utm_source=rss",
-          "publishedOn": "2023-10-08T23:00:00.000Z",
-          "wordCount": null,
-          "title": "地铁运营十有九亏，为何港铁偏偏能赚钱？",
-          "itunes": {
-            "duration": "00:16:31"
-          },
-          "enclosure": {
-            "url": "https://dts-api.xiaoyuzhoufm.com/track/60de7c003dd577b40d5a40f3/652335657dc2e44b6cd15908/media.xyzcdn.net/lnuWGNR7jmWlKjAtFUYuo5rawZSu.m4a?from=axios/0.27.2",
-            "type": "audio/mp4",
-            "length": "23975774"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -757,6 +739,24 @@
       "feedUrl": "https://feed.xyzfm.space/jq7xytwpykrg",
       "siteUrl": "https://www.xiaoyuzhoufm.com/podcast/5e285326418a84a04627343f?utm_source=rss",
       "articles": [
+        {
+          "id": "6549f8fa9da6ed7e74b09bc7",
+          "author": null,
+          "description": "何鲜，产品设计师，Studio Monana 创始人。\n\n2020年，因为疫情，何鲜想设计一个在家里也能生产的产品。\n她从短视频平台里寻找民间手艺人，并到他们生活到地方采集灵感、学习经验，再加入自己的想法，成立了“老铁设计公司”项目：用河南商丘的民间铸锅工艺做音响、用江西上饶的钩针工艺做围巾和背包。\n何鲜想让设计师之外的人参与其中。在她的工作室里，还有一群小朋友设计师。从2021年开始，何鲜持续开放招募超初级插画师，“招聘”小朋友设计师一起“玩”出好的设计。\n  \n【一些图片】\n\n👇桌边花瓶\n\n👇羊毛毡网\n\n👇铁锅模具\n\n👇噫，这是个音响呀！\n\n👇皮影灯\n\n👇 劳动妇女包\n\n👇 苹果包\n\n  \n【时间轴】\n\n01:46 把花瓶移到桌子边上会怎样\n05:32 把羊毛毡做成网，就像困在房间里的小羊\n09:08 你必须要问“老铁，这个卖吗？”\n11:35 我攒的易拉罐不够咋办，“你家窗户是铝的吗？”\n13:47 我把音响丢进锅里，大哥说噫，这是个音箱呀！\n15:41 几乎所有包都卖掉了，只剩一个“早生贵子”卖不掉\n17:34 我们把小朋友请来当设计师\n19:27 100块可以让城里的小孩请妈妈喝一次咖啡，如果给到更需要帮助的小朋友呢？\n  \n【劳动妇女包在这里买】👇\n\n【劳动妇女包】三款预售",
+          "link": "https://www.xiaoyuzhoufm.com/episode/6549f8fa9da6ed7e74b09bc7?utm_source=rss",
+          "publishedOn": "2023-11-07T08:44:42.000Z",
+          "wordCount": null,
+          "title": "何鲜：人要是离职了，就会每天想这种事｜一席",
+          "itunes": {
+            "duration": "00:23:38"
+          },
+          "enclosure": {
+            "url": "https://dts-api.xiaoyuzhoufm.com/track/5e285326418a84a04627343f/6549f8fa9da6ed7e74b09bc7/media.xyzcdn.net/li3gS_SI-Jq_6FQhENnGdNcdynLa.m4a?from=axios/0.27.2",
+            "type": "audio/mp4",
+            "length": "22946295"
+          },
+          "imageUrl": null
+        },
         {
           "id": "6541c12b3c0b0c6de43068f7",
           "author": null,
@@ -893,7 +893,7 @@
         {
           "id": "653e4ea279818ece05645479",
           "author": null,
-          "description": "北京到天津的高铁只要半小时，比去京郊都方便……这还说啥呢，安排起来！\n天津很近，但很陌生。传说中的天津包子和煎饼果子，天津网红街道上的网红小店，和京鲁菜同源的天津菜……我都没吃过。\n于是找了一位天津朋友，按两天一晚定行程，要求每顿饭不能重样儿，还得吃个明白（雨前：没在怕的。\n【时间轴】\n0:49 天津一日游/周末游行程，该怎么安排？\n5:19 天津包子：传统水馅儿包子，像天津人一样松弛\n提及餐厅：狗不理，同義成厨艺馆。\n图片：同義成的传统肉馅、天津素、酱肉馅儿、南瓜虾仁馅儿包子\n\n17:27 天津人的饮品：网红gelato和老天津刨冰\n提及餐厅：如饴富食。\n\n28:36 儿时的味觉记忆：炫技但凝固了时代的天津菜\n提及餐厅：玉泉饭庄，燕春楼。\n图片：燕春楼的焦熘里脊，鸡茸干贝，全爆和红烧牛舌尾。\n\n50:29 不可撼动的早餐王者：煎饼果子\n提及餐厅：老李煎饼果子（五大道店）。\n\n1:01:00 天津的西餐有惊喜！\n提及餐厅：MIKELI BARBECUE，安范fine family barbecue，Pasta Go-Go。\n图片：MIKELI BARBECUE的猪肋条、牛胸口、牛肋条和苹果派。\n\n【本期鸣谢嘉宾】\n@雨前羽街，天津人，美食爱好者，不吃香菜。\n【本期配乐】\nMozart  - Epistle Sonata in D Major K.245",
+          "description": "北京到天津的高铁只要半小时，比去京郊都方便……这还说啥呢，安排起来！\n天津很近，但很陌生。传说中的天津包子和煎饼果子，天津网红街道上的网红小店，和京鲁菜同源的天津菜……我都没吃过。\n于是找了一位天津朋友，按两天一晚定行程，要求每顿饭不能重样儿，还得吃个明白（雨前：没在怕的。\n【时间轴】\n0:49 天津一日游/周末游行程，该怎么安排？\n5:19 天津包子：传统水馅儿包子，像天津人一样松弛\n提及餐厅：狗不理，同義成厨艺馆。\n图片：同義成的传统肉馅、津味素、酱肉馅儿、南瓜虾仁馅儿包子\n\n17:27 天津人的饮品：网红gelato和老天津刨冰\n提及餐厅：如饴富食。\n\n28:36 儿时的味觉记忆：炫技但凝固了时代的天津菜\n提及餐厅：玉泉饭庄，燕春楼。\n图片：燕春楼的焦熘里脊，鸡茸干贝，全爆和红烧牛舌尾。\n\n50:29 不可撼动的早餐王者：煎饼果子\n提及餐厅：老李煎饼果子（五大道店）。\n\n1:01:00 天津的西餐有惊喜！\n提及餐厅：MIKELI BARBECUE，安范fine family barbecue，Pasta Go-Go。\n图片：MIKELI BARBECUE的猪肋条、牛胸口、牛肋条和苹果派。\n\n【本期鸣谢嘉宾】\n@雨前羽街，天津人，美食爱好者，不吃香菜。\n【本期配乐】\nMozart  - Epistle Sonata in D Major K.245",
           "link": "https://www.xiaoyuzhoufm.com/episode/653e4ea279818ece05645479?utm_source=rss",
           "publishedOn": "2023-11-06T23:00:00.000Z",
           "wordCount": null,
@@ -1402,6 +1402,202 @@
             "length": "104352604",
             "type": "audio/x-m4a",
             "url": "https://jt.ximalaya.com//GKwRIasI_9SAAhnYBQJsMch9-aacv2-48K.m4a?channel=rss&album_id=64689453&track_id=673440837&uid=402532070&jt=https://audio.xmcdn.com/storages/de5e-audiofreehighqps/97/5C/GKwRIasI_9SAAhnYBQJsMch9-aacv2-48K.m4a"
+          },
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "饭不着",
+      "feedUrl": "http://www.ximalaya.com/album/40546459.xml",
+      "siteUrl": "https://www.ximalaya.com/album/40546459",
+      "articles": [
+        {
+          "id": "xmly_track_679702163",
+          "author": null,
+          "description": "10月十分充实，我们分头吃了不少餐厅，也一起探了很多新店。\n并不是头一次发现，很多餐厅的宣传词非常的……刁钻？奇特？有煽动性？三言两语很难形容，只能根据我们最近吃过的餐厅，来讨论一下它们的宣传语是戳中了我们，还是劝退了我们。\n【本期时间轴】\n3:48 田螺：短暂的香港潮菜之旅\n6:02 雨前：上海意餐寻梦之旅\n21:05 为什么可以相信意大利的妈妈的味道\n25:41 雨前：号称小意大利的青田\n33:36 田螺：北京新吃到的地方菜\n37:13 听说用雪水发酵臭豆腐，妙玉的棺材盖都压不住了",
+          "link": "https://www.ximalaya.com/sound/679702163",
+          "publishedOn": "2023-11-01T00:00:00.000Z",
+          "wordCount": null,
+          "title": "四十三期——10月见闻，餐厅吹起牛来有多离谱",
+          "itunes": {
+            "duration": "50:04"
+          },
+          "enclosure": {
+            "length": "72017334",
+            "type": "audio/x-m4a",
+            "url": "https://jt.ximalaya.com//GKwRIaIJFlgAAXMupQJ2UPsa-aacv2-48K.m4a?channel=rss&album_id=40546459&track_id=679702163&uid=42414589&jt=https://audio.xmcdn.com/storages/55a9-audiofreehighqps/BE/D8/GKwRIaIJFlgAAXMupQJ2UPsa-aacv2-48K.m4a"
+          },
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Coffeeplus播客",
+      "feedUrl": "http://www.ximalaya.com/album/52344140.xml",
+      "siteUrl": "https://www.ximalaya.com/album/52344140",
+      "articles": [
+        {
+          "id": "xmly_track_677652237",
+          "author": null,
+          "description": "这是一部关于“巧克力”的声音纪录片，也是一个关于风味、人情和热爱的故事！\n今年5月初，我（Yujia）和本土精品巧克力品牌Nibbo一起，从上海出发环绕华中，途径南京、合肥、武汉、重庆、成都、贵阳、长沙、南昌、景德镇再回到上海，历经二十天，十一个人、三辆车完成了一场几近环绕半个中国、跨越五千多公里的公路旅程。\n我们带着满满后备箱的巧克力，在路过的城市空间举办分享会、参加市集；也会驱车上百公里，探访优质的食材，不错过每一个地道的风味原产地。沿途寻访深藏不露的茶农、茶园，我们对茶知之甚少，他们也许从没尝过精品可可和咖啡，却丝毫不影响大家以「风味」为名侃侃而谈、惺惺相惜！\n除此之外，我们还沿途邂逅了众多咖啡人的偶像们：李震、叶伟伟、杜嘉宁、犀牛哥、顾沁如、孙磊、张寅喆、彭近洋、胡颖...他们不仅是顶级的风味玩家，也深深影响着本土精品咖啡行业，当巧克力遇见咖啡英雄，又会碰撞出什么样的故事呢？\n一路上和巧克力师们的朝夕相处，让我重新认识了巧克力，真正打开了精品巧克力世界的大门，所以迫不及待想要分享给你！旅途中形形色色的人最让人难忘，他们有着各不相同的背景、深耕在不同的领域，却无一不是怀着“生涯仕事”的初心，做着自己热爱的事！\n\n\n“做成巧克力的每一粒可可都是独一无二的，我与你的分享也是。”\n\n\n『本期内容』\n楔子：出发前一天\n精品巧克力和百户茶\n09:42 记忆中好吃的巧克力\n13:14 Bean to Bar Chocolate\n20:17 商业巧克力和百户茶\n风味：茶、可可和咖啡\n24:51 茶里喝到了鸡汤的“鲜”味\n29:40 小满夏渐浓，一园藏风华\n32:39 好品种、好风土、好照顾\n38:27 感知风味，是天性？\n咖啡英雄和漂亮的酸\n43:54 回望精品咖啡萌芽\n52:00 巧克力也会熟成\n57:11 漂亮的酸\n01:01:05 多变的可可和巧克力\n春丘：“它值得，我们还不够好”\n01:03:05 高可可比，却更甜了\n01:04:50咖啡英雄都觉得它像一款传奇咖啡\n01:08:11 古老的豆种\n01:14:10 必须要粗磨\n终章\n01:25:23 咖啡巧克力\n01:37:03 不同的人生，一样的热爱\n01:42:07 福利时间\n\n\n『出发吧！巧克力』\n\n\n可可豆\n\n\n风干的可可豆荚\n\n\n分享会现场@重庆利物因\n蒙顶山\n\n\n\n旅途中\n\n\n\nNibbo巧克力@合肥咖啡节\n\n\n咖啡英雄礼盒\n\n\n\n\n『本期制作』 \n俣佳 YUJIA\n\n\n如果你喜欢我们的节目内容,请记得「订阅频道」。如果你对本期节目感兴趣,可以在微信公众号 - Coffeeplus播客,豆瓣小组Coffeeplus播客,以及新浪微博@Coffeeplus播客与我们互动交流。推荐您在小宇宙App,苹果Podcast, Spotify等泛用性客户端收听我们的节目,你还可以通过喜马拉雅,网易云音乐,QQ音乐,Google podcast, 平台收听我们的节目。如果喜欢我们的节目,请别忘了在小宇宙App上给我们留言互动,在苹果Podcast给我们五星好评。如针对本期节目有任何疑问,欢迎私信留言给我们,做进一步交流。\n\n\n如果希望支持我们，可以通过“爱发电”平台打赏：https://afdian.net/a/coffeeplusYYY\n\n\n『留言互动』 \n小红书:Coffeeplus播客\n微信公众号:Coffeeplus播客\n\n\n也可以搜索添加微信Fishplus_wx, 备注“播客”,我们添加您进微信交流。",
+          "link": "https://www.ximalaya.com/sound/677652237",
+          "publishedOn": "2023-10-25T23:00:00.000Z",
+          "wordCount": null,
+          "title": "Vol.47 出发吧巧克力：可可咖啡和茶，风味人情与热爱",
+          "itunes": {
+            "duration": "1:43:02"
+          },
+          "enclosure": {
+            "length": "98928012",
+            "type": "audio/x-m4a",
+            "url": "https://jt.ximalaya.com//GKwRIJIJDzPZAvu4BwJzrPDs.m4a?channel=rss&album_id=52344140&track_id=677652237&uid=51214225&jt=https://audio.xmcdn.com/storages/f74c-audiofreehighqps/BB/3B/GKwRIJIJDzPZAvu4BwJzrPDs.m4a"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "xmly_track_672888450",
+          "author": null,
+          "description": "2023年6月的希腊世界赛，在世界杯测大赛的决赛现场，当最后一位身着黑衣的小伙拎起手中的最后一杯咖啡，2023世界咖啡杯测大赛的冠军也尘埃落定。主持人难掩激动地咆哮着，现场此起彼伏地欢呼声不绝于耳。这位来自澳洲悉尼的精神小伙，或许怎么也想不到，走到这一步，他仅仅用了4年。\n他叫Young Baek，韩裔新西兰人。网球运动员出身，攻读心理学。而在大学期间，出于对人生方向的思考，机缘巧合下，与朋友结伴来到悉尼；却因囊中羞涩而半推半就地加入了咖啡行业。从懵懂无知到确定方向，似乎是命运的召唤，他的精品咖啡探索之路，走的尤为顺畅。或许是出于运动员的强大意志力训练，目标感由为清晰的他，总能在合适的时间，合适的地点，做出最优的职业规划方案。不得不承认，小哥哥的职业规划能力，堪称咖啡界打工人天花板。\n世界杯测大赛的赛制规程，选用了三角杯测的方式进行。8组咖啡，每组3支；其中一支有别于其他两支，参赛者需要在最快的时间内，找出与众不同的那杯，以此类推，直至完成8轮考验。准确度优先，用时短者获胜。\n这个看似只需要勺子跟嘴的比赛，难易程度却与肉眼所见相距甚远。哪怕是简简单单地喝，都很有讲究。咖啡与咖啡，按不同比例稀释，勾兑，搅拌，打乱次序后放上比赛桌；很多时候，准备这些工作的“幕后黑手们”甚至会将比例调到微乎及微的程度；而这样的考验，对于选手们来说，就是差之毫厘失之千里的较量。\n或许听完本期节目，你会对杯测比赛这件事儿，开始有了兴趣，也想在家自己动手张罗练习，Young也分享了低门槛居家杯测练习的操作方法。拿上杯测勺，一起愉快地Slurp~\n『本期主角』\nYoung Baek 2023 世界咖啡杯测冠军 2022 澳洲咖啡杯测冠军\n\n\n『本期嘉宾』\nYogi \nNumerno Uno 首席咖啡师/烘焙师\nJimmy \n新晋咖啡从业者\nYoung\n\n\n『本期内容』Table of Contents\n…",
+          "link": "https://www.ximalaya.com/sound/672888450",
+          "publishedOn": "2023-10-12T08:38:33.000Z",
+          "wordCount": null,
+          "title": "Vol.46 论世界冠军的养成需要几步-揭秘2023世界杯测冠军Young Baek",
+          "itunes": {
+            "duration": "1:38:08"
+          },
+          "enclosure": {
+            "length": "94217194",
+            "type": "audio/x-m4a",
+            "url": "https://jt.ximalaya.com//GKwRIasI_XQmAtdaJwJrAepV-aacv2-48K.m4a?channel=rss&album_id=52344140&track_id=672888450&uid=51214225&jt=https://audio.xmcdn.com/storages/4175-audiofreehighqps/BF/25/GKwRIasI_XQmAtdaJwJrAepV-aacv2-48K.m4a"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "xmly_track_672879869",
+          "author": null,
+          "description": "Young Baek\n\n\nIn June 2023, at the Greek World Cup, on the finals stage of the World Cup Tasters' Championship, the champion was determined when the last young man in black lifted the final cup of coffee. The host couldn't hide his excitement and roared, while cheers erupted sporadically from the audience. This spirited young man from Sydney, Australia, perhaps never imagined that it would only take him 4 years to get to this point. His name is Young Back, a Korean grew up in New Zealand. Originally a tennis player and psychology student, he and a friend came to Sydney during university while pondering life’s direction and reluctantly joined the coffee industry due to tight finances. From ignorance to certainty, it seems like a call of destiny that his journey exploring specialty coffee wen…",
+          "link": "https://www.ximalaya.com/sound/672879869",
+          "publishedOn": "2023-10-12T08:01:28.000Z",
+          "wordCount": null,
+          "title": "Vol.45 Cup Taster is fun? Interview with 2023 World Cup Taster Champion",
+          "itunes": {
+            "duration": "1:41:37"
+          },
+          "enclosure": {
+            "length": "97567972",
+            "type": "audio/x-m4a",
+            "url": "https://jt.ximalaya.com//GKwRIJII_WuIAvE4ywJq-7EI-aacv2-48K.m4a?channel=rss&album_id=52344140&track_id=672879869&uid=51214225&jt=https://audio.xmcdn.com/storages/9854-audiofreehighqps/BD/38/GKwRIJII_WuIAvE4ywJq-7EI-aacv2-48K.m4a"
+          },
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "一梦百晓",
+      "feedUrl": "http://rss.lizhi.fm/rss/60164802.xml",
+      "siteUrl": "http://www.lizhi.fm",
+      "articles": []
+    },
+    {
+      "title": "万一火了",
+      "feedUrl": "https://www.ximalaya.com/album/68228204.xml",
+      "siteUrl": "https://www.ximalaya.com/album/68228204",
+      "articles": [
+        {
+          "id": "xmly_track_680716706",
+          "author": null,
+          "description": "朋友们！重磅来袭！\n本期给大家展示下我们的“抠搜人生”！\n从衣食住行聊到日常玩乐，我们抠得淋漓尽致、五马分尸！\n奇妙为了外卖满减优惠券，找小玲代购外卖，一碗饭吃两餐；\n姜姜半个月去了五次环球影城，只为给家人们送福利；\n牛小玲为了省钱，去垃圾桶里刨饭；\n左拉觉得上班不配穿好衣服，把工服穿出两个洞。\n️本期节目全程无广，各位请放心食用！\n�内容摘要：\n01:04 坐同事“校车”下班再转地铁，为了省钱我呕心沥血\n03:46 半个月去五次环球影城，给家人送福利我肯定行\n14:35 北京租房价格大曝光，半价中介费把我高兴出内伤\n28:59 不占便宜就算丢钱，我花小钱省大钱\n34:34 外卖想凑优惠券，我四处扒拉学习“午饭只花2元”\n41:59 朋友复刻美食烧坏三个锅，我从垃圾桶里捡吃的\n52:05 上班不配穿好衣服，穿搭成了我和男友play的一环\n01:02:11 同事离开北京我去偷家，比超生游击队的造型还奇葩\n01:22:41 自己花钱固然难受，但朋友花更多的钱令人暖心\n01:24:32 看了直播三分钟，我买海参养自己\n01:30:32 先穿袜子后穿鞋，先当孙子后当爷\n�️本期主播：奇妙、姜姜、牛小玲、左拉\n剪辑：小鸭绒\n视觉：Jane\n�背景音乐-来自平台musicbed\nBreathing it in-Peached\nBelieve me- Dalton Day",
+          "link": "https://www.ximalaya.com/sound/680716706",
+          "publishedOn": "2023-11-03T08:44:14.000Z",
+          "wordCount": null,
+          "title": "省钱已经过时了，建议你过抠搜人生！",
+          "itunes": {
+            "duration": "1:35:16"
+          },
+          "enclosure": {
+            "length": "91474472",
+            "type": "audio/x-m4a",
+            "url": "https://jt.ximalaya.com//GKwRIRwJGnaDAsIibQJ38g-D.m4a?channel=rss&album_id=68228204&track_id=680716706&uid=407209968&jt=https://audio.xmcdn.com/storages/ae63-audiofreehighqps/57/CE/GKwRIRwJGnaDAsIibQJ38g-D.m4a"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "xmly_track_678214933",
+          "author": null,
+          "description": "朋友们，最近关于“宠物”的话题吵得沸沸扬扬。\n俺们几个，有狗党也有猫党，也有怕狗怕猫的中立党。\n奇妙六级猫过敏，常年鼻炎咳嗽睡不好，还在坚持养；\n姜姜被怀孕的母猫上门碰瓷儿，手忙脚乱接生成了她养猫的第一课；\n左拉这几天过得不太好，听说小区有小狗被下毒，遛狗时她不敢让狗下地走。\n作为怕狗人士的小玲，看到狗确实会绕道走，但无法想象为啥有人会想主动害狗。\n虽然宠物是人类的好朋友，但文明养宠不可少，遛狗牵绳切记好，别把人的素质问题，甩锅到动物身上。\n本期讲了不少养宠崩溃故事，点开速听！\n�内容摘要：\n00:53 再苦不能苦孩子，养猫养狗花多少钱\n09:29 通过养宠物，能判断伴侣是不是个好人？\n14:01 小猫在家跑酷，后爹睡得呼呼\n16:55 带宠物重组家庭，猫狗不和怎么办？\n23:14 我这个接盘侠和流浪猫不得不说的二三事\n36:04 谁痛苦谁改变，养猫治好了我的精神内耗\n38:42 劝你不要轻易养宠物\n40:38 误入“宝妈”群，被治愈的东亚原生家庭伤痛\n56:02 恶人投毒，最近都不敢下楼遛狗了！\n1:06:00 如何通过养宠看清一个人？\n�️本期主播：奇妙、姜姜、牛小玲、左拉\n剪辑：小鸭绒\n视觉：Jane\n�背景音乐-来自平台musicbed\nBreathing it in-Peached\nBelieve me- Dalton Day",
+          "link": "https://www.ximalaya.com/sound/678214933",
+          "publishedOn": "2023-10-27T09:09:10.000Z",
+          "wordCount": null,
+          "title": "小猫倒霉，小狗遭殃，我们养宠人应激了",
+          "itunes": {
+            "duration": "1:12:33"
+          },
+          "enclosure": {
+            "length": "69685051",
+            "type": "audio/x-m4a",
+            "url": "https://jt.ximalaya.com//GKwRINsJEUG6Ahm_DQJ0aqwa.m4a?channel=rss&album_id=68228204&track_id=678214933&uid=407209968&jt=https://audio.xmcdn.com/storages/67e0-audiofreehighqps/64/CD/GKwRINsJEUG6Ahm_DQJ0aqwa.m4a"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "xmly_track_675458561",
+          "author": null,
+          "description": "朋友们，本期聊一个让咱又爱又恨的话题——运动！\n我们几个小时侯都是“运动废柴”，一心想做老师家长眼中文静乖巧的小女孩。\n再加上自己也懒，上大学跑个八百米，半条小命都快玩完。\n曾经以为运动就是苦行僧式生活，所以很抵触，去操场跑不动，去健身房还有羞耻症。\n但自从上了班，运动成了生活里的救命稻草，我们对运动的理解也有了很大转变。\n所以本期！我们就聊了聊：爱上运动，是懒人女孩的宿命～抓紧听起来吧！\n\n�本期节目由热练生活方式品牌 DANSKIN 赞助播出～\nDANSKIN 由 “舞蹈”(DANCE) 和 “皮肤” (SKIN) 组合而成，寓意服装犹如第二层皮肤包裹着身体。诞生于1882年美国纽约的国际品牌，2016年，李宁集团将DANSKIN引入中国。\n提供专业运动装备以赋能女性探寻自身无限可能，同时助力每一位女性享受热练、释放自我。\n�宝搜索 DANSKIN ，或直接点击链接：https://m.tb.cn/h.56PNzbO，向客服报暗号「万一火了」，即可领取199-100优惠券。\n\n\n�内容摘要：\n03:26 从小就是“体育废物”，我命由我不由天\n03:54 招老师喜欢的“文静女孩”，那时是我的标杆\n06:46 体育课阴影：来自老师的两个大耳光\n13:31 运动精神突然觉醒，两个月后不慎停经\n17:35 上B班之后，不让我运动我浑身难受\n26:19 上下班骑行，倍儿爽！\n28:54 夸父逐日、精卫填海，我征服大山\n33:40 喜报！这次运动终于不是为了变瘦了！\n40:50 高消费运动卷不起，免费的我狠狠冲\n49:57 不是运动选择你，是你选择运动\n�️本期主播：奇妙、姜姜、牛小玲\n剪辑：小鸭绒\n视觉：Jane\n�背景音乐-来自平台musicbed\nBreathing it in-Peached\nBelieve me- Dalton Day",
+          "link": "https://www.ximalaya.com/sound/675458561",
+          "publishedOn": "2023-10-20T08:05:00.000Z",
+          "wordCount": null,
+          "title": "不是咱不爱运动，是还没被命运选中",
+          "itunes": {
+            "duration": "52:44"
+          },
+          "enclosure": {
+            "length": "50649919",
+            "type": "audio/x-m4a",
+            "url": "https://jt.ximalaya.com//GKwRIUEJB9wBAYbW-QJwafZj-aacv2-48K.m4a?channel=rss&album_id=68228204&track_id=675458561&uid=407209968&jt=https://audio.xmcdn.com/storages/49cf-audiofreehighqps/44/DF/GKwRIUEJB9wBAYbW-QJwafZj-aacv2-48K.m4a"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "xmly_track_673194609",
+          "author": null,
+          "description": "朋友们！！时隔五个月，咱「火上浇友�」栏目继孔大山之后终于迎来了第二位嘉宾！\n让我们掌声�欢迎麻园诗人乐队的主唱——苦果！\n看过这季乐夏的朋友，肯定对麻园诗人的“破音式”唱腔很熟悉；\n或者被《黑白色》和《彩虹的微笑》给整哭了；\n没看这季乐夏的朋友，在短视频平台或多或少都听过《泸沽湖》！\n本期我们就和苦果聊了聊乐夏、上班、摇滚和云南菌子～\n速速收听本期播客，在连上七天班终于迎来的伟大周五，一起摇滚！\n\n�内容摘要：\n01:22 “破音式”唱腔是怎样炼成的？\n13:48 麻园诗人最嫉妒的乐队竟然是？？？\n14:36 灵魂发问：你摇滚吗？你能为摇滚付出什么？\n15:32 搞艺术必须得穷吗？\n19:54 “网红歌曲、网红乐队”，这算不算骂人\n28:32 广告文案辞职搞乐队，当年没有五险一金\n30:12 你再摇滚当初打工也得打卡，迟到也得扣钱\n40:06 心中的乐队鄙视链，有吗？\n45:44 参加乐夏，为了钱？为了流量？\n\n�️本期主播：姜姜、牛小玲、安妮\n\n剪辑：小鸭绒\n视觉：Jane\n\n�背景音乐：\n\nBreathing it in-Peached\n《彩虹的微笑》——麻园诗人\n《黑白色》——麻园诗人\n《晚安》——麻园诗人",
+          "link": "https://www.ximalaya.com/sound/673194609",
+          "publishedOn": "2023-10-13T08:40:36.000Z",
+          "wordCount": null,
+          "title": "麻园诗人苦果：不上几年班都写不出这么苦的歌儿！|火上浇友02",
+          "itunes": {
+            "duration": "55:06"
+          },
+          "enclosure": {
+            "length": "53088109",
+            "type": "audio/x-m4a",
+            "url": "https://jt.ximalaya.com//GKwRIasI_sX0AZhl2gJrrEe_.m4a?channel=rss&album_id=68228204&track_id=673194609&uid=407209968&jt=https://audio.xmcdn.com/storages/c533-audiofreehighqps/81/EC/GKwRIasI_sX0AZhl2gJrrEe_.m4a"
+          },
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "十二月December",
+      "feedUrl": "https://www.ximalaya.com/album/76493732.xml",
+      "siteUrl": "https://www.ximalaya.com/album/76493732",
+      "articles": [
+        {
+          "id": "xmly_track_679516837",
+          "author": null,
+          "description": "「十二月December」播客系列十月邀请到的是Erdi Tac，他的中文名字是陈一鸣。他来自土耳其，2017年从北京大学研究生毕业后，在深圳工作生活至今。「December」 podcast series, our October guest is Erdi Tac, whose Chinese name is Chen Yiming. Hailing from Turkey, he graduated as a postgraduate from Peking University in 2017 and has been living and working in Shenzhen since then.\n\n\n他在土耳其的贫困地方出生成长，是家族里的第一位大学生。在求学路上，他在别人的帮助下顺利进入大学。怀着感恩之心，从求学到现在，他一直坚持尽自己所能去帮助其它孩子：在土耳其读本科时是帮助土耳其贫困地区的孩子；在深圳则是加入全球杰出青年深圳社区，发起Education for Everyone (E4E) 帮助外来打工子女学习英语。我也是在通过这个项目与他成为朋友的。Growing up in impoverished areas of Turkey, he was the first person in his family to attend college. Throughout his educational journey, he received assistance from others to smoothly access higher education. Fueled by gratitude, from his college years in Turkey, where he helped underprivileged children i…",
+          "link": "https://www.ximalaya.com/sound/679516837",
+          "publishedOn": "2023-10-31T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Ep.202310｜Erdi的善心AI创业之旅-昔之受薪者，今之造林人",
+          "itunes": {
+            "duration": "1:09:16"
+          },
+          "enclosure": {
+            "length": "66768978",
+            "type": "audio/x-m4a",
+            "url": "https://jt.ximalaya.com//GKwRINsJFY8fAgFrbAJ2GqQp.m4a?channel=rss&album_id=76493732&track_id=679516837&uid=206350854&jt=https://audio.xmcdn.com/storages/aa44-audiofreehighqps/6B/13/GKwRINsJFY8fAgFrbAJ2GqQp.m4a"
           },
           "imageUrl": null
         }
