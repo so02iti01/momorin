@@ -785,24 +785,6 @@
             "length": "24635724"
           },
           "imageUrl": null
-        },
-        {
-          "id": "0a0aa299-2021-46bf-af0d-36e1c11594ff",
-          "author": null,
-          "description": "本期早咖啡为你带来与日常生活息息相关的商业科技动态，你将会听到：\n\nLVMH 集团三季度酒水销售大跌\n荣耀重返印度手机市场\n名创优品首家盲盒店落地伦敦\n永辉超市将增设「正品折扣店」\n\n本期还有关于谷歌、特斯拉、Adobe、汇丰与花旗、漫威的新动态，欢迎收听！\n加入我们\n声动早咖啡节目组正在招聘内容研究岗位的实习生。如果你身处北京，并且愿意在四个月的时间里和我们一起追踪全球商业科技动态，欢迎 点击链接 来查看详细的职位信息和申请方式。\n主播\nMengyi\n幕后制作\n监制：Zelin、Qianwen\n实习研究员：盔盔、柚米、Yoki\n运营：瑞涵\n后期：Jack\n商业内容策划：Nene\n封面设计：饭团\n\n声动商务会客厅 ｜招聘入口｜给早咖啡投稿｜加入会员计划\n「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。\n\n我们还有这些播客：声东击西、What's Next｜科技早知道、商业WHY酱、跳进兔子洞、吃喝玩乐了不起、泡腾 VC 、反潮流俱乐部\n如果你喜欢我们的节目，欢迎 打赏 支持，或把我们的节目推荐给朋友",
-          "link": "https://www.xiaoyuzhoufm.com/episode/652729732a07773d0d920cc7?utm_source=rss",
-          "publishedOn": "2023-10-11T23:00:00.000Z",
-          "wordCount": null,
-          "title": "LVMH 营收增速下滑，荣耀重返印度手机市场",
-          "itunes": {
-            "duration": "00:12:02"
-          },
-          "enclosure": {
-            "url": "https://dts-api.xiaoyuzhoufm.com/track/60de7c003dd577b40d5a40f3/652729732a07773d0d920cc7/media.xyzcdn.net/llRgMriRCKe6GBxsFiuJjWaYEGIZ.m4a?from=axios/0.27.2",
-            "type": "audio/mp4",
-            "length": "17471449"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1114,7 +1096,7 @@
             "duration": "3009"
           },
           "enclosure": {
-            "url": "https://tk.wavpub.com/WPDL_AczKHfzTWedEHYgmsVsbqXbCShRmkDqhdZmcDvsXVhNbjUNxeJyVdPDFWy-c2.mp3",
+            "url": "https://tk.wavpub.com/WPDL_AczKHfzTWedEHYgmsVsbqXbCShRmkDqhdZmcDvsXVhNbjUNxeJyVdPDFWy.mp3",
             "length": "60171068",
             "type": "audio/mpeg"
           },
@@ -1150,8 +1132,32 @@
             "duration": "4522"
           },
           "enclosure": {
-            "url": "https://tk.wavpub.com/WPDL_FZwVqLyXJTkNVfXmVKpaBajLVrsTBRWGNGLRZWfzSxnmQhueqzRTBESSHS-1e.mp3",
+            "url": "https://tk.wavpub.com/WPDL_FZwVqLyXJTkNVfXmVKpaBajLVrsTBRWGNGLRZWfzSxnmQhueqzRTBESSHS.mp3",
             "length": "90449678",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "狸叶休息室",
+      "feedUrl": "https://rsshub.app/xiaoyuzhou/podcast/64c78b16e8176c3ff823e282",
+      "siteUrl": "https://www.xiaoyuzhoufm.com/podcast/64c78b16e8176c3ff823e282",
+      "articles": [
+        {
+          "id": "https://www.xiaoyuzhoufm.com/episode/65434229d1844a84f27ef5be",
+          "author": null,
+          "description": "双十一终于快要结束了，我们也算是有了一点空闲时间。\n真是毫无营养的内容，两个平台要求在这里写一下我们都聊了什么，真不知道聊了什么。\n下次什么时候？不知道啊，到时候再说吧。",
+          "link": "https://www.xiaoyuzhoufm.com/episode/65434229d1844a84f27ef5be",
+          "publishedOn": "2023-11-02T06:31:05.000Z",
+          "wordCount": null,
+          "title": "这样没有营养的音频导出竟然有1.8个G我们真是精致废物",
+          "itunes": {
+            "duration": "1:32:08"
+          },
+          "enclosure": {
+            "url": "https://media.xyzcdn.net/lq8zRAKV_9Tqx8i3a5hKkRuDYm6Z.m4a",
             "type": "audio/mpeg"
           },
           "imageUrl": null
@@ -1331,24 +1337,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "http://cdn.lizhi.fm/audio/2023/10/12/3036277171174413830_hd.mp3",
-          "author": null,
-          "description": "先gap后工作，野蛮生长成为本期嘉宾Auggie开拓认知地图的重要一步。通常人们认为大只会折射小，其实不然，真正的大世界会让自我变深。进入常规职场建立城池，首先是柔韧的护城河，那些被她抽象看待的软实力；然后是需求和语言的边界，心和嘴都知道你想要什么。讲课是表达，沟通是对称信息，汇报是获得资源——「为自己」有时是间接的过程，而非直接的结果。职场上的「我本位」拒绝巨婴式的精致利己，它是心灵对行动的放行，是超越性地看待要求和对立、评价和成败，将被动高自尊地转换为个人所得。对大部分职场女性来说，放出Ego更有建设性，允许野心发球，影响大局。\n\n \n首先，你得允许。\n\n \n\n\n \n\n\n \n*本系列长期开放品牌赞助，如果你所在的品牌认可该系列的价值观、丰富度，亦或对此好奇、感兴趣，欢迎和我们聊聊，讨论更多的可能性。\n\n \n *点击进入\n   「坏世界·好工作」投稿通道\n  ：坏世界·好工作」投稿通道：关注公号【自由地Wonderland】，点击【正在招募】\n\n \n\n\n \n| 本期对话职场人 |\n\n \nAuggie：职场“我本位”践行者，一直认为工作是实现自我价值的跳板。做过青旅酒吧野生调酒师、英文老师、互联网运营，目前是私域增长顾问。工作是一次次升级打怪的旅程，在旅途中，我当了8年精兵；现在我想，或许自己也可以是大BOSS。\n\n \n\n\n \n| 内容导览 |\n\n \n01:15 八年职场经历概况\n\n \n05:50 gap时认识的奇怪朋友反而能回应最棘手的问题\n\n \n11:43 天生的我本位：做任何事情都很清楚是为了自己\n\n \n14:07 当老师的经验，带老板就像带小孩\n\n \n18:44 沟通的重要在于消除信息不对称\n\n \n25:34 不要把老板放到对立面，ta只是你实现目标的过程\n\n \n30:35 重复性工作的狗屁之处在于没有实现深度练习\n\n \n34:19 亲自选同事，必须气场合；可以有情绪，但让我知道\n\n \n41:52 女性乐于合作共赢，是危机中的生机\n\n \n47:17 需求和语言的边界清晰，拒绝高语境\n\n \n51:41 职场女性应该使用更多确定性语言树立权威 \n\n \n58:18 我本位，从不怕被人讨厌开始\n\n \n1:02:59 普通女性必须夺权才能改变规则\n\n \n1:10:06 把评价自己的权利还给自己，把能力抽象化\n\n \n\n\n \n| 本期提及书影音 |\n\n \n书籍：《百岁人生》 《高效能人士的七个习惯》《创业者的基因》\n\n \n\n\n \n| 本期提及播客 |\n\n \n《Vol.65 二十上头，三十下头》\n  \n\n \n《#024 一年后，和她们再谈谈生活 | 和100个女孩的对话特别版》\n  \n\n \n\n\n \n| 本期音乐 |\n\n \n片头曲：李星宇作品，感谢支持\n\n \n片尾曲：San Narciso - Faded Paper Figures\n\n \n背景音乐歌单\n  \n\n \n\n\n \n| 制作团队 |\n\n \n本期主播\n\n \n夏明明（微博@\n   夏明明2022\n  ）：「明明想读书」主理人、资深媒体人、前大厂人\n\n \n加七宋（微博@\n   加七宋\n  ）：梦想是导演的前制片\n\n \n剪辑包装：加七、一萌\n\n \n封面设计：微博@\n   萝卜咚lobod\n  \n\n \nshownotes：加七\n\n \n\n\n \n| 关注我们 |\n\n \n加入听友群：微信【sysdpodcast】\n\n \n商务合作：微信【YI-Koala】\n\n \n公众号：自由地WonderLand\n\n \n小红书：自由人Libero\n\n \n微信视频号：明明想读书\n\n \n微博：\n   自_由人Libero\n   \n\n \n爱发电：\n   自由人Libero\n   \n\n \n邮箱：sysdpodcast@163.com。长期开放女孩故事、职场问题投稿，及听众来信\n\n \nNewsletter：复制粘贴网址https://liberofm.substack.com/，输入个人邮箱，收到确认邮件后点击订阅\n\n \n\n\n \n播客RSS：https://feed.xyzfm.space/nwcwhjvfxy4y\n\n \n可复制粘贴此链接在Podcast等其他泛用型播客平台收听节目。如果你喜欢自由人Libero，可以在苹果Podcast给我们五星好评，也可以在爱发电和公号推送中的二维码给我们打赏。",
-          "link": "https://www.lizhi.fm/dhp_static/static/h5_dhp_app/share.html#/voice?voiceId=3036277171174413830&podcastId=5171711382630337151",
-          "publishedOn": "2023-10-12T12:00:01.000Z",
-          "wordCount": null,
-          "title": "Vol.87 先有ego然后go！ | 坏世界·好工作",
-          "itunes": {
-            "duration": "4636"
-          },
-          "enclosure": {
-            "url": "http://cdn.lizhi.fm/audio/2023/10/12/3036277171174413830_hd.mp3",
-            "length": "74244597",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1484,42 +1472,6 @@
             "url": "https://jt.ximalaya.com//GKwRIJIJDzPZAvu4BwJzrPDs.m4a?channel=rss&album_id=52344140&track_id=677652237&uid=51214225&jt=https://audio.xmcdn.com/storages/f74c-audiofreehighqps/BB/3B/GKwRIJIJDzPZAvu4BwJzrPDs.m4a"
           },
           "imageUrl": null
-        },
-        {
-          "id": "xmly_track_672888450",
-          "author": null,
-          "description": "2023年6月的希腊世界赛，在世界杯测大赛的决赛现场，当最后一位身着黑衣的小伙拎起手中的最后一杯咖啡，2023世界咖啡杯测大赛的冠军也尘埃落定。主持人难掩激动地咆哮着，现场此起彼伏地欢呼声不绝于耳。这位来自澳洲悉尼的精神小伙，或许怎么也想不到，走到这一步，他仅仅用了4年。\n他叫Young Baek，韩裔新西兰人。网球运动员出身，攻读心理学。而在大学期间，出于对人生方向的思考，机缘巧合下，与朋友结伴来到悉尼；却因囊中羞涩而半推半就地加入了咖啡行业。从懵懂无知到确定方向，似乎是命运的召唤，他的精品咖啡探索之路，走的尤为顺畅。或许是出于运动员的强大意志力训练，目标感由为清晰的他，总能在合适的时间，合适的地点，做出最优的职业规划方案。不得不承认，小哥哥的职业规划能力，堪称咖啡界打工人天花板。\n世界杯测大赛的赛制规程，选用了三角杯测的方式进行。8组咖啡，每组3支；其中一支有别于其他两支，参赛者需要在最快的时间内，找出与众不同的那杯，以此类推，直至完成8轮考验。准确度优先，用时短者获胜。\n这个看似只需要勺子跟嘴的比赛，难易程度却与肉眼所见相距甚远。哪怕是简简单单地喝，都很有讲究。咖啡与咖啡，按不同比例稀释，勾兑，搅拌，打乱次序后放上比赛桌；很多时候，准备这些工作的“幕后黑手们”甚至会将比例调到微乎及微的程度；而这样的考验，对于选手们来说，就是差之毫厘失之千里的较量。\n或许听完本期节目，你会对杯测比赛这件事儿，开始有了兴趣，也想在家自己动手张罗练习，Young也分享了低门槛居家杯测练习的操作方法。拿上杯测勺，一起愉快地Slurp~\n『本期主角』\nYoung Baek 2023 世界咖啡杯测冠军 2022 澳洲咖啡杯测冠军\n\n\n『本期嘉宾』\nYogi \nNumerno Uno 首席咖啡师/烘焙师\nJimmy \n新晋咖啡从业者\nYoung\n\n\n『本期内容』Table of Contents\n…",
-          "link": "https://www.ximalaya.com/sound/672888450",
-          "publishedOn": "2023-10-12T08:38:33.000Z",
-          "wordCount": null,
-          "title": "Vol.46 论世界冠军的养成需要几步-揭秘2023世界杯测冠军Young Baek",
-          "itunes": {
-            "duration": "1:38:08"
-          },
-          "enclosure": {
-            "length": "94217194",
-            "type": "audio/x-m4a",
-            "url": "https://jt.ximalaya.com//GKwRIasI_XQmAtdaJwJrAepV-aacv2-48K.m4a?channel=rss&album_id=52344140&track_id=672888450&uid=51214225&jt=https://audio.xmcdn.com/storages/4175-audiofreehighqps/BF/25/GKwRIasI_XQmAtdaJwJrAepV-aacv2-48K.m4a"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "xmly_track_672879869",
-          "author": null,
-          "description": "Young Baek\n\n\nIn June 2023, at the Greek World Cup, on the finals stage of the World Cup Tasters' Championship, the champion was determined when the last young man in black lifted the final cup of coffee. The host couldn't hide his excitement and roared, while cheers erupted sporadically from the audience. This spirited young man from Sydney, Australia, perhaps never imagined that it would only take him 4 years to get to this point. His name is Young Back, a Korean grew up in New Zealand. Originally a tennis player and psychology student, he and a friend came to Sydney during university while pondering life’s direction and reluctantly joined the coffee industry due to tight finances. From ignorance to certainty, it seems like a call of destiny that his journey exploring specialty coffee wen…",
-          "link": "https://www.ximalaya.com/sound/672879869",
-          "publishedOn": "2023-10-12T08:01:28.000Z",
-          "wordCount": null,
-          "title": "Vol.45 Cup Taster is fun? Interview with 2023 World Cup Taster Champion",
-          "itunes": {
-            "duration": "1:41:37"
-          },
-          "enclosure": {
-            "length": "97567972",
-            "type": "audio/x-m4a",
-            "url": "https://jt.ximalaya.com//GKwRIJII_WuIAvE4ywJq-7EI-aacv2-48K.m4a?channel=rss&album_id=52344140&track_id=672879869&uid=51214225&jt=https://audio.xmcdn.com/storages/9854-audiofreehighqps/BD/38/GKwRIJII_WuIAvE4ywJq-7EI-aacv2-48K.m4a"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1553,6 +1505,24 @@
       "feedUrl": "https://www.ximalaya.com/album/68228204.xml",
       "siteUrl": "https://www.ximalaya.com/album/68228204",
       "articles": [
+        {
+          "id": "xmly_track_683020242",
+          "author": null,
+          "description": "最近俺们几个的状态都是——「精神绝经」。\n具体表现为对外在的人或事关注减少，更倾向沉浸于自己的小宇宙中。\n「精神绝经」在大家身上的具体体现各不相同。\n曾经把朋友当成“爱情猎头”的姜姜，最近找到了幸福样本的新可能；\n被誉为“男大杀手”的笼七，已经不想要丰富多样的感情；\n奇妙关了半年朋友圈，整个状态就是“讨厌人类”；\n牛小玲以前一晚上打60个电话，现在听不得一点污糟的感情。\n其实这期本来想给大家分享下「精神绝经」的快乐，结果录制过程中我们集体破防；\n后半段给大家预告一下，有听emo的可能；\n最近我总把自己想象成一株植物，环境是会影响我长高长大伸展更多的枝蔓，但还能在冷风中存活，我觉得自己挺棒的，你也挺棒的。\n昨天看《快乐老友记》里有句话挺好的：至少今天很开心。\n祝你今天开心，至少今天。\n�内容摘要：\n01:29 阶段性精神绝经，我每天删三个好友\n04:24 对两性关系没啥感觉了？当场破案\n17:02 29岁母胎solo，我花1000元诚招一日男友\n24:04 男女关系像做题，这门考试姐罢考了！\n31:02 室友把老公当儿子养，是幸福范本or虚假光晕？\n40:04 做饭泡脚煲汤，平静生活的快乐我抓住了\n42:45 集体破防！所以长大的感觉就是这样吗？\n53:55 青年危机：我们不敢有期待了\n55:49 人生是干秃的狂野，一切都被轻描淡写\n56:46 买“随心飞”，就是给自己买个念想\n�️本期主播：奇妙、姜姜、牛小玲、笼七\n剪辑：小鸭绒\n视觉：Jane\n�背景音乐-来自平台musicbed\nBreathing it in-Peached\nBelieve me- Dalton Day",
+          "link": "https://www.ximalaya.com/sound/683020242",
+          "publishedOn": "2023-11-10T09:22:50.000Z",
+          "wordCount": null,
+          "title": "在27岁这个当口，我们不约而同「精神绝经」了",
+          "itunes": {
+            "duration": "1:02:49"
+          },
+          "enclosure": {
+            "length": "60433165",
+            "type": "audio/x-m4a",
+            "url": "https://jt.ximalaya.com//GKwRIRwJI7nWAdGe9gJ7XIo7.m4a?channel=rss&album_id=68228204&track_id=683020242&uid=407209968&jt=https://audio.xmcdn.com/storages/2c7e-audiofreehighqps/D6/35/GKwRIRwJI7nWAdGe9gJ7XIo7.m4a"
+          },
+          "imageUrl": null
+        },
         {
           "id": "xmly_track_680716706",
           "author": null,
