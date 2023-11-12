@@ -382,24 +382,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "fba42de6-b81e-48dc-92e1-b4baa06609e5",
-          "author": "放晴公园",
-          "description": "这个世界的问题那么多，究竟应该怎样一个个去解决？其实，在世界的每一个角落，几乎都有人在用自己创造力和行动力，去探索各种问题的解法。在放晴公园里，我们要做的就是讲述这些人的故事，分享修补世界的方法。我们相信，把这些故事更多地传递出去，不仅是让我们在心理层面觉得更有希望，也会给这个世界带来实实在在的改变，因为会有更多人得到启发和激励，将问题的解法不断优化和传递下去。\n《放晴早安》由「放晴公园」制作播出，是一档以「解困式报道」（solutions journalism）为理念的节目。我们的第三季节目由香港中文大学社会科学学院「社会科学与创新实践」（CU-ASK）辅修项目支持。",
-          "link": "https://sunshine.fireside.fm/106",
-          "publishedOn": "2023-10-12T23:00:00.000Z",
-          "wordCount": null,
-          "title": "在嘈杂的网络世界，我们需要更多“公园”｜第三季发刊词",
-          "itunes": {
-            "duration": "16:18"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/e0f2e192-ad76-4431-942c-c290cfbcda1f/fba42de6-b81e-48dc-92e1-b4baa06609e5.mp3",
-            "length": "23483929",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -767,24 +749,6 @@
             "length": "21312421"
           },
           "imageUrl": null
-        },
-        {
-          "id": "8695b800-12be-4126-8a12-524868193458",
-          "author": null,
-          "description": "胖东来诞生在河南省许昌市，二十多年来从烟酒店逐渐成长为一家覆盖连锁超市、百货商场等业态的零售企业。胖东来目前有十多家门店，但都只开在河南的许昌和新乡两座城市。胖东来的经营模式是什么样的？为什么胖东来一直不扩张？本期的咖啡豆回复就与之相关 [07:42]。你了解过河南超市胖东来吗？你身边有没有类似这样的区域性的连锁超市呢？在评论区和我们一起聊聊吧。\n本期还有关于TikTok、三星电子、埃克森美孚、IMAX 中国和 vivo 的新动态 [01:51]，欢迎收听！\n加入我们\n声动早咖啡节目组正在招聘内容研究岗位的实习生。如果你身处北京，并且愿意在四个月的时间里和我们一起追踪全球商业科技动态，欢迎 点击链接 来查看详细的职位信息和申请方式。\n\n9 月的最后一个周五，我们发布了早咖啡上个月的「月考」，你可以 点击这里 查看「月考」的答案。每个月的月底我们都会回顾过去 30 天重要的商业科技动态，提出 5 个早咖啡节目中提到的问题，我们也会为率先回答对全部问题的朋友送出小礼品。\n主播\nMengyi\n幕后制作\n监制：Zelin、Qianwen\n实习研究员：盔盔、柚米、Yoki\n运营：瑞涵\n后期：Jack\n商业内容策划：Nene\n封面设计：饭团\n\n声动商务会客厅 ｜招聘入口｜给早咖啡投稿｜加入会员计划\n「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。\n\n我们还有这些播客：声东击西、What's Next｜科技早知道、商业WHY酱、跳进兔子洞、吃喝玩乐了不起、泡腾 VC 、反潮流俱乐部\n如果你喜欢我们的节目，欢迎 打赏 支持，或把我们的节目推荐给朋友",
-          "link": "https://www.xiaoyuzhoufm.com/episode/65287ab78fb4ff7651406a2a?utm_source=rss",
-          "publishedOn": "2023-10-12T23:00:00.000Z",
-          "wordCount": null,
-          "title": "咖啡豆｜「超市界天花板」之一的胖东来，为何坚持不走出河南？",
-          "itunes": {
-            "duration": "00:16:58"
-          },
-          "enclosure": {
-            "url": "https://dts-api.xiaoyuzhoufm.com/track/60de7c003dd577b40d5a40f3/65287ab78fb4ff7651406a2a/media.xyzcdn.net/lh2Phy4skqHcZMffWwWHCScGtYAP.m4a?from=axios/0.27.2",
-            "type": "audio/mp4",
-            "length": "24635724"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1114,7 +1078,7 @@
             "duration": "2048"
           },
           "enclosure": {
-            "url": "https://tk.wavpub.com/WPDL_YkNrKDPvpqcSDMbNYwfCcZsgztfZkMKJytBBaSdhTkktnkRaryScnsBrkv.mp3",
+            "url": "https://tk.wavpub.com/WPDL_YkNrKDPvpqcSDMbNYwfCcZsgztfZkMKJytBBaSdhTkktnkRaryScnsBrkv-4f.mp3",
             "length": "81905976",
             "type": "audio/mpeg"
           },
@@ -1352,6 +1316,24 @@
       "siteUrl": "https://www.ximalaya.com/album/64689453",
       "articles": [
         {
+          "id": "xmly_track_683323220",
+          "author": null,
+          "description": "权倾朝野又深陷党争风波的宰相大人，您也爱聊志怪故事吗？\n\n\n鲁迅认为“选传奇之文，荟萃为一集者，在唐代多有，而煊赫莫如《玄怪录》”。\n\n\n看惯了传统志怪故事里酸唧唧的穷书生和漂亮女鬼的故事，想来点不一样的？本期咱们就一起了解一下《玄怪录》这本“太牢之笔”写成的奇书吧！\n\n\n｜song list｜\n片头曲：梅林茂 - 五芒星\n片尾曲：Ylvis -The Fox\n\n\n/ 听友群 /\n《蜜獾吃书》听友群现已正式开放！进群方式：在「日谈公园」公众号后台发送“李小谈”，长按识别名片二维码添加，备注蜜獾吃书，即可进群～\n/ 商务合作 /\n欢迎发邮件至 bbpark@ritanbbpark.com",
+          "link": "https://www.ximalaya.com/sound/683323220",
+          "publishedOn": "2023-11-11T14:00:00.000Z",
+          "wordCount": null,
+          "title": "vol.76 玄怪录:晚唐党争?没耽误宰相写大马猴的故事",
+          "itunes": {
+            "duration": "1:23:46"
+          },
+          "enclosure": {
+            "length": "120451446",
+            "type": "audio/x-m4a",
+            "url": "https://jt.ximalaya.com//GKwRIasJJQoMAmzSYwJ70fTJ-aacv2-48K.m4a?channel=rss&album_id=64689453&track_id=683323220&uid=402532070&jt=https://audio.xmcdn.com/storages/aff1-audiofreehighqps/48/C7/GKwRIasJJQoMAmzSYwJ70fTJ-aacv2-48K.m4a"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "xmly_track_681010087",
           "author": null,
           "description": "长期以来，鲁迅作为左翼作家为世人所熟知，呈现在面我们前的是一副反对封建礼教的文学斗士形象。然而他的面相果真如此单一吗？\n\n\n我们往往会在赞叹那些犀利言辞的同时，忘记鲁迅的写作也有其时代背景。\n在他辞世那年才集结成的《故事新编》里，那些离奇而古老的故事里，我们或许能一窥主流观点之下涌动的暗流（还有他和人撕逼时的阴阳怪气）。\n\n\n本期主要参考资料为《起死与采薇》（祝宇红 著 华东师范大学出版社）\n\n\n｜song list｜\n片头曲：袁牧之 - 西洋镜歌\n片尾曲：片尾曲：Andrew Bird - Sisyphus\n\n/ 节目中提到的其他作品 /\n《中国小说史略》（作者：鲁迅）\n《破恶声论》（作者：鲁迅）\n《女神》（作者：郭沫若）\n《洪水时代》（作者：郭沫若）\n《孤竹君之二子》（作者：郭沫若）\n《民族的杰作——悼念鲁迅先生》（作者：郭沫若）\n\n\n/ 听友群 /\n《蜜獾吃书》听友群现已正式开放！进群方式：在「日谈公园」公众号后台发送“李小谈”，长按识别名片二维码添加，备注蜜獾吃书，即可进群～\n/ 商务合作 /\n欢迎发邮件至 bbpark@ritanbbpark.com",
@@ -1574,24 +1556,6 @@
             "length": "50649919",
             "type": "audio/x-m4a",
             "url": "https://jt.ximalaya.com//GKwRIUEJB9wBAYbW-QJwafZj-aacv2-48K.m4a?channel=rss&album_id=68228204&track_id=675458561&uid=407209968&jt=https://audio.xmcdn.com/storages/49cf-audiofreehighqps/44/DF/GKwRIUEJB9wBAYbW-QJwafZj-aacv2-48K.m4a"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "xmly_track_673194609",
-          "author": null,
-          "description": "朋友们！！时隔五个月，咱「火上浇友�」栏目继孔大山之后终于迎来了第二位嘉宾！\n让我们掌声�欢迎麻园诗人乐队的主唱——苦果！\n看过这季乐夏的朋友，肯定对麻园诗人的“破音式”唱腔很熟悉；\n或者被《黑白色》和《彩虹的微笑》给整哭了；\n没看这季乐夏的朋友，在短视频平台或多或少都听过《泸沽湖》！\n本期我们就和苦果聊了聊乐夏、上班、摇滚和云南菌子～\n速速收听本期播客，在连上七天班终于迎来的伟大周五，一起摇滚！\n\n�内容摘要：\n01:22 “破音式”唱腔是怎样炼成的？\n13:48 麻园诗人最嫉妒的乐队竟然是？？？\n14:36 灵魂发问：你摇滚吗？你能为摇滚付出什么？\n15:32 搞艺术必须得穷吗？\n19:54 “网红歌曲、网红乐队”，这算不算骂人\n28:32 广告文案辞职搞乐队，当年没有五险一金\n30:12 你再摇滚当初打工也得打卡，迟到也得扣钱\n40:06 心中的乐队鄙视链，有吗？\n45:44 参加乐夏，为了钱？为了流量？\n\n�️本期主播：姜姜、牛小玲、安妮\n\n剪辑：小鸭绒\n视觉：Jane\n\n�背景音乐：\n\nBreathing it in-Peached\n《彩虹的微笑》——麻园诗人\n《黑白色》——麻园诗人\n《晚安》——麻园诗人",
-          "link": "https://www.ximalaya.com/sound/673194609",
-          "publishedOn": "2023-10-13T08:40:36.000Z",
-          "wordCount": null,
-          "title": "麻园诗人苦果：不上几年班都写不出这么苦的歌儿！|火上浇友02",
-          "itunes": {
-            "duration": "55:06"
-          },
-          "enclosure": {
-            "length": "53088109",
-            "type": "audio/x-m4a",
-            "url": "https://jt.ximalaya.com//GKwRIasI_sX0AZhl2gJrrEe_.m4a?channel=rss&album_id=68228204&track_id=673194609&uid=407209968&jt=https://audio.xmcdn.com/storages/c533-audiofreehighqps/81/EC/GKwRIasI_sX0AZhl2gJrrEe_.m4a"
           },
           "imageUrl": null
         }
