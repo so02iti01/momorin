@@ -6,6 +6,24 @@
       "siteUrl": "https://sunshine.fireside.fm",
       "articles": [
         {
+          "id": "f43fdd1d-8fc1-436c-a1d1-753948282b30",
+          "author": "放晴公园",
+          "description": "☀️ 本期放晴故事\n前段时间，全球最炙手可热的人工智能公司OpenAI的CEO Sam Altman突然被解雇，之后又回归，这桩大戏可能很多人都追过了。其实，在戏码的惊奇甚至狗血之外，这次事件有一个很核心的议题，那就是对AI发展过快，伤害人类的担忧。\n避免伤害，这是一种很重要的思考角度。而另一种同样重要的思考角度就是：我们能不能把强大的AI，用在真正有益于人类的领域，比如环境、健康、教育这些问题上呢？\n延伸阅读\n- The Future of Recycling Is Sorty McSortface (https://www.theatlantic.com/technology/archive/2023/08/ai-recycling-bots/675037/)\n- Google DeepMind AI speeds up search for disease genes (https://www.bbc.com/news/science-environment-66847977)\n- AI for Earth Grantee Profile (https://ai4edatasetspublicassets.blob.core.windows.net/grantee-profiles/African%20Parks_Africa_Conservation_AI%20for%20Earth%20Grantee%20Profile_Final.pdf)\n☀️ 改变自己的100件小事\n09:20 如何善用自己的“坏习惯”\n- Be bad, better – from anger to laziness, how to put your worst habits to good use (https://www.theguardian.com/lifeandstyle/2022/jan/01/be-bad-better-from-anger-to-laziness-how-to-put-your-worst-habits-to-good-use)\n☀️ 往期节目\n299. 如何通过Ai减少食物浪费？| 0923 (https://sunshine.fireside.fm/52)\ns3e19. 穿上特制的服装，聋人也可以听见音乐｜1109 (https://sunshine.fireside.fm/123)\n☀️\n本期制作\n主播：王艺雯\n文稿撰写：贾静晗、祝福\n文稿编辑：方可成\n后期：曹睿清\n运营：贾静晗\n《放晴早安》由「放晴公园」制作播出，是一档以「解困式报道」（solutions journalism）为理念的节目。我们的第三季节目由香港中文大学社会科学学院「社会科学与创新实践」（CU-ASK）辅修项目支持。",
+          "link": "https://sunshine.fireside.fm/143",
+          "publishedOn": "2023-11-29T23:00:00.000Z",
+          "wordCount": null,
+          "title": "s3e34. 怎样用AI造福世界？｜1130",
+          "itunes": {
+            "duration": "13:40"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/e0f2e192-ad76-4431-942c-c290cfbcda1f/f43fdd1d-8fc1-436c-a1d1-753948282b30.mp3",
+            "length": "10241671",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "bc5f11cc-8303-40ac-9e1b-85e155a0ae9c",
           "author": "放晴公园",
           "description": "☀️ 本期放晴故事\n你有没有被无处不在的“爹味”困扰过？今天，祝福和Mandy两位主播会带来一期有点不一样的对话节目，她们会聊聊“爹味”这个词的含义，还有自己被“爹”到的经历。她们也会探讨，既然“爹味”被如此诟病，它为什么还会广泛存在，以及“爹味”到底是从哪来的。当然了，如果你觉得自己也有变“爹”的倾向，她们也会给出一些建议，帮助你摆脱“爹味”。\n延伸阅读\n- 丽贝卡·索尔尼特的书：《爱说教的男人》 (https://book.douban.com/subject/30438861/)\n- 老舍：《有了小孩以后》 (https://www.wenxuecity.com/blog/201601/61334/524485.html)\n☀️ 改变自己的100件小事\n19:53 如果一直做不了决定怎么办？\n- 高效做出决策的方法 (https://www.forbes.com/sites/forbescoachescouncil/2021/07/01/nine-effective-ways-for-company-leaders-to-beat-analysis-paralysis/?sh=5f006abc2658)\n☀️ 往期节目\n309. 什么是女孩教育，它能改善什么？｜1012 (https://www.xiaoyuzhoufm.com/episode/6345f8d6c17da9852db9d56a)\ns3e12. 男性孤独，拥抱脆弱的自己｜1031 (https://www.xiaoyuzhoufm.com/episode/654037dab1858573ecdcef3c)\n☀️\n本期制作\n主播：祝福、王艺雯\n文稿撰写：王艺雯、祝福、张紫涵\n文稿编辑：方可成\n后期：曹睿清\n运营：周闻晓\n《放晴早安》由「放晴公园」制作播出，是一档以「解困式报道」（solutions journalism）为理念的节目。我们的第三季节目由香港中文大学社会科学学院「社会科学与创新实践」（CU-ASK）辅修项目支持。",
@@ -436,24 +454,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "932e5dfc-f5ac-467e-9a86-aa320b5c1bbf",
-          "author": "放晴公园",
-          "description": "️☀️ 本期放晴故事\n很久以来，孤独、敏感、脆弱等情绪总是更多地跟女性联系在一起，亲密的友谊也更多地指向女性之间的闺蜜情。而社会文化也一直对男性有种隐形的规训，比如男性就应该隐忍、刚强和坚毅，不应该展示自己的脆弱。不过，根据很多机构的调查显示，男性其实也渴望寻求情绪上的支持，并且希望和他人建立深刻的友谊，只不过，这种需求往往被传统社会所提倡的“男子气概”抑制。在美国，就有一个组织叫做EVRYMAN，致力于帮助男性挣脱出这种“有毒的男子气概”的束缚，他们开展各种各样的活动帮助男性讨论自己的感受并缓解孤独。欢迎收听本期放晴早安，了解EVRYMAN的发展故事。\n\n图源：ABC news\n延伸阅读\n- EVRYMAN的故事 (https://www.insider.com/evryman-mens-group-loneliness-feelings-therapy-2023-8)\n- Work and the Loneliness Epidemic - 工作与孤独流行病 (https://hbr.org/2017/09/work-and-the-loneliness-epidemic)\n- 男性健康的最大威胁不是肥胖或吸烟，而是孤独 (https://www.bostonglobe.com/magazine/2017/03/09/the-biggest-threat-facing-middle-age-men-isn-smoking-obesity-loneliness/k6saC9FnnHQCUbf5mJ8okL/story.html)\n️☀️ 改变自己的100件小事\n12:12 如何面对焦虑、压力和应激反应\n- Exploring mindfulness and the 5-4-3-2-1 grounding activity - 正念探索和5-4-3-2-1 落地活动 (https://hbr.org/2017/09/work-and-the-loneliness-epidemic)\n️☀️ 往期节目\n321. 什么是玩具里的性别偏见｜1028 (https://www.xiaoyuzhoufm.com/episode/635b10c15e61cb62e2d493b2)\n☀️\n本期制作\n主播：祝福\n文稿撰写：陈婧怡、张紫涵\n文稿编辑：方可成\n后期：曹睿清\n运营：王子诣\n《放晴早安》由「放晴公园」制作播出，是一档以「解困式报道」（solutions journalism）为理念的节目。我们的第三季节目由香港中文大学社会科学学院「社会科学与创新实践」（CU-ASK）辅修项目支持。",
-          "link": "https://sunshine.fireside.fm/117",
-          "publishedOn": "2023-10-30T23:00:00.000Z",
-          "wordCount": null,
-          "title": "s3e12. 男性孤独，拥抱脆弱的自己｜1031",
-          "itunes": {
-            "duration": "16:58"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/e0f2e192-ad76-4431-942c-c290cfbcda1f/932e5dfc-f5ac-467e-9a86-aa320b5c1bbf.mp3",
-            "length": "24831489",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -462,6 +462,24 @@
       "feedUrl": "https://feed.xyzfm.space/q88qwmydeuw8",
       "siteUrl": "https://www.xiaoyuzhoufm.com/podcast/60de7c003dd577b40d5a40f3?utm_source=rss",
       "articles": [
+        {
+          "id": "6567187136f7c4e74e03e426",
+          "author": null,
+          "description": "本期早咖啡为你带来与日常生活息息相关的商业科技动态，你将会听到：\n  \n拼多多三季度收入接近翻倍\n  \n传奇投资人查理芒格去世\n  \n华为向四家智选车公司发出投资邀请\n  \n亚马逊推出 AI 聊天机器人\n\n本期还有关于美团、滴滴、苹果、微信和抖音的新动态，欢迎收听！\n主播\nMengyi\n幕后制作\n监制：Zelin、Qianwen\n实习研究员：柚米、Yoki、糕糕\n运营：瑞涵\n后期：Jack\n商业内容策划：Nene\n封面设计：饭团\n\n声动商务会客厅｜招聘入口｜给早咖啡投稿｜加入会员计划\n\n欢迎扫码添加声小音，在节目之外和我们保持联系。\n「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。\n  \n我们还有这些播客：声东击西、What's Next｜科技早知道、声动早咖啡、商业WHY酱、跳进兔子洞、吃喝玩乐了不起、泡腾 VC 、反潮流俱乐部\n  \n如果你喜欢我们的节目，欢迎 打赏 支持，或把我们的节目推荐给朋友",
+          "link": "https://www.xiaoyuzhoufm.com/episode/6567187136f7c4e74e03e426?utm_source=rss",
+          "publishedOn": "2023-11-29T23:00:00.000Z",
+          "wordCount": null,
+          "title": "拼多多市值逼近阿里，传奇投资人芒格逝世",
+          "itunes": {
+            "duration": "00:10:41"
+          },
+          "enclosure": {
+            "url": "https://dts-api.xiaoyuzhoufm.com/track/60de7c003dd577b40d5a40f3/6567187136f7c4e74e03e426/media.xyzcdn.net/ltB7L89NxOKlyOTkMLGpCJrimvEB.m4a?from=axios/0.27.2",
+            "type": "audio/mp4",
+            "length": "15504559"
+          },
+          "imageUrl": null
+        },
         {
           "id": "6565c8149f440f5443c5fa90",
           "author": null,
@@ -839,24 +857,6 @@
             "length": "22467737"
           },
           "imageUrl": null
-        },
-        {
-          "id": "653f88be6c393dcb4f429bab",
-          "author": null,
-          "description": "本期早咖啡为你带来与日常生活息息相关的商业科技动态，你将会听到：\n  \n美国汽车工人协会与福特、Stellantis 达成初步协议\n  \n谷歌向 AI 初创公司 Anthropic 投资 20 亿美元\n  \n欧盟抽样选取比亚迪等三家车企开展反补贴调查\n  \n美国加州暂停通用 Cruise 自动驾驶汽车上路\n\n本期还有关于 OpenAI 、华为、TikTok 和 iMax 的新动态，欢迎收听！\n加入我们\n声动早咖啡节目组正在招聘内容研究岗位的实习生。如果你身处北京，并且愿意在四个月的时间里和我们一起追踪全球商业科技动态，欢迎 点击链接 来查看详细的职位信息和申请方式。\n主播\nMengyi\n幕后制作\n监制：Zelin、Qianwen\n实习研究员：柚米、Yoki\n运营：瑞涵\n后期：Jack\n商业内容策划：Nene\n封面设计：饭团\n\n声动商务会客厅｜招聘入口｜给早咖啡投稿｜加入会员计划\n「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。\n  \n我们还有这些播客：声东击西、What's Next｜科技早知道、声动早咖啡、商业WHY酱、跳进兔子洞、吃喝玩乐了不起、泡腾 VC 、反潮流俱乐部\n  \n如果你喜欢我们的节目，欢迎 打赏 支持，或把我们的节目推荐给朋友",
-          "link": "https://www.xiaoyuzhoufm.com/episode/653f88be6c393dcb4f429bab?utm_source=rss",
-          "publishedOn": "2023-10-30T23:00:00.000Z",
-          "wordCount": null,
-          "title": "ChatGPT 对手再获谷歌投资，OpenAI 组团队防范 AI 风险",
-          "itunes": {
-            "duration": "00:10:32"
-          },
-          "enclosure": {
-            "url": "https://dts-api.xiaoyuzhoufm.com/track/60de7c003dd577b40d5a40f3/653f88be6c393dcb4f429bab/media.xyzcdn.net/lmChs0APv7hEym-aptqxhm6MP0DO.m4a?from=axios/0.27.2",
-            "type": "audio/mp4",
-            "length": "15296317"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -916,24 +916,6 @@
             "url": "https://dts-api.xiaoyuzhoufm.com/track/5e285326418a84a04627343f/6541c12b3c0b0c6de43068f7/media.xyzcdn.net/lkItnrPFPDvUh00TWjOsWNB82iIx.m4a?from=axios/0.27.2",
             "type": "audio/mp4",
             "length": "110278021"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "653f6dbf9cb67569a2ed13cb",
-          "author": null,
-          "description": "欢迎收听本期「汉字」演讲，厘清一些似是而非的「常识」。\n葛亮，古文字研究者，上海博物馆副研究馆员。\n\n在研究古汉字的过程中，葛亮通过甲骨、金文、简帛等出土文献分析汉字源流与演变规律，发现今天的很多“常识”，实际是反常识的误区，不一定符合古人造字和书写的方式。\n语言中很多抽象概念很难画出具体形象，我们认为的会意字也可能不是看上去的含义。那么古人到底是怎样创造汉字的？“家”是根据屋里养猪而生活富足的意思造出来的吗？\n当古人面对各种生活需求，很多时候会跟我们做出一样的选择。所以我们看待过去的关键是回归常识，“把古人当人看”，也以更真实的方式理解我们自己。\n  \n【一些图片】\n\n  \n【时间轴】\n\n03:30 你不认识的古文字，汉代以后的人基本也不认识\n05:28 一些看着没问题的「常识」，其实都经不起推敲\n08:33 商朝人也用毛笔写字\n12:50 时间、意识、情感、观念，这些画不出来的东西怎么办？\n14:40「我」是一种兵器\n\n16:59「令」是口对着跪着的人说话\n\n17:22「今」是为「噤」而造\n\n18:48「家」里不是一头普通的猪\n\n21:10 只有把画不出来的问题解决了，才可能真正记录语言\n23:12 无趣才能稳定，稳定才能长久\n25:04就突出那么一点儿，还不够有意思吗？\n  \n【更多汉字常识】\n\n欢迎加🛒：葛亮著《汉字再发现：从旧识到新知》",
-          "link": "https://www.xiaoyuzhoufm.com/episode/653f6dbf9cb67569a2ed13cb?utm_source=rss",
-          "publishedOn": "2023-10-31T01:00:00.000Z",
-          "wordCount": null,
-          "title": "葛亮：一种文字只有把画不出来的问题解决了，才有可能真正记录语言",
-          "itunes": {
-            "duration": "00:26:02"
-          },
-          "enclosure": {
-            "url": "https://dts-api.xiaoyuzhoufm.com/track/5e285326418a84a04627343f/653f6dbf9cb67569a2ed13cb/media.xyzcdn.net/lpMlJOXbtvgYy1-1z7TlwmHTczV2.m4a?from=axios/0.27.2",
-            "type": "audio/mp4",
-            "length": "20722664"
           },
           "imageUrl": null
         }
@@ -1066,6 +1048,24 @@
       "feedUrl": "https://storyfm.cn/feed/episodes",
       "siteUrl": "https://storyfm.cn/",
       "articles": [
+        {
+          "id": "https://hosting.wavpub.cn/storyfm/?p=3570",
+          "author": null,
+          "description": "故事FM ❜ 第 769 期\n在今年的《乐队的夏天第三季》中，摇滚乐队二手玫瑰获得了本届第一名，这也让很多观众更加了解了他们。\n提起主唱梁龙，大多数歌迷的心中都会出现这样一个画面——一位妆容「精致」的中年男子，带着多彩斑斓的舞台造型，戏谑地唱着人生。\n讲起梁龙的故事，都要回到东北黑龙江省齐齐哈尔市的那片黑土地上。那个时候，他只是一个做梦的少年。\n在时代浪潮的冲击下，梁龙跟很多同时代的东北人一样，好像生来就是为了离开东北。而作为一个有摇滚梦的少年，他面临的现实困境更加复杂。\n\n/Staff/\n讲述者 | 梁龙\n制作人 | 赵臻怡\n主播 | @寇爱哲\n声音设计 | 桑泉\n文案整理 | 赵臻怡 陈凯悦\n运营 | Yoyo 鸣鸣\n/BGM List/\n01.Story FM Theme Acoustic version 01 – 桑泉\n02.超爱吃鱼头 – 桑泉\n03.招安 – 二手玫瑰乐队\n04.采花 – 二手玫瑰乐队\n05.伎俩 – 二手玫瑰乐队\n06.允许部分艺术家先富起来 – 二手玫瑰乐队\n用你的声音，讲述你的故事。故事FM 是一档亲历者自述的声音节目。在以下渠道均可收听我们的节目：\n苹果播客 | 网易云音乐 | 喜马拉雅\n蜻蜓FM | 荔枝FM | 懒人听书\n小宇宙 | QQ音乐 | 酷狗音乐 | 酷我音乐\nSpotify | Google Podcast\n微信公众号：故事FM (ID: story_fm)\n新浪微博：@故事FM_StoryFM\n个人微信号：gushi_fm02",
+          "link": "https://hosting.wavpub.cn/storyfm/2023/11/29/e769-%e4%ba%8c%e6%89%8b%e7%8e%ab%e7%91%b0%e6%a2%81%e9%be%99%ef%bc%9a%e5%bd%93%e4%bf%9d%e5%ae%89%e7%9a%84%e9%bd%90%e9%bd%90%e5%93%88%e5%b0%94%e5%b0%91%e5%b9%b4%e6%88%90%e4%b8%ba%e6%91%87%e6%bb%9a/",
+          "publishedOn": "2023-11-29T08:54:04.000Z",
+          "wordCount": null,
+          "title": "E769.二手玫瑰梁龙：当保安的齐齐哈尔少年成为摇滚教母￼",
+          "itunes": {
+            "duration": "3100"
+          },
+          "enclosure": {
+            "url": "https://tk.wavpub.com/WPDL_GessVteGRUPXrSAYWvBKNrAGKMLZVDtBsqfzGLNhJtDdqmTfvxBhWCPzTH-fc.mp3",
+            "length": "123996924",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://hosting.wavpub.cn/storyfm/?p=3566",
           "author": null,
@@ -1431,6 +1431,24 @@
       "siteUrl": "https://www.ximalaya.com/album/40546459",
       "articles": [
         {
+          "id": "xmly_track_686283534",
+          "author": null,
+          "description": "雨前在错过最佳赏味期的DV之后一直挠心挠肺，于是我们最近讨论了这个问题。如果能未卜先知，知道不同餐厅什么时候最好吃，是不是就能吃到更多好东西啦！\n\n\n【本期时间轴】\n1:01 最近我们都吃了啥\n提及餐厅：十八总正宗老坛雪水臭干子店（湘潭），乐福酒馆（北京），天都里（北京），七福神（北京）\n14:30 餐厅有没有最佳赏味期？——初出茅庐的可能性\n提及餐厅：DA VITTORIO（上海），bistro 3（北京，已关店），EQ-Librium（北京），宴锦堂（北京），Ling Long（北京）\n24:07 ——可能有点叛逆，但茁壮成长的青年期\n提及餐厅：壮壮酒馆 Bistro Strong（北京）\n26:43 ——茂盛的壮年，已经获得了一些世俗意义上的成功\n提及餐厅：金沙厅（杭州），湖滨28（杭州），El Celler de Can Roca（西班牙），Noma（丹麦），晟永兴（北京），DA VITTORIO（上海），头灶（上海）\n47:37 ——由盛而衰，且吃且珍惜\n提及餐厅：大董（北京），天香楼（香港），京味（东京，已关店）\n55:05 ——新生，新的希望和继承\n提及餐厅：井雪（东京），川田（东京）",
+          "link": "https://www.ximalaya.com/sound/686283534",
+          "publishedOn": "2023-11-30T00:00:00.000Z",
+          "wordCount": null,
+          "title": "四十四期——餐厅有没有最佳赏味期？",
+          "itunes": {
+            "duration": "1:02:50"
+          },
+          "enclosure": {
+            "length": "90357256",
+            "type": "audio/x-m4a",
+            "url": "https://jt.ximalaya.com//GKwRIMAJMM2DAdG2cgJ_5ACD.m4a?channel=rss&album_id=40546459&track_id=686283534&uid=42414589&jt=https://audio.xmcdn.com/storages/d32c-audiofreehighqps/6E/5A/GKwRIMAJMM2DAdG2cgJ_5ACD.m4a"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "xmly_track_679702163",
           "author": null,
           "description": "10月十分充实，我们分头吃了不少餐厅，也一起探了很多新店。\n并不是头一次发现，很多餐厅的宣传词非常的……刁钻？奇特？有煽动性？三言两语很难形容，只能根据我们最近吃过的餐厅，来讨论一下它们的宣传语是戳中了我们，还是劝退了我们。\n【本期时间轴】\n3:48 田螺：短暂的香港潮菜之旅\n6:02 雨前：上海意餐寻梦之旅\n21:05 为什么可以相信意大利的妈妈的味道\n25:41 雨前：号称小意大利的青田\n33:36 田螺：北京新吃到的地方菜\n37:13 听说用雪水发酵臭豆腐，妙玉的棺材盖都压不住了",
@@ -1480,6 +1498,24 @@
       "feedUrl": "http://rss.lizhi.fm/rss/60164802.xml",
       "siteUrl": "http://www.lizhi.fm",
       "articles": [
+        {
+          "id": "http://cdn.lizhi.fm/audio/2023/11/29/3045197601658704902_hd.mp3",
+          "author": null,
+          "description": "脆皮儿男女们的期末考试——体检，今年大家的得分如何？听这一期，浅浅读懂其中的考试项目，以及了解以后要如何备考。\n\n \n01:45 体检：我人可以 口，但我的体检报告不能有 ↑ ↓\n\n \n体检前的准备工作：\n\n \n03:24 多久不吃才算空腹？每日用药体检当天还吃吗？着装也有讲究的\n\n \n常规的体检项目和结果的解读：\n\n \n11:20 血、尿、便 三大常规\n\n \n20:50 肝功能：瘦子也有脂肪肝？\n\n \n22:50 肾功能：痛风的劲敌——直男，ps 多喝热水真不是坏事儿\n\n \n26:45 血糖 血脂：不建议全素食，因为我们需要“清道夫”脂蛋白（瘦人非酒精性脂肪性肝病Lean NAFLD）\n\n \n31:38 情绪病：结节。忍一时越想越气，退一步狂长结节\n\n \n34:00 肿瘤标志物\n\n \n37:50 影像学检查：最怕大夫叹气，空气忽然安静\n\n \n体检项目套餐：\n\n \n43:58 不同性别、年龄层、高危人群都有不同的添加项目（见最下方图）\n\n \n48:45 体检机构or公立医院体检科\n\n \n52:10 相信我们身体的第六感",
+          "link": "https://www.lizhi.fm/dhp_static/static/h5_dhp_app/share.html#/voice?voiceId=3045197601658704902&podcastId=5326703388531103359",
+          "publishedOn": "2023-11-29T11:51:47.000Z",
+          "wordCount": null,
+          "title": "Vol.62 体检, 听这期就够...也不太够反正",
+          "itunes": {
+            "duration": "3308"
+          },
+          "enclosure": {
+            "url": "http://cdn.lizhi.fm/audio/2023/11/29/3045197601658704902_hd.mp3",
+            "length": "52987587",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "http://cdn.lizhi.fm/audio/2023/11/08/3041167843990476806_hd.mp3",
           "author": null,
@@ -1601,26 +1637,7 @@
       "title": "十二月December",
       "feedUrl": "https://www.ximalaya.com/album/76493732.xml",
       "siteUrl": "https://www.ximalaya.com/album/76493732",
-      "articles": [
-        {
-          "id": "xmly_track_679516837",
-          "author": null,
-          "description": "「十二月December」播客系列十月邀请到的是Erdi Tac，他的中文名字是陈一鸣。他来自土耳其，2017年从北京大学研究生毕业后，在深圳工作生活至今。「December」 podcast series, our October guest is Erdi Tac, whose Chinese name is Chen Yiming. Hailing from Turkey, he graduated as a postgraduate from Peking University in 2017 and has been living and working in Shenzhen since then.\n\n\n他在土耳其的贫困地方出生成长，是家族里的第一位大学生。在求学路上，他在别人的帮助下顺利进入大学。怀着感恩之心，从求学到现在，他一直坚持尽自己所能去帮助其它孩子：在土耳其读本科时是帮助土耳其贫困地区的孩子；在深圳则是加入全球杰出青年深圳社区，发起Education for Everyone (E4E) 帮助外来打工子女学习英语。我也是在通过这个项目与他成为朋友的。Growing up in impoverished areas of Turkey, he was the first person in his family to attend college. Throughout his educational journey, he received assistance from others to smoothly access higher education. Fueled by gratitude, from his college years in Turkey, where he helped underprivileged children i…",
-          "link": "https://www.ximalaya.com/sound/679516837",
-          "publishedOn": "2023-10-31T07:00:00.000Z",
-          "wordCount": null,
-          "title": "Ep.202310｜Erdi的善心AI创业之旅-昔之受薪者，今之造林人",
-          "itunes": {
-            "duration": "1:09:16"
-          },
-          "enclosure": {
-            "length": "66768978",
-            "type": "audio/x-m4a",
-            "url": "https://jt.ximalaya.com//GKwRINsJFY8fAgFrbAJ2GqQp.m4a?channel=rss&album_id=76493732&track_id=679516837&uid=206350854&jt=https://audio.xmcdn.com/storages/aa44-audiofreehighqps/6B/13/GKwRINsJFY8fAgFrbAJ2GqQp.m4a"
-          },
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
