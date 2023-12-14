@@ -364,24 +364,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "fad96950-5d31-4c63-820f-8813237a72cc",
-          "author": "放晴公园",
-          "description": "☀️ 本期放晴故事\n提到垃圾掩埋场，你的第一反应会是什么？恶臭？脏乱？但是在巴拉圭，却有一个充满着音乐，快乐和希望的垃圾场。而这一切都归功于一位环境工程师，法维奥。他在巴拉圭卡特乌拉的垃圾场旁创办起一支交响乐团，帮助当地生活在贫民窟社区的孩子们用音乐找到归属感，拥有对生活的热情和梦想。不过，这支乐团的乐器从哪里来呢？如果你好奇的话，欢迎收听我们今天的故事找到答案。\n\n卡特乌拉的再生交响乐团 Cateura Orchestra ｜图源：Instruments Beyond Borders\n延伸阅读\nNPR: 卡特乌拉的再生交响乐团的故事 (https://www.npr.org/sections/deceptivecadence/2016/09/14/493794763/from-trash-to-triumph-the-recycled-orchestra)\n纪录片-垃圾场中仙乐扬 (https://b23.tv/xkXyU76) \n☀️ 改变自己的100件小事\n09:36 如何摆脱通过取悦别人维系关系\n卫报: 专栏作家分享关于摆脱取悦别人委屈自己的建议 (https://www.theguardian.com/lifeandstyle/2023/nov/03/i-put-other-peoples-needs-before-my-own-why-do-i-do-things-i-dont-want-to)\n☀️ 往期节目\ns3e19. 穿上特制的服装，聋人也可以听见音乐｜1109 (https://www.xiaoyuzhoufm.com/episode/654c1642f5c455e3128a2a98)\n333. “维修咖啡馆”有多好玩儿？｜1115 (https://www.xiaoyuzhoufm.com/episode/6372ca96ff85389fd9309160)\n☀️\n本期制作\n主播：王子诣\n文稿撰写：张紫涵、祝福\n文稿编辑：方可成\n后期：曹睿清\n运营：张紫涵\n《放晴早安》由「放晴公园」制作播出，是一档以「解困式报道」（solutions journalism）为理念的节目。我们的第三季节目由香港中文大学社会科学学院「社会科学与创新实践」（CU-ASK）辅修项目支持。",
-          "link": "https://sunshine.fireside.fm/131",
-          "publishedOn": "2023-11-13T23:00:00.000Z",
-          "wordCount": null,
-          "title": "s3e22. 世界给我们垃圾，我们报之以音乐｜1114",
-          "itunes": {
-            "duration": "13:43"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/e0f2e192-ad76-4431-942c-c290cfbcda1f/fad96950-5d31-4c63-820f-8813237a72cc.mp3",
-            "length": "20149686",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -390,6 +372,24 @@
       "feedUrl": "https://feed.xyzfm.space/q88qwmydeuw8",
       "siteUrl": "https://www.xiaoyuzhoufm.com/podcast/60de7c003dd577b40d5a40f3?utm_source=rss",
       "articles": [
+        {
+          "id": "6579877bcab6086ec1cc83ce",
+          "author": null,
+          "description": "本期早咖啡为你带来与日常生活息息相关的商业科技动态，你将会听到：\n  \n苹果新增「被盗设备保护」功能\n  \nNetflix 首次公开收视率数据\n  \n微信视频号电商成交总额超千亿元\n  \n中国咖啡店数量超过美国成为全球第一\n\n本期还有关于万达、阿里巴巴、奇瑞汽车、特斯拉和 E3 电子游戏展的新动态，欢迎收听！\n与声动早咖啡高效早起 50 天活动\n本周是活动第四周。感谢罗拉为大家带来炙手可热的无线等离子直发梳！\n\n加入我们\n声动早咖啡节目组正在招聘内容研究岗位的实习生。如果你身处北京，并且愿意在四个月的时间里和我们一起追踪全球商业科技动态，欢迎 点击链接 来查看详细的职位信息和申请方式。\n主播\nMengyi\n幕后制作\n监制：Zelin、Qianwen\n实习研究员：Yoki、糕糕、Xinlu\n运营：瑞涵\n后期：Jack\n商业内容策划：Nene\n封面设计：饭团\n\n声动商务会客厅｜招聘入口｜给早咖啡投稿｜加入会员计划\n\n欢迎扫码添加声小音，在节目之外和我们保持联系。\n「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。\n  \n我们还有这些播客：声东击西、What's Next｜科技早知道、声动早咖啡、商业WHY酱、跳进兔子洞、吃喝玩乐了不起、泡腾 VC 、反潮流俱乐部\n  \n如果你喜欢我们的节目，欢迎 打赏 支持，或把我们的节目推荐给朋友",
+          "link": "https://www.xiaoyuzhoufm.com/episode/6579877bcab6086ec1cc83ce?utm_source=rss",
+          "publishedOn": "2023-12-13T23:00:00.000Z",
+          "wordCount": null,
+          "title": "Netflix 首次公开收视数据，中国咖啡店数量全球第一",
+          "itunes": {
+            "duration": "00:11:04"
+          },
+          "enclosure": {
+            "url": "https://dts-api.xiaoyuzhoufm.com/track/60de7c003dd577b40d5a40f3/6579877bcab6086ec1cc83ce/media.xyzcdn.net/lpeDJzLtg1_VsOoaEUM78W_BSjFc.m4a?from=axios/0.27.2",
+            "type": "audio/mp4",
+            "length": "16070885"
+          },
+          "imageUrl": null
+        },
         {
           "id": "6578518ecab6086ec1c15e5e",
           "author": null,
@@ -767,24 +767,6 @@
             "length": "22641248"
           },
           "imageUrl": null
-        },
-        {
-          "id": "6551ff75c9e7cfe025971672",
-          "author": null,
-          "description": "本期早咖啡为你带来与日常生活息息相关的商业科技动态，你将会听到：\n  \n极氪或将成为最快 IPO 的造车新势力\n  \n谷歌计划投资人工智能公司 Character.AI\n  \n《惊奇队长 2》创漫威首映票房最差记录\n  \n2023 年度电影票房突破 500 亿\n\n本期还有关于亚马逊和 Meta、鸿蒙、英伟达、特斯拉和迪士尼的新动态，欢迎收听！\n抓住 2023 的小尾巴，高效早起 50 天\n作为一档日更的晨间播客，我们的评论区已经变成了一众听友组团早起的地方，看得我们尤其感动，我们也希望这样积极的能量继续传递！所以正值年末，我们携一群早起搭子，邀请所有认真生活的小伙伴高效早起 50 天！\n\n从 11 月 20 号开始，每周一到周五，连续早起 5 天的「早起积极分子」可参与当周抽奖，坚持早起 50 天 100% 获得「早起积极分子大礼包」。现在就点开活动页 一起早起吧！\n加入我们\n声动早咖啡节目组正在招聘内容研究岗位的实习生。如果你身处北京，并且愿意在四个月的时间里和我们一起追踪全球商业科技动态，欢迎 点击链接 来查看详细的职位信息和申请方式。\n主播\nMengyi\n幕后制作\n监制：Zelin、Qianwen\n实习研究员：柚米、Yoki、糕糕\n运营：瑞涵\n后期：Jack\n商业内容策划：Nene\n封面设计：饭团\n\n声动商务会客厅｜招聘入口｜给早咖啡投稿｜加入会员计划\n「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。\n  \n我们还有这些播客：声东击西、What's Next｜科技早知道、声动早咖啡、商业WHY酱、跳进兔子洞、吃喝玩乐了不起、泡腾 VC 、反潮流俱乐部\n  \n如果你喜欢我们的节目，欢迎 打赏 支持，或把我们的节目推荐给朋友",
-          "link": "https://www.xiaoyuzhoufm.com/episode/6551ff75c9e7cfe025971672?utm_source=rss",
-          "publishedOn": "2023-11-13T23:00:00.000Z",
-          "wordCount": null,
-          "title": "Meta 与亚马逊打通社媒购物，《惊奇队长 2》创漫威最差记录",
-          "itunes": {
-            "duration": "00:11:51"
-          },
-          "enclosure": {
-            "url": "https://dts-api.xiaoyuzhoufm.com/track/60de7c003dd577b40d5a40f3/6551ff75c9e7cfe025971672/media.xyzcdn.net/ll2PfcnnHFuAPtrtSkG0mnfE4JVa.m4a?from=axios/0.27.2",
-            "type": "audio/mp4",
-            "length": "17211416"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -793,6 +775,24 @@
       "feedUrl": "https://feed.xyzfm.space/jq7xytwpykrg",
       "siteUrl": "https://www.xiaoyuzhoufm.com/podcast/5e285326418a84a04627343f?utm_source=rss",
       "articles": [
+        {
+          "id": "65794c896396a4645aa0e688",
+          "author": null,
+          "description": "欢迎收听本期AI脱口秀👏看看什么时候机器人能帮咱洗洗袜子做做饭。\n\n\n许华哲，清华大学交叉信息研究院助理教授。\n\nChatGPT的出现极大地改变了我们与技术的互动方式。如果它不仅仅存在于数字世界，而在现实世界中以实体形式出现，会是怎样呢？\n具身通用人工智能（Embodied AGI）试图做到的，就是让机器人不只按命令行动，还能感知周围的世界，理解在发生什么，像人类一样作出反应。许华哲的研究内容之一就是帮助机器人去理解这个世界，让它们即使在复杂的物理环境中，也能灵活地操作物体。\n试想一下，在未来的某一天，当你下班回家可能会看到机器人在厨房里准备食材、包饺子、做饭，甚至打扫卫生、洗衣服。那么，实现这一天还需要多长时间？拥有实体的智能体会变得更加聪明吗？随着机器人变得越来越智能，人类将面临怎样的新挑战和机遇？\n* 本段介绍由ChatGPT创作\n🎙️ 「席外话」更新！欢迎收听最新一期，站在厦门望台湾👉一个福建人的普通话焦虑\n🎙️【更多AI】👉听说你在open AI工作过，有人高薪挖你吗？\n  \n【一些AI奇巧淫技】\n\n👇一道门难道英雄汉\n\n👇这是机器人吗？\n\n👇给你捋捋耳机线🎧\n\n👇包饺子（此处略过）\n\n👇包饺子（神器）\n\n👇把面团切开\n\n👇成了！皮厚馅小😭\n\n👇身体交互的学习结果，丝滑！\n\n  \n【时间轴】\n\n03:00 为什么AI把我想做的事都做了而我不想做的它也不想做？\n03:50 在人工智能领域，困难的问题是易解的，而简单的问题是难解的\n05:51 通用具身人工智能到底是什么机器人\n08:15 通用具身人工智能到底如何帮你收拾厨房做顿饭\n10:31 先让它有感知，比如帮你捋耳机线\n11:55 然后让它形成世界模型，比如帮你包饺子\n18:08 虽然不会捏褶儿，但它终于包出了一个皮厚馅小的饺子\n19:16 它还要有泛化能力，比如举一反三\n21:47 身体与外界交互，也可以发展出智能\n25:58 越来越通用的具身智能一定会加速前进，但挑战也仍然存在",
+          "link": "https://www.xiaoyuzhoufm.com/episode/65794c896396a4645aa0e688?utm_source=rss",
+          "publishedOn": "2023-12-13T06:17:45.000Z",
+          "wordCount": null,
+          "title": "如何让AI帮你包顿饺子｜一席 许华哲",
+          "itunes": {
+            "duration": "00:30:15"
+          },
+          "enclosure": {
+            "url": "https://dts-api.xiaoyuzhoufm.com/track/5e285326418a84a04627343f/65794c896396a4645aa0e688/media.xyzcdn.net/lojzPmUFK_sgs-08FvC-Da7ZZznG.m4a?from=axios/0.27.2",
+            "type": "audio/mp4",
+            "length": "58426214"
+          },
+          "imageUrl": null
+        },
         {
           "id": "6568644051ba7218576ad82f",
           "author": null,
@@ -940,6 +940,24 @@
       "feedUrl": "https://storyfm.cn/feed/episodes",
       "siteUrl": "https://storyfm.cn/",
       "articles": [
+        {
+          "id": "https://hosting.wavpub.cn/storyfm/?p=3602",
+          "author": null,
+          "description": "故事FM ❜ 第 773 期\n表面上，我好像是没根的，飘着的，没有安全感，也没有可依赖的东西。\n但这就是我想要的。\n北京到底是什么样，我也不知道，\n反正光『北京』这两个字就足够迷人，我就想来！\n——《流浪北京》中张夏平说的话\n这句话出自一位北漂自由画家张夏平，她是吴文光导演在 1990 年拍摄完成的纪录片《流浪北京》中的一位主人公。\n在很多评价之中，吴文光对于中国「新纪录片」的意义，甚至相当于崔健之于中国摇滚。《流浪北京》被认为是中国首部真正意义上的纪录片，它记录了五个怀抱艺术理想的外地青年在北京流浪的经历，其中包括作家、画家、戏剧导演和摄影师，吴文光也借此间接诠释了自己作为 80 年代北漂自由职业者的生存状态。\n对于 80 年代的青年来说，北京在他们心中，是那么生机勃勃、充满希望、无法被替代。影片中那些已经渐渐消失的北京胡同平房与红白条纹的公共汽车都在提醒着我们，那是一个远去的、记忆中的北京，和当下的生活，以及大家对未来的想象，有着迥异的质地。\n前段时间，我们有幸和吴文光导演聊了聊，他的影片和讲述，带我们重新回到了那个逐渐褪色的年代，带我们看了看那个时候，那些将艺术视为生命的年轻人们的真实世界，希望它或多或少能够让你回忆起一些充满激情的日子。\n/Staff/\n讲述者 | 吴文光\n制作人 | 赵臻怡\n主播 | @寇爱哲\n声音设计 | 桑泉\n混音｜桑泉\n文案整理 | 陈凯悦\n运营 | Yoyo 鸣鸣\n/BGM List/\n01.Story FM Theme Music box version 02 – 桑泉\n02.The awaited little – 彭寒\n03.The Other Side of light – 彭寒\n04.Long Long Corridor – 彭寒\n05.一粒 – 桑泉\n06.交错 – 桑泉\n用你的声音，讲述你的故事。故事FM 是一档亲历者自述的声音节目。在以下渠道均可收听我们的节目：\n苹果播客 | 网易云音乐 | 喜马拉雅\n蜻蜓FM | 荔枝FM | 懒人听书\n小宇宙 | QQ音乐 | 酷狗音乐 | 酷我音乐\nSpotify | Google Podcast\n商务合作：bd@storyfm.cn\n微信公众号：故事FM (ID: story_fm)\n新浪微博：@故事FM_StoryFM\n个人微信号：gushi_fm02",
+          "link": "https://hosting.wavpub.cn/storyfm/2023/12/13/e773-80%e5%b9%b4%e4%bb%a3%e5%8c%97%e6%bc%82%e9%9d%92%e5%b9%b4%ef%bc%9a%e6%88%91%e6%98%af%e7%9b%b2%e6%b5%81%e3%80%81%e8%89%ba%e6%9c%af%e5%ae%b6%ef%bc%8c%e4%b9%9f%e6%98%af%e7%b2%be%e7%a5%9e%e7%9a%84/",
+          "publishedOn": "2023-12-13T08:49:41.000Z",
+          "wordCount": null,
+          "title": "E773.80年代北漂青年：我是盲流、艺术家，也是精神的流浪者￼",
+          "itunes": {
+            "duration": "2132"
+          },
+          "enclosure": {
+            "url": "https://tk.wavpub.com/WPDL_YnLTeNKJetxzSUrmPcJsKHyZfUbhdHnQcxEQcYxWjzCJQZVkPqxfdYjCae-bd.mp3",
+            "length": "85283316",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://hosting.wavpub.cn/storyfm/?p=3597",
           "author": null,
