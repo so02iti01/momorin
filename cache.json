@@ -292,24 +292,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "78daa206-cb45-4f5a-a076-0efc2efe2d3e",
-          "author": "放晴公园",
-          "description": "在本期番外中，三位放晴团队的朋友：方老师、祝福和睿清，会一起聊一聊MBTI这个最近很流行的社交工具。在本期节目里，你可能会听到：方老师严谨又专业的统计学小课堂，这三位朋友的MBTI类型，哪种人格最适合当记者……\n欢迎收听这期欢乐的番外，更欢迎你在评论区加入讨论！\n☀️ 时间线\n0:28 开场白\n3:55 什么是mbti？（内含方老师统计小课堂）\n13:18 互猜mbti类型！\n42:00 NF人和NJ人哪里不一样？\n1:00:00 对其他的人格类型有什么看法？\n1:10:00 什么人格类型的人适合做记者？\n☀️ 往期节目\n番外｜广东话特辑：本地生与内地生漫谈陆港差异 (https://www.xiaoyuzhoufm.com/episode/65457c2da8d03940a18c6658)\n☀️\n本期制作\n主播：方可成、祝福、曹睿清\n后期：曹睿清\n运营：曹睿清\n《放晴早安》由「放晴公园」制作播出，是一档以「解困式报道」（solutions journalism）为理念的节目。我们的第三季节目由香港中文大学社会科学学院「社会科学与创新实践」（CU-ASK）辅修项目支持。",
-          "link": "https://sunshine.fireside.fm/133",
-          "publishedOn": "2023-11-17T23:00:00.000Z",
-          "wordCount": null,
-          "title": "番外｜MBTI欢乐多：哪种人格最适合当记者？哪种最放晴？",
-          "itunes": {
-            "duration": "1:22:19"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/e0f2e192-ad76-4431-942c-c290cfbcda1f/78daa206-cb45-4f5a-a076-0efc2efe2d3e.mp3",
-            "length": "59701295",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -318,6 +300,24 @@
       "feedUrl": "https://feed.xyzfm.space/q88qwmydeuw8",
       "siteUrl": "https://www.xiaoyuzhoufm.com/podcast/60de7c003dd577b40d5a40f3?utm_source=rss",
       "articles": [
+        {
+          "id": "657ed5af6396a4645acde5fa",
+          "author": null,
+          "description": "最近，全球最大的奢侈品电商平台之一 Farfetch 遭遇了前所未有的危机。不仅被爆出或将私有化退市、取消了季度财报的发布，股东之一历峰集团也表示将不会对其进行注资。2020 年，Farfetch 的市值还高达 260 亿美元，但如今，根据时尚商业媒体 The Business of Fashion 的报道，如果 Farfetch 未来未能获得任何外部支持，那么他们或将会面临破产。与此同时，来自加拿大的 SSENSE 今年也在今年首次进行了裁员，德国奢侈品电商平台 MyTheresa 的股价在过去一年下跌了超过 6 成，国内奢侈品电商第一股「寺库」，如今也面临退市危机。过去增长迅速的奢侈品电商平台，为何如今都活得如此艰难？奢侈品电商这门生意究竟为什么这么难做？本期轻解读就与之相关 06:35。当购买某一类商品时，你更倾向于选择去垂直电商平台，还是淘宝等综合类平台上下单呢？在评论区和我们一起聊聊吧。\n本期还有关于东方甄选、OpenAI、特斯拉与 Uber 和商汤科技的新动态 01:45，欢迎收听！\n主播\nMengyi\n幕后制作\n监制：Zelin、Qianwen\n实习研究员：Yoki、糕糕、Xinlu\n运营：瑞涵\n后期：Jack\n商业内容策划：Nene\n封面设计：饭团\n\n声动商务会客厅｜招聘入口｜给早咖啡投稿｜加入会员计划\n\n欢迎扫码添加声小音，在节目之外和我们保持联系。\n「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。\n  \n我们还有这些播客：声东击西、What's Next｜科技早知道、声动早咖啡、商业WHY酱、跳进兔子洞、吃喝玩乐了不起、泡腾 VC 、反潮流俱乐部\n  \n如果你喜欢我们的节目，欢迎 打赏 支持，或把我们的节目推荐给朋友",
+          "link": "https://www.xiaoyuzhoufm.com/episode/657ed5af6396a4645acde5fa?utm_source=rss",
+          "publishedOn": "2023-12-17T23:00:00.000Z",
+          "wordCount": null,
+          "title": "头部玩家发发奇也折戟，奢侈品电商这门生意为何这么难做？",
+          "itunes": {
+            "duration": "00:16:22"
+          },
+          "enclosure": {
+            "url": "https://dts-api.xiaoyuzhoufm.com/track/60de7c003dd577b40d5a40f3/657ed5af6396a4645acde5fa/media.xyzcdn.net/lgTizgUSI-dCYDXxlstWqJQOEh27.m4a?from=axios/0.27.2",
+            "type": "audio/mp4",
+            "length": "23746971"
+          },
+          "imageUrl": null
+        },
         {
           "id": "657ad0a13d1caa927aa0032c",
           "author": null,
