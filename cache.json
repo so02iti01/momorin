@@ -58,24 +58,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "a7e58ad4-ab73-4ca8-9905-d4c34b59aa9f",
-          "author": "放晴公园",
-          "description": "☀️ 本期放晴故事\n海绵宝宝也能帮助改善性别不平等吗？当然了，这里的海绵宝宝指的并不是那个动画片里的海绵宝宝，而是大海中天然海绵的幼年时期。海绵是一种原始水生动物，上面布满了大小不一的的孔让水进出，我们日常大多数时候使用的合成海绵正是仿照了它的形态制作而成。在坦桑尼亚的桑给巴尔群岛，有妇女就开始培育蓬松柔软的海绵宝宝。她们为什么要培育海绵宝宝？这种动物又能怎样帮助性别平等呢？欢迎收听本期节目，找到答案。\n天然海绵 https://files.fireside.fm/file/fireside-uploads/images/e/e0f2e192-ad76-4431-942c-c290cfbcda1f/ZfhYMv1G.jpeg\n天然海绵｜图源：BBC\n延伸阅读\n- 什么是海绵？ (https://www.britannica.com/animal/sponge-animal)\n- BBC：海绵为桑给巴尔女性提供救生索 (https://www.bbc.com/future/article/20230912-the-zanzibar-sea-sponges-helping-women-fight-climate-change)\n☀️ 改变自己的100件小事\n05:57 如何面对阶段性的友谊？\n☀️ 往期节目\n292. 如何争取两性同工同酬？｜0914 (https://www.xiaoyuzhoufm.com/episode/63210d62dcdd89a4fa28051d)\n273. 怎样通过纪录片改善女性境遇？｜0817 (https://www.xiaoyuzhoufm.com/episode/62fc21bd8ef6794a6c90b18c)\n☀️\n本期制作\n主播：王艺雯\n文稿撰写：王艺雯\n文稿编辑：方可成\n后期：曹睿清\n运营：周闻晓\n《放晴早安》由「放晴公园」制作播出，是一档以「解困式报道」（solutions journalism）为理念的节目。我们的第三季节目由香港中文大学社会科学学院「社会科学与创新实践」（CU-ASK）辅修项目支持。",
-          "link": "https://sunshine.fireside.fm/147",
-          "publishedOn": "2023-12-04T23:00:00.000Z",
-          "wordCount": null,
-          "title": "s3e37. 海绵宝宝是怎么帮助实现性别平等的？｜1205",
-          "itunes": {
-            "duration": "10:30"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/e0f2e192-ad76-4431-942c-c290cfbcda1f/a7e58ad4-ab73-4ca8-9905-d4c34b59aa9f.mp3",
-            "length": "11429208",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -84,6 +66,24 @@
       "feedUrl": "https://feed.xyzfm.space/q88qwmydeuw8",
       "siteUrl": "https://www.xiaoyuzhoufm.com/podcast/60de7c003dd577b40d5a40f3?utm_source=rss",
       "articles": [
+        {
+          "id": "65953b0c096f477b3ebb5056",
+          "author": null,
+          "description": "本期早咖啡为你带来与日常生活息息相关的商业科技动态，你将会听到：\n  \n比亚迪季度销量首次超过特斯拉\n  \n初代「米老鼠」版权到期\n  \nOpenAI 去年收入超过 16 亿美元\n  \n中泰两国互免签证\n\n本期还有关于蜜雪冰城与古茗、造车新势力、大众汽车、环球影城与迪士尼的新动态，欢迎收听！\n与声动早咖啡高效早起 50 天活动\n高效早起活动的第 7 周，感谢我们的早起搭子RE而意提供的咖啡、玛芬兑换券！\n\n主播\nMengyi\n幕后制作\n监制：Zelin、Qianwen\n实习研究员：Yoki、糕糕、Xinlu\n运营：瑞涵\n后期：Jack\n商业内容策划：Nene\n封面设计：饭团\n\n声动商务会客厅｜招聘入口｜给早咖啡投稿｜加入会员计划\n\n欢迎扫码添加声小音，在节目之外和我们保持联系。\n「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。\n  \n我们还有这些播客：声东击西、What's Next｜科技早知道、声动早咖啡、商业WHY酱、跳进兔子洞、吃喝玩乐了不起、泡腾 VC 、反潮流俱乐部\n  \n如果你喜欢我们的节目，欢迎 打赏 支持，或把我们的节目推荐给朋友",
+          "link": "https://www.xiaoyuzhoufm.com/episode/65953b0c096f477b3ebb5056?utm_source=rss",
+          "publishedOn": "2024-01-03T23:00:00.000Z",
+          "wordCount": null,
+          "title": "比亚迪季度销量首超特斯拉，中泰两国永久互免签证",
+          "itunes": {
+            "duration": "00:10:23"
+          },
+          "enclosure": {
+            "url": "https://dts-api.xiaoyuzhoufm.com/track/60de7c003dd577b40d5a40f3/65953b0c096f477b3ebb5056/media.xyzcdn.net/ltepsylEKhQ8WGxZ70DFk0LT7p-I.m4a?from=axios/0.27.2",
+            "type": "audio/mp4",
+            "length": "15070682"
+          },
+          "imageUrl": null
+        },
         {
           "id": "6593f486b14afc085c66222e",
           "author": null,
@@ -425,24 +425,6 @@
             "length": "23975973"
           },
           "imageUrl": null
-        },
-        {
-          "id": "656dbe2c88730b562b93d993",
-          "author": null,
-          "description": "本期早咖啡为你带来与日常生活息息相关的商业科技动态，你将会听到：\n  \n宝马与奔驰在华成立合资公司\n  \nOpen AI 延后 GPT 商店上线时间\n  \nX 加速吸引中小企业投放广告\n  \n苹果与派拉蒙讨论捆绑流媒体业务\n\n本期还有关于美团买菜、丰田、辉瑞和瑞幸的新动态，欢迎收听！\n主播\nMengyi\n幕后制作\n监制：Zelin、Qianwen\n实习研究员：柚米、Yoki、糕糕\n运营：瑞涵\n后期：Jack\n商业内容策划：Nene\n封面设计：饭团\n\n声动商务会客厅｜招聘入口｜给早咖啡投稿｜加入会员计划\n\n欢迎扫码添加声小音，在节目之外和我们保持联系。\n「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。\n  \n我们还有这些播客：声东击西、What's Next｜科技早知道、声动早咖啡、商业WHY酱、跳进兔子洞、吃喝玩乐了不起、泡腾 VC 、反潮流俱乐部\n  \n如果你喜欢我们的节目，欢迎 打赏 支持，或把我们的节目推荐给朋友",
-          "link": "https://www.xiaoyuzhoufm.com/episode/656dbe2c88730b562b93d993?utm_source=rss",
-          "publishedOn": "2023-12-04T23:00:00.000Z",
-          "wordCount": null,
-          "title": "瑞幸咖啡泰国「打假」失败，宝马奔驰在华成立合资公司",
-          "itunes": {
-            "duration": "00:10:55"
-          },
-          "enclosure": {
-            "url": "https://dts-api.xiaoyuzhoufm.com/track/60de7c003dd577b40d5a40f3/656dbe2c88730b562b93d993/media.xyzcdn.net/lvPKJfwA_s7cW6arXuHKmQvQoCbL.m4a?from=axios/0.27.2",
-            "type": "audio/mp4",
-            "length": "15843567"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -451,6 +433,24 @@
       "feedUrl": "https://feed.xyzfm.space/jq7xytwpykrg",
       "siteUrl": "https://www.xiaoyuzhoufm.com/podcast/5e285326418a84a04627343f?utm_source=rss",
       "articles": [
+        {
+          "id": "6594f2aa3b60e1feaf567f6b",
+          "author": null,
+          "description": "张翎，作家，《唐山大地震》原著作者。\n\n在海外做听力康复师的十七年里，张翎的病人来自世界各地。他们中的许多人都曾阴差阳错被卷入一场战争，携带着累累伤痕走进她的诊室。\n战争和灾难虽已结束，创伤却在这群人的生命记忆留下了烙印，甚至成为几代人需要共同克服的重荷；经年累月，伴随他们成长、老去。灾难不受国界限制，它的“溢出物”绵延不绝，流淌到世界的任意角落。其中小小的潜流，刚好流入张翎的视野，成为她笔下的一个人物，一段故事。\n  \n完整音视频图文 张翎：只有记住的才可以存活 \n\n  \n【时间轴】\n\n03:35 我真正成为作家时已经人到中年\n05:20 靠着工厂自学的英语，我考上了复旦大学外文系\n10:31 人在海外，一路漂流\n11:57 作家面临两大陷阱，一是太穷，一是太富\n15:35 职业经历使我更关注战争带给人的长期影响\n22:16 诺曼底之后，我就没听过这么美妙的声音\n26:44 我虽没亲历过，但我看见了灾难在他们身上留下的痕迹\n32:35 活着就有各种各样的可能\n  \n签名版《归海》",
+          "link": "https://www.xiaoyuzhoufm.com/episode/6594f2aa3b60e1feaf567f6b?utm_source=rss",
+          "publishedOn": "2024-01-03T05:37:46.000Z",
+          "wordCount": null,
+          "title": "我虽然没有亲历，但我看见了灾难在他们身上留下的痕迹｜一席 张翎",
+          "itunes": {
+            "duration": "00:34:13"
+          },
+          "enclosure": {
+            "url": "https://dts-api.xiaoyuzhoufm.com/track/5e285326418a84a04627343f/6594f2aa3b60e1feaf567f6b/media.xyzcdn.net/lhjrbRE7VTDDAkUwe9dJT9VutZwy.m4a?from=axios/0.27.2",
+            "type": "audio/mp4",
+            "length": "33215293"
+          },
+          "imageUrl": null
+        },
         {
           "id": "658a7e1bbf3589e894440cce",
           "author": null,
@@ -565,24 +565,6 @@
             "length": "108416204"
           },
           "imageUrl": null
-        },
-        {
-          "id": "656deea9e3f90e0c69bcace9",
-          "author": null,
-          "description": "朋友种草，这趟去成都之前我就盘算好了要吃一顿永乐饭店，但没想到连吃了两顿。\n用一句话概括永乐饭店给我的感觉：这是一家可以同时满足本地人和外地人口味的川菜苍蝇馆子。味型准确，食材靠谱，价格适宜，除了需要排队之外没有缺点。\n根据以往的经验，价格不贵、菜式家常​、客流量大的苍蝇馆子，一般出品不拔尖也不稳定。更别提变成网红餐厅之后会多很多外地游客，大概率会走下坡路。永乐饭店却出乎我的意料，好吃，而且一看就是家能一直好吃的店。于是把老板抓来聊了聊。\n【时间轴】\n1:48 回家接班的餐二代\n2:39 没有最佳方案的后厨难题：上菜温度\n5:44 口感细嫩，毫不腥臊的肝腰合炒，从7个小时前开始下功夫\n17:20 苍蝇馆子的定位，Fine Dining的选材\n19:12 朴实无华的丸子汤，汤底鲜香的机密\n20:26 口感最细嫩的糯米排骨，是靠成本蒸出来的\n24:12 凝缩菜单，聚焦产品，提升利润的过程\n27:41 没有毛利的凉拌鸡肉，只能利用它的副产品\n32:07 在每一个可能的地方优化\n36:26 宫保鸡丁，千锤百打的川菜基本款\n48:21 餐二代的守正和遗憾\n56:36 几家私藏推荐\n提及餐厅：赤宴，渝九香，轩轩小院（均为成都餐厅）\n【本期鸣谢嘉宾】\n尹思聪，前设计工作者，现为成都永乐饭店老板。\n【本期配图】\n永乐饭店\n\n肝腰合炒\n\n员工餐的豆汤煮豌豆尖\n\n丸子汤\n\n糯米蒸排骨\n\n宫保鸡丁\n\n【本期提及播客】\n19. 四川人特别擅长给内脏「穿衣服」\n【本期配乐】\nPaganini: Violin Concerto No. 3 in E Major",
-          "link": "https://www.xiaoyuzhoufm.com/episode/656deea9e3f90e0c69bcace9?utm_source=rss",
-          "publishedOn": "2023-12-04T23:00:00.000Z",
-          "wordCount": null,
-          "title": "32. 网红苍蝇馆的招牌菜怎么做？出品成本如何控制？「我全都可以讲」",
-          "itunes": {
-            "duration": "00:59:47"
-          },
-          "enclosure": {
-            "url": "https://dts-api.xiaoyuzhoufm.com/track/62c2a763ee51bbc306720305/656deea9e3f90e0c69bcace9/media.xyzcdn.net/lp3F9QAKYZwScMFk4lTxKlOoNFoV.m4a?from=axios/0.27.2",
-            "type": "audio/mp4",
-            "length": "86719327"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -634,6 +616,24 @@
       "feedUrl": "https://storyfm.cn/feed/episodes",
       "siteUrl": "https://storyfm.cn/",
       "articles": [
+        {
+          "id": "https://hosting.wavpub.cn/storyfm/?p=3686",
+          "author": null,
+          "description": "2024 故事FM「铁窗泪」经典系列最新呈现！《铁窗泪：24岁，我在女子监狱服刑》全网上线！\n巨额交易，险恶骗局，冷酷的罪名背后是两个女孩的急转人生，同在 24 岁，她们的生命列车停在监狱门口。\n走进黑暗的巨塔，摸索新世界的残酷法则，守护冰冷牢笼中的光和温度，走出高墙后，迎接她们的是新生，还是又一个牢笼？来自两名曾获罪入狱的女孩的真诚自述。欢迎收听！\n本平台搜索「女子监狱」，或在 故事FM 微信公众号后台回复「女子监狱」了解售卖信息！\n*温馨提示：本内容为付费专题，包含两个独立故事，共 4 集，单集购买4.9元/集，全集购买15.9元，打包购买更优惠。（部分平台不支持全集购买，请阅读具体详情页知晓）",
+          "link": "https://hosting.wavpub.cn/storyfm/2024/01/03/%e3%80%8a%e9%93%81%e7%aa%97%e6%b3%aa%ef%bc%9a24%e5%b2%81%ef%bc%8c%e6%88%91%e5%9c%a8%e5%a5%b3%e5%ad%90%e7%9b%91%e7%8b%b1%e6%9c%8d%e5%88%91%e3%80%8b%e5%85%a8%e7%bd%91%e4%b8%8a%e7%ba%bf/",
+          "publishedOn": "2024-01-03T09:07:32.000Z",
+          "wordCount": null,
+          "title": "《铁窗泪：24岁，我在女子监狱服刑》全网上线",
+          "itunes": {
+            "duration": "188"
+          },
+          "enclosure": {
+            "url": "https://tk.wavpub.com/WPDL_BkUCSqCjZwxaErQjJGrTVJSUxZHGfdtwEJpYhbPzHSheuZHDKyFzTgWqgN-85.mp3",
+            "length": "7517844",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://hosting.wavpub.cn/storyfm/?p=3650",
           "author": null,
@@ -987,6 +987,24 @@
       "feedUrl": "http://www.ximalaya.com/album/52344140.xml",
       "siteUrl": "https://www.ximalaya.com/album/52344140",
       "articles": [
+        {
+          "id": "xmly_track_697632740",
+          "author": null,
+          "description": "咖啡人和陶瓷作者齐聚景德镇，同时也作为器物的使用者和创作者，大家围绕咖啡滤杯的过去、现在和未来展开了一场精彩绝伦的多元视角对话！\n借由2023年CTI趣味冲煮总决赛在景德镇落地，德林造味同期举办了一场名为「物优无虑」的陶瓷滤杯主题聚会，嘉宾皆为资深咖啡从业者和独立陶艺创作者。分享嘉宾树是一名咖啡馆主，爱好收藏中古滤杯，这次更是带着50余件有重要历史意义或设计优良的咖啡滤杯来到活动现场，从Melitta夫人发明第一只滤杯的故事说起，和有着二十六年咖啡从业经验的东源老师一起，为我们讲述了一段鲜为人知、又生动有趣的关于滤杯起源和流变的历史。\n作为一种生活方式的新趋势，景德镇的陶瓷从业者们也将目光投入至咖啡器具的领域中，斯摩格和落米fong豆都做过咖啡滤杯，这次也带着作品加入了讨论。当陶艺作者对器物的表达，和滤杯使用者的诉求存有激烈的矛盾时候该如何取舍？好用的器物是否真就一定不好看呢？\n\n\n『本期嘉宾』\n林东源 \nGABEE.创始人\n树\n「咖啡足矣」创始人\n斯摩格\n景德镇陶艺作者\n胡春宇\n景德镇陶艺作者\n「落米fong豆」工作室\n\n\n『本期影子嘉宾』\n柴老师/老柴/柴煜恒\n德林造味 创始人\n2016年世界咖啡烘焙大赛中国区亚军\n2017年世界咖啡烘焙大赛中国区亚军\n2018年世界咖啡杯测大赛中国区冠军\n『本期内容』Table of Contents \n开场与嘉宾\n00:00:39 本期飞行主播：亭亭\n00:01:31 从业26年的老咖啡人：东源老师\n00:02:46 收集了很多中古滤杯的咖啡人：树\n00:04:39 陶艺作者：斯摩格的斯摩格\n00:06:02 陶艺作者：落米fong豆的胡春宇\n00:06:58 咖啡师抱怨在景德镇买不到趁手的咖啡器具\n滤杯的起源和流变\n00:16:57 用滤杯冲咖啡的历史很短\n00:22:31 Chemex滤杯—锥形滤杯的灵感之源\n00:32:10 陶瓷材质与滤杯\n陶艺人和咖啡师的碰撞\n00:42:43 陶艺作者斯摩格决定做咖啡滤杯\n00:46:44 乐天陶社咖啡滤杯比赛冠军-落米fong豆\n00:55:58 实用性vs艺术性，好用的滤杯就不好看吗？\n01:02:33 陶艺家和咖啡师合作做出经典滤杯\n01:13:01 器型的流变：直身、扇形、锥形、蛋糕..\n在景德镇，畅想咖啡滤杯的未来\n01:23:44 做茶具和咖啡器具哪个更容易？\n01:30:23 陶艺人的滤杯作品，定价多少你愿意买？\n01:37:02 Hario兼顾美学实用还能量产，景德镇不行？\n01:48:35 精品咖啡的未来是... \n\n\n『延伸资料』\n树的中古滤杯展览，德林造味活动现场\n\n\n\n\n1910s，Melitta初代滤杯\n\n\n\nMelitta，滤纸压纸器\n\n\n50年代Melitta三孔滤杯\n\n\n田口护帮助三洋改进的滤杯\n\n\n\n姚继亮和树合作款滤杯\n\n\n斯摩格 作品\n\n\n\n落米fong豆 作品\n\n\n\n\n90年前的Melitta“聪明杯”\n\n\n\n\n录音当天\n\n\n『本期主播』\n俣佳 YUJIA\n亭亭\n\n\n策划：亭亭、Yujia、Yike\n剪辑：甜食\n监制：Yujia\n\n\n如果你喜欢我们的节目内容,请记得「订阅频道」。如果你对本期节目感兴趣,可以在微信公众号 - Coffeeplus播客,豆瓣小组Coffeeplus播客,以及新浪微博@Coffeeplus播客与我们互动交流。推荐您在小宇宙App,苹果Podcast, Spotify等泛用性客户端收听我们的节目,你还可以通过喜马拉雅,网易云音乐,QQ音乐,Google podcast, 平台收听我们的节目。如果喜欢我们的节目,请别忘了在小宇宙App上给我们留言互动,在苹果Podcast给我们五星好评。如针对本期节目有任何疑问,欢迎私信留言给我们,做进一步交流。\n\n\n片头音乐: Modern Attempt\n片尾音乐: O Come All Ye Faithful-DJ Williams\n\n\n『留言互动』 \n小红书:@Coffeeplus播客 @Yujia_66\n微信公众号:Coffeeplus播客\n\n\n也可以搜索添加微信Fishplus_wx, 备注“播客”,我们添加您进微信交流。",
+          "link": "https://www.ximalaya.com/sound/697632740",
+          "publishedOn": "2024-01-03T23:00:00.000Z",
+          "wordCount": null,
+          "title": "Vol.50 物优无虑，咖啡滤杯知多少？",
+          "itunes": {
+            "duration": "1:56:41"
+          },
+          "enclosure": {
+            "length": "112028524",
+            "type": "audio/x-m4a",
+            "url": "https://jt.ximalaya.com//GKwRIaIJa1W4A2DbewKWbd0j.m4a?channel=rss&album_id=52344140&track_id=697632740&uid=51214225&jt=https://audio.xmcdn.com/storages/0ddd-audiofreehighqps/80/DD/GKwRIaIJa1W4A2DbewKWbd0j.m4a"
+          },
+          "imageUrl": null
+        },
         {
           "id": "xmly_track_694861234",
           "author": null,
