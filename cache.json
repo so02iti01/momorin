@@ -361,6 +361,24 @@
       "siteUrl": "https://www.xiaoyuzhoufm.com/podcast/5e285326418a84a04627343f?utm_source=rss",
       "articles": [
         {
+          "id": "659b868c1519ccb103bf71e9",
+          "author": null,
+          "description": "欢迎收听本期演讲👏，想念肯尼亚😭。\n李奕，FarmWorks CEO。\n\n从麦肯锡离职后，李奕在肯尼亚找了一块地，做起了农场主。\n不仅要跟着货车去凌晨三点的市场，在非洲最大的贫民窟里卖番茄，还要研究更高效的运输路线和市场更需要的蔬菜种类。\n目前李奕在肯尼亚山脚下有三个农场，150英亩的土地，有近一百个员工。和当地3500多户小农合作，实现农业可持续。\n  \n【一些美图】\n\n  \n【时间轴】\n\n02:09 干咨询这么多年，看不到自己的点子落到实处\n03:53 从麦肯锡辞职，我在肯尼亚搞农业\n04:54 肯尼亚的农业现实：生产力低，潜力大\n08:29 好的生意并不复杂，我们一头管生产，一头管销售\n13:03 和农户合作收购，既解决了销，又稳定了供应\n15:58 有目标的支持，好过广撒网地培训\n18:27 卖菜确实不太赚钱，如果再不走量的话，那我这个公司永远起不来\n20:12 别人都在搞AI了，我还在种菜卖菜\n21:58 钱从哪里来？是靠援助吗？",
+          "link": "https://www.xiaoyuzhoufm.com/episode/659b868c1519ccb103bf71e9?utm_source=rss",
+          "publishedOn": "2024-01-08T05:22:19.000Z",
+          "wordCount": null,
+          "title": "从麦肯锡到肯尼亚卖菜｜一席 李奕",
+          "itunes": {
+            "duration": "00:26:05"
+          },
+          "enclosure": {
+            "url": "https://dts-api.xiaoyuzhoufm.com/track/5e285326418a84a04627343f/659b868c1519ccb103bf71e9/media.xyzcdn.net/lrnhKTnV1wrMa0tapJ2s6czpmtTg.m4a?from=axios/0.27.2",
+            "type": "audio/mp4",
+            "length": "25316165"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "6594f2aa3b60e1feaf567f6b",
           "author": null,
           "description": "张翎，作家，《唐山大地震》原著作者。\n\n在海外做听力康复师的十七年里，张翎的病人来自世界各地。他们中的许多人都曾阴差阳错被卷入一场战争，携带着累累伤痕走进她的诊室。\n战争和灾难虽已结束，创伤却在这群人的生命记忆留下了烙印，甚至成为几代人需要共同克服的重荷；经年累月，伴随他们成长、老去。灾难不受国界限制，它的“溢出物”绵延不绝，流淌到世界的任意角落。其中小小的潜流，刚好流入张翎的视野，成为她笔下的一个人物，一段故事。\n  \n完整音视频图文 张翎：只有记住的才可以存活 \n\n  \n【时间轴】\n\n03:35 我真正成为作家时已经人到中年\n05:20 靠着工厂自学的英语，我考上了复旦大学外文系\n10:31 人在海外，一路漂流\n11:57 作家面临两大陷阱，一是太穷，一是太富\n15:35 职业经历使我更关注战争带给人的长期影响\n22:16 诺曼底之后，我就没听过这么美妙的声音\n26:44 我虽没亲历过，但我看见了灾难在他们身上留下的痕迹\n32:35 活着就有各种各样的可能\n  \n签名版《归海》",
@@ -690,30 +708,6 @@
       ]
     },
     {
-      "title": "狸叶休息室",
-      "feedUrl": "https://rsshub.app/xiaoyuzhou/podcast/64c78b16e8176c3ff823e282",
-      "siteUrl": "https://www.xiaoyuzhoufm.com/podcast/64c78b16e8176c3ff823e282",
-      "articles": [
-        {
-          "id": "https://www.xiaoyuzhoufm.com/episode/658007853d1caa927ac831f0",
-          "author": null,
-          "description": "本单集涉及到 chiikawa 那个孩子部分的剧透，请大家酌情收听。",
-          "link": "https://www.xiaoyuzhoufm.com/episode/658007853d1caa927ac831f0",
-          "publishedOn": "2023-12-18T08:49:09.000Z",
-          "wordCount": null,
-          "title": "要求别人客观是一种无赖行为",
-          "itunes": {
-            "duration": "1:33:18"
-          },
-          "enclosure": {
-            "url": "https://media.xyzcdn.net/lqLVN31jp0sGZDRnKlnTkqbIpDME.m4a",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        }
-      ]
-    },
-    {
       "title": "硅谷101",
       "feedUrl": "https://feeds.fireside.fm/sv101/rss",
       "siteUrl": "https://sv101.fireside.fm",
@@ -860,24 +854,6 @@
             "length": "129587815",
             "type": "audio/x-m4a",
             "url": "https://jt.ximalaya.com//GKwRIaIJUuyQApvoxQKM05fr-aacv2-48K.m4a?channel=rss&album_id=64689453&track_id=693711209&uid=402532070&jt=https://audio.xmcdn.com/storages/bb57-audiofreehighqps/B0/6C/GKwRIaIJUuyQApvoxQKM05fr-aacv2-48K.m4a"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "xmly_track_691866649",
-          "author": null,
-          "description": "没有他，世界或许已被摧毁。\n\n\n1983年，北约展开代号“优秀射手83”的例行军事演习。紧张的局势下，克里姆林宫认为西方国家即将发动核武毁灭苏联，准备先发制人，足以毁灭世界的核战再次一触即发。\n\n\n在这紧要关头，即将升任克格勃伦敦站站长的戈尔季耶夫斯基将苏联领导人的误解以秘密途径传达给西方世界，让北约保持了克制，随即与克里姆林宫展开沟通，最终避免了一场浩劫。\n\n\n作为叛逃的高级情报官员，戈尔季耶夫斯基无疑有着传奇的一生。在被缺席审判获得死刑判决后，他至今位于俄的追杀名单上。这样一个根正苗红的克二代，为什么最终选择了站在“敌人”那边，又为此付出了什么样的代价？\n\n\n本期我们就来聊聊《间谍与叛徒》，聊聊信念、背叛和选择。\n\n\n（下集更精彩！高潮迭起什么的~）\n\n\n｜song list｜\n片头曲：Billy Strange - The Spy Who Came in from the Cold\n片尾曲：Alberto Iglesias - Tinker Tailor Soldier Spy\n\n\n/ 听友群 /\n《蜜獾吃书》听友群现已正式开放！进群方式：在「日谈公园」公众号后台发送“李小谈”，长按识别名片二维码添加，备注蜜獾吃书，即可进群～\n/ 商务合作 /\n欢迎发邮件至 bbpark@ritanbbpark.com",
-          "link": "https://www.ximalaya.com/sound/691866649",
-          "publishedOn": "2023-12-09T14:00:00.000Z",
-          "wordCount": null,
-          "title": "80.间谍与叛徒：恕我直言，007的故事弱爆了 (上)",
-          "itunes": {
-            "duration": "1:33:09"
-          },
-          "enclosure": {
-            "length": "133959886",
-            "type": "audio/x-m4a",
-            "url": "https://jt.ximalaya.com//GKwRIJEJSfkaArJyQAKJGpOI-aacv2-48K.m4a?channel=rss&album_id=64689453&track_id=691866649&uid=402532070&jt=https://audio.xmcdn.com/storages/dbcc-audiofreehighqps/4E/C2/GKwRIJEJSfkaArJyQAKJGpOI-aacv2-48K.m4a"
           },
           "imageUrl": null
         }
