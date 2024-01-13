@@ -352,24 +352,6 @@
             "length": "25665992"
           },
           "imageUrl": null
-        },
-        {
-          "id": "6579877bcab6086ec1cc83ce",
-          "author": null,
-          "description": "本期早咖啡为你带来与日常生活息息相关的商业科技动态，你将会听到：\n  \n苹果新增「被盗设备保护」功能\n  \nNetflix 首次公开收视率数据\n  \n微信视频号电商成交总额超千亿元\n  \n中国咖啡店数量超过美国成为全球第一\n\n本期还有关于万达、阿里巴巴、奇瑞汽车、特斯拉和 E3 电子游戏展的新动态，欢迎收听！\n与声动早咖啡高效早起 50 天活动\n本周是活动第四周。感谢罗拉为大家带来炙手可热的无线等离子直发梳！\n\n加入我们\n声动早咖啡节目组正在招聘内容研究岗位的实习生。如果你身处北京，并且愿意在四个月的时间里和我们一起追踪全球商业科技动态，欢迎 点击链接 来查看详细的职位信息和申请方式。\n主播\nMengyi\n幕后制作\n监制：Zelin、Qianwen\n实习研究员：Yoki、糕糕、Xinlu\n运营：瑞涵\n后期：Jack\n商业内容策划：Nene\n封面设计：饭团\n\n声动商务会客厅｜招聘入口｜给早咖啡投稿｜加入会员计划\n\n欢迎扫码添加声小音，在节目之外和我们保持联系。\n「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。\n  \n我们还有这些播客：声东击西、What's Next｜科技早知道、声动早咖啡、商业WHY酱、跳进兔子洞、吃喝玩乐了不起、泡腾 VC 、反潮流俱乐部\n  \n如果你喜欢我们的节目，欢迎 打赏 支持，或把我们的节目推荐给朋友",
-          "link": "https://www.xiaoyuzhoufm.com/episode/6579877bcab6086ec1cc83ce?utm_source=rss",
-          "publishedOn": "2023-12-13T23:00:00.000Z",
-          "wordCount": null,
-          "title": "Netflix 首次公开收视数据，中国咖啡店数量全球第一",
-          "itunes": {
-            "duration": "00:11:04"
-          },
-          "enclosure": {
-            "url": "https://dts-api.xiaoyuzhoufm.com/track/60de7c003dd577b40d5a40f3/6579877bcab6086ec1cc83ce/media.xyzcdn.net/lpeDJzLtg1_VsOoaEUM78W_BSjFc.m4a?from=axios/0.27.2",
-            "type": "audio/mp4",
-            "length": "16070885"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -378,6 +360,24 @@
       "feedUrl": "https://feed.xyzfm.space/jq7xytwpykrg",
       "siteUrl": "https://www.xiaoyuzhoufm.com/podcast/5e285326418a84a04627343f?utm_source=rss",
       "articles": [
+        {
+          "id": "65a113256d045a7f5ee20de0",
+          "author": null,
+          "description": "周末了，听点走心话题，更好迎接新年。\n\n\n刘文瑾，北京外国语大学外国文学研究所教授。\n\n不义和不幸每天都在世界各地发生，像地心引力一样沉重和真实。在面对那些血淋淋的残忍和暴力时，往往善恶有报才符合我们的三观，但也有一些人选择了罕见的宽恕。\n宽恕是一件珍贵的礼物，它体现了人性向善的愿望和可能性；但同时，宽恕也是一个难题。如何看待宽恕与正义之间的关系？宽恕是否应该有条件？在面对以民族、国家等为单位的集体犯罪时，谁应当忏悔，谁可以给予宽恕？\n  \n【时间轴】\n\n01:14 善恶有报更符合期待\n\n\n03:12 宽恕是罕见的，但仍然有人选择宽恕\n\n\n05:30 为什么她们会选择宽恕？\n\n\n11:14 宽恕虽然美好，但不应当被滥用\n\n\n13:45 给予宽恕困难，请求宽恕也很罕见\n\n\n15:21 讲述真相是宽恕的前提\n\n\n18:32 在20世纪的重大集体罪行中，个人应当扮演什么角色？\n\n\n24:10 十分必要和困难的是接受有限的宽恕\n\n\n27:28 既不遗忘也不陷入仇恨，负责任地记忆\n  \n【延伸阅读】\n\n穗积陈重《复仇与法律》\n阿伦特《艾希曼在耶路撒冷》\n贝蒂娜·施汤内特《耶路撒冷之前的艾希曼》\n伊恩·布鲁玛《罪孽的报应：德国和日本的战争记忆》\n桥本明子《漫长的战败：日本的文化创始、记忆与认同》\n顾若鹏《从人到鬼，从鬼到人：日本战犯与中国的审判》",
+          "link": "https://www.xiaoyuzhoufm.com/episode/65a113256d045a7f5ee20de0?utm_source=rss",
+          "publishedOn": "2024-01-12T10:23:33.000Z",
+          "wordCount": null,
+          "title": "生活中的道歉大部分是为了减少麻烦，很少有人认为自己真的需要请求原谅｜一席 刘文瑾",
+          "itunes": {
+            "duration": "00:28:48"
+          },
+          "enclosure": {
+            "url": "https://dts-api.xiaoyuzhoufm.com/track/5e285326418a84a04627343f/65a113256d045a7f5ee20de0/media.xyzcdn.net/lgiKlHzZs5H1_ERFMlC3UUgzgrCr.m4a?from=axios/0.27.2",
+            "type": "audio/mp4",
+            "length": "55614397"
+          },
+          "imageUrl": null
+        },
         {
           "id": "659b868c1519ccb103bf71e9",
           "author": null,
@@ -999,6 +999,24 @@
       "feedUrl": "https://www.ximalaya.com/album/68228204.xml",
       "siteUrl": "https://www.ximalaya.com/album/68228204",
       "articles": [
+        {
+          "id": "xmly_track_699420724",
+          "author": null,
+          "description": "朋友们都看年度账单了吗？\n上一年我们聊过差异巨大的消费观念，还聊过自己的抠搜人生经验。\n但一看这一年花了多少钱，还是彻底傻了眼，明明没买啥大件儿，咋眼睛一闭一睁钱就没了捏？\n于是本期我们复盘了过去一年花的钱，看看2024咱能有啥改变。\n奇妙被外卖账单创飞，周末没吃外卖改吃萨利亚了；\n姜姜买了快车优惠券，通勤上消费降级争取省点钱；\n牛小玲搬了家，下班路上的南瓜专车彻底解散；\n安妮决定慎重买基金，不再赔冤枉钱。\n本期我们对去年的账单做了复盘，也对新年的消费做了规划。\n能不能做到咱今年看吧！\n�内容摘要：\n00:36  年终账单大比拼\n01:16 靠打车挤进北京消费前20%\n10:30 地铁通勤吃苦，就为了看书\n18:20 房租降级，优选郊区\n24:40 谁家好人外卖花3万啊？\n42:58 消费降级，正式布局2024\n60:06 不是有钱没地花，是真的不能没有它\n�️本期主播：奇妙、姜姜、牛小玲、安妮\n剪辑：思凡\n视觉：一隻鹿\n�背景音乐-来自平台musicbed\nBreathing it in-Peached\nBelieve me- Dalton Day",
+          "link": "https://www.ximalaya.com/sound/699420724",
+          "publishedOn": "2024-01-12T10:20:38.000Z",
+          "wordCount": null,
+          "title": "辛苦一整年，没搞到钱只搞到笑",
+          "itunes": {
+            "duration": "1:21:38"
+          },
+          "enclosure": {
+            "length": "157917581",
+            "type": "audio/x-m4a",
+            "url": "https://jt.ximalaya.com//GKwRIasJdtX2Al0cWAKaVEAx.m4a?channel=rss&album_id=68228204&track_id=699420724&uid=407209968&jt=https://audio.xmcdn.com/storages/71bc-audiofreehighqps/21/1E/GKwRIasJdtX2Al0cWAKaVEAx.m4a"
+          },
+          "imageUrl": null
+        },
         {
           "id": "xmly_track_696560476",
           "author": null,
