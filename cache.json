@@ -352,24 +352,6 @@
             "length": "23938929"
           },
           "imageUrl": null
-        },
-        {
-          "id": "65953b0c096f477b3ebb5056",
-          "author": null,
-          "description": "本期早咖啡为你带来与日常生活息息相关的商业科技动态，你将会听到：\n  \n比亚迪季度销量首次超过特斯拉\n  \n初代「米老鼠」版权到期\n  \nOpenAI 去年收入超过 16 亿美元\n  \n中泰两国互免签证\n\n本期还有关于蜜雪冰城与古茗、造车新势力、大众汽车、环球影城与迪士尼的新动态，欢迎收听！\n与声动早咖啡高效早起 50 天活动\n高效早起活动的第 7 周，感谢我们的早起搭子RE而意提供的咖啡、玛芬兑换券！\n\n主播\nMengyi\n幕后制作\n监制：Zelin、Qianwen\n实习研究员：Yoki、糕糕、Xinlu\n运营：瑞涵\n后期：Jack\n商业内容策划：Nene\n封面设计：饭团\n\n声动商务会客厅｜招聘入口｜给早咖啡投稿｜加入会员计划\n\n欢迎扫码添加声小音，在节目之外和我们保持联系。\n「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。\n  \n我们还有这些播客：声东击西、What's Next｜科技早知道、声动早咖啡、商业WHY酱、跳进兔子洞、吃喝玩乐了不起、泡腾 VC 、反潮流俱乐部\n  \n如果你喜欢我们的节目，欢迎 打赏 支持，或把我们的节目推荐给朋友",
-          "link": "https://www.xiaoyuzhoufm.com/episode/65953b0c096f477b3ebb5056?utm_source=rss",
-          "publishedOn": "2024-01-03T23:00:00.000Z",
-          "wordCount": null,
-          "title": "比亚迪季度销量首超特斯拉，中泰两国永久互免签证",
-          "itunes": {
-            "duration": "00:10:23"
-          },
-          "enclosure": {
-            "url": "https://dts-api.xiaoyuzhoufm.com/track/60de7c003dd577b40d5a40f3/65953b0c096f477b3ebb5056/media.xyzcdn.net/ltepsylEKhQ8WGxZ70DFk0LT7p-I.m4a?from=axios/0.27.2",
-            "type": "audio/mp4",
-            "length": "15070682"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -665,6 +647,24 @@
       "siteUrl": "https://sv101.fireside.fm",
       "articles": [
         {
+          "id": "b874c116-cbdb-4218-b033-cedbc29a36ed",
+          "author": "硅谷101",
+          "description": "对技术的探索，影视特效行业一直走在最前列。本期我们邀请到了中国著名的视觉导演、影视制片人，也是《三体》的视觉导演陆贝珂来详细拆解《三体》的特效是如何做成的，以及生成式人工智能在影视特效行业中的作用。\n正在生成式AI大范围提升行业效率的同时，苹果Vision Pro这种具有空间计算的3D硬件产品，也让特效行业重新经历一轮新的媒介的转化。传统二维拍摄的影像采集方式，正在被纯3D的影像方案替代。\n【主播】\n陈茜，硅谷101联合创始人，视频主理人\n【嘉宾】\n陆贝珂，中国著名的视觉导演、影视制片人；《三体》的视觉导演\n【你将听到】\n三体古筝行动\n01:37 导演编剧转向视觉导演的成长之路\n04:13 三体“古筝行动”的特效是如何制作出来的？\n07:50 还原巴拿马运河学问大\n13:50 光的渲染会消耗大量算力，渲染前全靠导演经验\n16:14 特效预算不及Netflix十分之一，如何平衡预算与口碑\nAI改变的影视特效\n17:38 UE Unreal引擎做特效：从十个人缩减到两三个人\n21:21 生成式AI影响特效行业：概念设计、合成与动力学特效\n23:50 AI逻辑差，适合预告片与空镜头\n27:13 AI能做天上的云，却做不了阴影与人手\n32:00 视觉工作室使用Stable Diffusion的详细步骤\n35:04 看好世界模型的开发，但AI缺乏实际的自我边界\n特效技术的进化\n38:30 中国特效受限于资金而非技术，资金也会带来艺术创作经验上的不足\n41:20 中国图形图像学并不弱，但好莱坞打造的行业标准是有传承的\n42:05 《捉妖记》：艺术创作让技术显露出来\n43:51 毛发算力要求大，大量空气动力学的运用\n47:09 美国CG特效进化：从《大都会》《金刚》《深渊》到《终结者2》\n54:14 《阿凡达》：真人影视与动画边界模糊的里程碑\n59:40 省钱秘诀：后期制作时间取决于资金与算力\n61:35 Vision Pro：影视行业转向纯数字化制作，二维画面正在被3D制作取代\n【后期】\nAmei\n【BGM】\nMelting Glass - Eden Avery\nAmong the Clouds - Helmut Schenker\nSupine - Peter Sandberg\n【在这里找到我们】\n公众号：硅谷101\n收听渠道：苹果｜小宇宙｜喜马拉雅｜蜻蜓FM｜网易云音乐｜QQ音乐｜荔枝播客\n海外用户：Apple Podcast｜Spotify｜TuneIn｜Youtube｜Amazon Music\n联系我们：podcast@sv101.net",
+          "link": "https://sv101.fireside.fm/144",
+          "publishedOn": "2024-02-03T00:00:00.000Z",
+          "wordCount": null,
+          "title": "E139｜对话《三体》视觉导演陆贝珂：GenAI改变的影视特效业",
+          "itunes": {
+            "duration": "1:05:11"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/b874c116-cbdb-4218-b033-cedbc29a36ed.mp3",
+            "length": "93875669",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "978242d0-d1d0-4ccf-b101-86728070ce8d",
           "author": "硅谷101",
           "description": "转眼已经2024年了，这轮生成式人工智能大浪潮已经开始了16个月了。我们从各个角度聊过大模型给各行各业带来的变化，但是缺了一个视角：普通人是如何使用大模型的，尤其是学生。大概是一年以前的这个时候，在线课程供应商Study.com向1000名18岁以上的学生发起了一项调查，超过89%的学生使用ChatGPT来完成家庭作业，48%的学生用ChatGPT完成小测验，53%的学生用ChatGPT写论文，22%的学生用ChatGPT生成论文大纲。\n我就在好奇，大模型是如何帮助这些学生来学习的。但要找到真正把大模型用的好的学生嘉宾并不容易。直到同事给我推荐了本期嘉宾Siqi，他是从ChatGPT发布就开始使用，知道OpenAI和这些大模型公司的每一次宕机，准确来说他不算学生，但是抱着学生的心态在想学习，马上也要在大公司内部转到大模型的组，我们就来看看他是如何成为ChatGPT的高阶玩家的。\n这期节目我们录制于2023年11月，恰逢OpenAI开发者大会之后。跟他聊完的这两个月里，我种草了很多功能也解锁了很多新用法，有机会我再来跟大家聊一聊我们如何在播客和视频产品中用生成式人工智能技术来辅助我们做内容，欢迎持续关注我们。\n【主播】\n泓君，硅谷101创始人，播客主理人\n【嘉宾】\n左斯琦，大模型深度使用者\n【你将听到】\n01:50 学习和使用ChatGPT的五个步骤\n05:07 用Rag与API学习哲学：一次下载几百篇文献的问答学习法\n10:44  大模型辅助下的数学学习：从被动接受者到老师视角挑错\n17:22 ChatGPT证明题正确率是30%，沟通超过5-6轮就会忘掉之前的问题\n19:00 挑战一排代码也不写，10个小时做一款小游戏\n23:39 Siqi版的Character.ai ：十几个小时打造尼采或者黑格尔人格\n25:52 ChatGPT与Claude.ai、Bard的区别\n29:00 把流程化的事情扔给GPTs\n33:17 OpenAI在提高效率降低成本，而不是提升它的准确性\n33:40 最感兴趣的方向：自我提升的AI Agent\n37:42 当GenAI遇上思维导图：无法既宏观又细节\n40:06 智商测试只与做智商测试的能力有关，与智商无关\n41:52 大模型能解决什么问题比是不是有意识更有意义\n44:00 哲学的本质就是Clarify Question\n45:54 当奖励系统失效，如何跳脱出成年人的职场阶梯\n47:08 聊聊哲学、数学与计算机的共同点与艺术美感\n【相关信息】\n播客中提到使用大模型学习的五个步骤：\n1. ChatGPT做总结，全局理解，记在spreadsheet上\n2. Audible/speechify听\n3. spreadsheet复习，费曼法自问\n4. 用chatgpt提问题，做比较，扩展延伸到相关的问题和领域\n5. 用RAG + GPT API做research\n播客中提到的小游戏画面\n\n*与黑格尔和尼采的对话截图 *\n\n【后期】\nAMEI\n【BGM】\nSimple Pleasantries - Arthur Benson \n【在这里找到我们】\n公众号：硅谷101\n收听渠道：苹果｜小宇宙｜喜马拉雅｜蜻蜓FM｜网易云音乐｜QQ音乐｜荔枝播客\n海外用户：Apple Podcast｜Spotify｜TuneIn｜Google Podcast｜Amazon Music\n联系我们：podcast@sv101.net",
@@ -857,24 +857,6 @@
             "url": "https://jt.ximalaya.com//GKwRIW4Jfd8TAvSoYwKct-kT.m4a?channel=rss&album_id=52344140&track_id=700498799&uid=51214225&jt=https://audio.xmcdn.com/storages/968b-audiofreehighqps/F0/DE/GKwRIW4Jfd8TAvSoYwKct-kT.m4a"
           },
           "imageUrl": null
-        },
-        {
-          "id": "xmly_track_697632740",
-          "author": null,
-          "description": "你想过吗？最早人们喝咖啡是不用滤杯的，而是把研磨好的咖啡粉倒入锅里煮沸，沉淀咖啡渣后再饮用；自从咖啡走出埃塞俄比亚传入欧亚大陆，这样的饮用方式持续了几百年，土耳其咖啡就是古老的饮用方式之一。\n如今风靡全球的手冲咖啡，起源于100多年前一位家庭妇女，她就是咖啡滤纸及滤杯的发明者、也是德国美乐家品牌的创始人一— Melitta夫人。1908年，Melitta夫人尝试在凿了孔的黄铜壶里放入一张儿子写作业用的吸墨纸，上面铺咖啡粉，再用热水冲泡，结果惊奇地发现这种方法不仅很好地解决了咖啡渣问题，也能够萃取出醇正香气，让制作咖啡变得更简单。\n热衷收藏中古滤杯、探究滤杯流变历史的树老师不仅播客中给我们讲了这个关于滤杯起源的故事，还给我们展示他收藏的初代滤杯（见下）。借由2023年CTI趣味冲煮总决赛在景德镇落地，德林造味同期举办了一场名为「物优无虑」陶瓷滤杯主题聚会，树带来了50多只具有划时代意义的中古滤杯收藏，办了一个小小的展览，把我看得目瞪口呆，惊觉原来作为一个咖啡爱好者，我竟然对每天使用的滤杯一无所知！\n回想过去十年，你一定在早期的精品咖啡店看到过Chemex滤杯，无论是用来陈列还是插花，它一定会出现，但是你是否也像我一样疑惑过：“它无处不在，却几乎没见现在的咖啡人再用Chemex冲咖啡了？”这算是问对人了，听东源老师从门店运营的背景、树老师从滤杯流变的视角的在播客里的回答吧！\n知来路，方知去处。作为一种生活方式的新趋势，景德镇的陶瓷从业者们也将目光投入至咖啡器具的领域中，陶艺工作室斯摩格和落米fong豆都做过咖啡滤杯，这次也带着作品加入了讨论。当陶艺作者对器物的表达，和滤杯使用者的诉求存有激烈的矛盾时候该如何取舍？好用的器物是否真就一定不好看呢？\n本期节目内容图文版：https://mp.weixin.qq.com/s/vD-kaCgxfWMeUYJwASLr3Q\n\n\n『本期嘉宾…",
-          "link": "https://www.ximalaya.com/sound/697632740",
-          "publishedOn": "2024-01-03T23:00:00.000Z",
-          "wordCount": null,
-          "title": "Vol.50 物优无虑，咖啡滤杯知多少？",
-          "itunes": {
-            "duration": "1:56:41"
-          },
-          "enclosure": {
-            "length": "112028524",
-            "type": "audio/x-m4a",
-            "url": "https://jt.ximalaya.com//GKwRIaIJa1W4A2DbewKWbd0j.m4a?channel=rss&album_id=52344140&track_id=697632740&uid=51214225&jt=https://audio.xmcdn.com/storages/0ddd-audiofreehighqps/80/DD/GKwRIaIJa1W4A2DbewKWbd0j.m4a"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -900,24 +882,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "http://cdn.lizhi.fm/audio/2024/01/04/3051873509843901446_hd.mp3",
-          "author": null,
-          "description": "2024元旦快乐。2023年过去了，我们也说不好怀不怀念它。作为疫情结束后的第一年，很多玄幻新闻接连上演。社交媒体app造成的信息茧房愈发严重，这个世界到底是不是个草台班子？... 三体人啊，你们再不来可赶不上过年包饺砸啦！",
-          "link": "https://www.lizhi.fm/dhp_static/static/h5_dhp_app/share.html#/voice?voiceId=3051873509843901446&podcastId=5326703388531103359",
-          "publishedOn": "2024-01-04T11:26:42.000Z",
-          "wordCount": null,
-          "title": "Vol.65 迷幻2023不负责任瞎盘点: 全年热点总结会 < 下 >",
-          "itunes": {
-            "duration": "3963"
-          },
-          "enclosure": {
-            "url": "http://cdn.lizhi.fm/audio/2024/01/04/3051873509843901446_hd.mp3",
-            "length": "63464994",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -926,6 +890,24 @@
       "feedUrl": "https://www.ximalaya.com/album/68228204.xml",
       "siteUrl": "https://www.ximalaya.com/album/68228204",
       "articles": [
+        {
+          "id": "xmly_track_703795394",
+          "author": null,
+          "description": "",
+          "link": "https://www.ximalaya.com/sound/703795394",
+          "publishedOn": "2024-02-02T07:17:52.000Z",
+          "wordCount": null,
+          "title": "脱水版《过年实用指南》：没人比我们更懂过年",
+          "itunes": {
+            "duration": "1:28:20"
+          },
+          "enclosure": {
+            "length": "84868887",
+            "type": "audio/x-m4a",
+            "url": "https://jt.ximalaya.com//GKwRIJEJklqUAo641gKjs1fP.m4a?channel=rss&album_id=68228204&track_id=703795394&uid=407209968&jt=https://audio.xmcdn.com/storages/cbeb-audiofreehighqps/04/D0/GKwRIJEJklqUAo641gKjs1fP.m4a"
+          },
+          "imageUrl": null
+        },
         {
           "id": "xmly_track_702180842",
           "author": null,
