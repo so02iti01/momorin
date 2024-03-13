@@ -6,13 +6,31 @@
       "siteUrl": "https://sunshine.fireside.fm",
       "articles": [
         {
+          "id": "43b2fd2e-2925-4bfa-a7b9-efac80f2eff8",
+          "author": "放晴公园",
+          "description": "☀️ 本期放晴故事\n面对霸凌，教师该怎么去处理？我们该如何去帮助？如果选择隔离或惩罚霸凌者，是否会形成新的霸凌，是否可能造成更严重的现象，对孩子的影响又如何才能被减弱？今天的节目将分享一个不用惩罚的方式，却能同时帮助施暴者和被霸凌者的好方法。\n延伸阅读\n- What is KiVa? (https://www.kivaprogram.net/what-is-kiva/)\n- A Surprising Way to Stop Bullying (https://reasonstobecheerful.world/a-surprising-way-to-stop-bullying/)\n☀️ 改变自己的100件小事\n09:40 如何处理过年与长辈的聊天？\n☀️ 往期节目\ns3e5. 睡梦中可以治愈创伤吗？| 1020 (https://sunshine.fireside.fm/111)\n335. 怎么用弱点取得胜利？| 1117 (https://sunshine.fireside.fm/88)\n☀️\n本期制作\n主播：王子诣\n文稿撰写：王子诣，乔雨杉\n文稿编辑：方可成\n后期：曹睿清\n运营：乔雨杉\n《放晴早安》由「放晴公园」制作播出，是一档以「解困式报道」（solutions journalism）为理念的节目。我们的第三季节目由香港中文大学社会科学学院「社会科学与创新实践」（CU-ASK）辅修项目支持。",
+          "link": "https://sunshine.fireside.fm/163",
+          "publishedOn": "2024-03-12T22:00:00.000Z",
+          "wordCount": null,
+          "title": "s3e53.霸凌者不需要被惩罚？她们如何避免现实中的“黑暗荣耀”？｜0313",
+          "itunes": {
+            "duration": "13:36"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/e0f2e192-ad76-4431-942c-c290cfbcda1f/43b2fd2e-2925-4bfa-a7b9-efac80f2eff8.mp3",
+            "length": "13600925",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "212ba368-6d7f-4603-8b4b-2aa14719a4e4",
           "author": "放晴公园",
           "description": "☀️ 本期放晴故事\n随着“内卷”的浪潮席卷各行各业，不论是还在上学或者已经踏入职场，我们好像或多或少都会产生过心理方面的困扰：压力，紧张，甚至是抑郁。一间位于成都临江路的名为向内看见的书店，就尝试以把心理学主题书籍推广给更多人的方式，来缓解人们的这种困惑。开这家书店的女孩叫Cici，在书店门口的介绍牌上，她写道：“我们相信走进一家书店比走进一间咨询室容易”。\n延伸阅读\n- 我有一只叫抑郁症的黑狗 (https://book.douban.com/subject/26945196/)\n- 少有人走的路 (https://book.douban.com/subject/1775691/)\n☀️ 改变自己的100件小事\n09:40 如何克服自我怀疑？\n☀️ 往期节目\n287. 怎样在村里建一座图书馆？| 开学特别篇0906 (https://sunshine.fireside.fm/40)\n293. 中国大陆一位选书师，有什么特别之处？| 0915 (https://sunshine.fireside.fm/46)\n☀️\n本期制作\n主播：乔雨杉\n文稿撰写：乔雨杉，张紫涵\n文稿编辑：方可成\n后期：曹睿清\n运营：贾静晗\n《放晴早安》由「放晴公园」制作播出，是一档以「解困式报道」（solutions journalism）为理念的节目。我们的第三季节目由香港中文大学社会科学学院「社会科学与创新实践」（CU-ASK）辅修项目支持。",
           "link": "https://sunshine.fireside.fm/162",
           "publishedOn": "2024-03-11T22:00:00.000Z",
           "wordCount": null,
-          "title": "s3e50. 解忧书店: 开一间书店，疗愈他人的心灵｜0312",
+          "title": "s3e52. 解忧书店: 开一间书店，疗愈他人的心灵｜0312",
           "itunes": {
             "duration": "14:00"
           },
@@ -30,7 +48,7 @@
           "link": "https://sunshine.fireside.fm/161",
           "publishedOn": "2024-03-10T22:00:00.000Z",
           "wordCount": null,
-          "title": "s3e49. 在五十岁的时候转行做老师｜0311",
+          "title": "s3e51. 在五十岁的时候转行做老师｜0311",
           "itunes": {
             "duration": "10:17"
           },
@@ -48,7 +66,7 @@
           "link": "https://sunshine.fireside.fm/160",
           "publishedOn": "2024-03-07T22:00:00.000Z",
           "wordCount": null,
-          "title": "s3e48. 最近的这些好消息，让我们觉得世界还有希望｜0308",
+          "title": "s3e50. 最近的这些好消息，让我们觉得世界还有希望｜0308",
           "itunes": {
             "duration": "16:18"
           },
@@ -228,6 +246,24 @@
       "feedUrl": "https://feed.xyzfm.space/q88qwmydeuw8",
       "siteUrl": "https://www.xiaoyuzhoufm.com/podcast/60de7c003dd577b40d5a40f3?utm_source=rss",
       "articles": [
+        {
+          "id": "65f04215421188fe6aec26d5",
+          "author": null,
+          "description": "亚瑟士是一个与阿迪达斯同年创办，也与耐克有千丝万缕关联的运动品牌。在疫情之前的五年当中，亚瑟士的销售额有四年都在下滑，但他们在 2023 年销售额增长了 18%，净利润更是增长近八成。亚瑟士依靠怎样的策略才终于走出低谷实现增长？本期轻解读就与之相关 05:39。你最近购买的跑鞋是什么品牌的？你觉得匹克球会像飞盘一样在国内流行起来吗？在评论区和我们一起聊聊吧。\n本期还有关于 xAI 、小米 SU7、理想汽车和阿里大文娱的新动态 01:16，欢迎收听！\n\n图：《杀死比尔》剧照\n加入我们\n声动活泼的工作机会邀请——我们正在寻找：节目监制、节目营销、声音设计、人才发展 等多个岗位的全职伙伴，以及节目监制实习生，工作地点北京东城区。详细信息与申请方式，请点击链接\n主播\nMengyi\n幕后制作\n监制：Zelin、Qianwen\n实习研究员：糕糕、Stella、六工、Kiki\n运营：瑞涵\n后期：Jack、可特\n商业内容策划：Nene\n封面设计：饭团\n\n声动商务会客厅｜招聘入口｜给早咖啡投稿｜加入会员计划\n\n欢迎扫码添加声小音，在节目之外和我们保持联系。\n「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。\n  \n我们还有这些播客：声东击西、What's Next｜科技早知道、声动早咖啡、商业WHY酱、跳进兔子洞、吃喝玩乐了不起、泡腾 VC 、反潮流俱乐部\n  \n如果你喜欢我们的节目，欢迎 打赏 支持，或把我们的节目推荐给朋友",
+          "link": "https://www.xiaoyuzhoufm.com/episode/65f04215421188fe6aec26d5?utm_source=rss",
+          "publishedOn": "2024-03-12T23:00:00.000Z",
+          "wordCount": null,
+          "title": "曾让耐克做经销商的亚瑟士，如何走出业绩低谷？",
+          "itunes": {
+            "duration": "00:14:08"
+          },
+          "enclosure": {
+            "url": "https://dts-api.xiaoyuzhoufm.com/track/60de7c003dd577b40d5a40f3/65f04215421188fe6aec26d5/media.xyzcdn.net/lkWrcQCXc5vo5l7h_zwaQUg5IjIn.m4a",
+            "type": "audio/mp4",
+            "length": "13742838"
+          },
+          "imageUrl": null
+        },
         {
           "id": "65eeea018e6f71a5b7558873",
           "author": null,
