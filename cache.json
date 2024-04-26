@@ -310,24 +310,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "0b54a275-2dcc-4969-831f-646aeb7c2dcf",
-          "author": "放晴公园",
-          "description": "☀️ 本期放晴故事\n大家有没有见过流浪者呢？他们可能由于各种各样的原因选择流落街头。虽然在内地，这样的情况可能比较少，但在香港，这个数量却在增长。如果大家看到这样的事情，会怎样帮助他们呢？在香港，有这样一家人，他们从在家煮饭发放给流浪者开始，逐渐成长为一个NGO，而我们今天要分享的，就是他们的故事。\n延伸阅读\n- 立法會九題：協助無家者的措施 (https://www.info.gov.hk/gia/general/202305/03/P2023050300202.htm)\n- HANUMAN Charity (https://hanumancharity.org)\n☀️ 改变自己的100件小事\n10:20 如何走出期望恐惧？\n☀️ 往期节目\ns3e40. 回赠社会的一盒饭：一个60岁大觉悟的补镬佬｜1208 (https://sunshine.fireside.fm/149)\n347. 最宜居的城市在哪里？| 1205 (https://sunshine.fireside.fm/100)\n340. 怎样让残障人士也享受户外乐趣？| 1124 (https://sunshine.fireside.fm/93)\n☀️\n本期制作\n主播：乔雨杉\n文稿撰写：乔雨杉、周闻晓\n文稿编辑：方可成\n后期：曹睿清\n运营：乔雨杉\n《放晴早安》由「放晴公园」制作播出，是一档以「解困式报道」（solutions journalism）为理念的节目。我们的第三季节目由香港中文大学社会科学学院「社会科学与创新实践」（CU-ASK）辅修项目支持。",
-          "link": "https://sunshine.fireside.fm/173",
-          "publishedOn": "2024-03-26T22:00:00.000Z",
-          "wordCount": null,
-          "title": "s3e63. 在家做饭，送给流浪街头的人们｜0327",
-          "itunes": {
-            "duration": "15:50"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/e0f2e192-ad76-4431-942c-c290cfbcda1f/0b54a275-2dcc-4969-831f-646aeb7c2dcf.mp3",
-            "length": "15892415",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -336,6 +318,24 @@
       "feedUrl": "https://feed.xyzfm.space/q88qwmydeuw8",
       "siteUrl": "https://www.xiaoyuzhoufm.com/podcast/60de7c003dd577b40d5a40f3?utm_source=rss",
       "articles": [
+        {
+          "id": "662a0751ff598d65f227f12c",
+          "author": null,
+          "description": "最近，动视暴雪和网易又再次恢复了合作。就在 2022 年底，这两家公司还因为价格没谈拢终止了合作，且场面也一度闹得十分难看，甚至走到了相互起诉的地步。那么，当初互相不留情面决绝「分手」的两个公司，现在为什么又决定恢复合作了？ 本期的咖啡豆回复就与之相关 06:00。你是暴雪的国服玩家吗？这次暴雪国服重启，你还会加入吗？在评论区和我们一起聊聊吧。\n本期还有关于 TikTok、Meta、FTC 和小米汽车的新动态 01:20，欢迎收听！\n特别提醒\n本期是早咖啡五一假期前的最后一期节目，节后将会在 2024 年 5 月 6 日恢复更新，我们节后见～\n加入我们\n声动活泼的工作邀请——我们正在寻找：节目监制、商务 BD、节目营销、人才发展（HR）岗位的全职伙伴，以及节目监制实习生。工作地点: 北京东城区。详细信息与申请方式，请点击链接\n主播\nMengyi\n幕后制作\n监制：Zelin、Qianwen\n实习研究员：Stella、六工、Kiki、Kelly\n运营：George\n后期：Jack\n商业内容策划：Nene\n封面设计：饭团\n\n声动商务会客厅｜招聘入口｜给早咖啡投稿｜加入会员计划\n\n欢迎扫码添加声小音，在节目之外和我们保持联系。\n「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。\n  \n我们还有这些播客：声东击西、What's Next｜科技早知道、商业WHY酱、跳进兔子洞、吃喝玩乐了不起、泡腾 VC、反潮流俱乐部\n  \n如果你喜欢我们的节目，欢迎打赏支持，或把我们的节目推荐给朋友",
+          "link": "https://www.xiaoyuzhoufm.com/episode/662a0751ff598d65f227f12c?utm_source=rss",
+          "publishedOn": "2024-04-25T23:00:00.000Z",
+          "wordCount": null,
+          "title": "咖啡豆｜「分道扬镳」一年多以后，网易和暴雪为何重新携手合作？",
+          "itunes": {
+            "duration": "00:14:28"
+          },
+          "enclosure": {
+            "url": "https://dts-api.xiaoyuzhoufm.com/track/60de7c003dd577b40d5a40f3/662a0751ff598d65f227f12c/media.xyzcdn.net/lk0tMU9m4o7kJufQ0W__DOUpcR2d.m4a",
+            "type": "audio/mp4",
+            "length": "20997923"
+          },
+          "imageUrl": null
+        },
         {
           "id": "6628e3a0c3e09d8f3733afa9",
           "author": null,
@@ -677,24 +677,6 @@
             "length": "18917206"
           },
           "imageUrl": null
-        },
-        {
-          "id": "6602b8272d9eae5d0a2a78dc",
-          "author": null,
-          "description": "上周，英伟达 GTC 开发者大会在加州圣何塞举行，受益于 AI 热潮，英伟达的市值已突破 2 万亿美元，成为仅次于微软和苹果全球市值第三高的公司。但不为大多数人所知道的事，英伟达其实还是一个热门的风险投资者。根据华尔街日报的报道，英伟达在 2023 年一共投资了大约 30 多家初创企业，相比之下，顶级风投老虎环球在去年也仅投了 30 家。在芯片制造行业已如鱼得水的巨头英伟达，大力投资初创企业有哪些考量？本期轻解读就与之相关 06:56。你有关注这一届GTC开发者大会吗？英伟达这家公司给你留下了怎样的印象呢？在评论区和我们一起聊聊吧。\n本期还有关于小红书、飞书、波音和谷歌、高通、英特尔的新动态 02:02，欢迎收听！\n本期相关节目传送门：2024 英伟达 GTC，我们看到的芯片之外的野心\n加入我们\n声动活泼的工作机会邀请——我们正在寻找：节目监制、节目营销、声音设计、人才发展 等多个岗位的全职伙伴，以及节目监制实习生，工作地点北京东城区。详细信息与申请方式，请点击链接\n主播\nMengyi\n幕后制作\n监制：Zelin、Qianwen\n实习研究员：糕糕、Stella、六工、Kiki\n运营：瑞涵\n后期：Jack\n商业内容策划：Nene\n封面设计：饭团\n\n声动商务会客厅｜招聘入口｜给早咖啡投稿｜加入会员计划\n\n欢迎扫码添加声小音，在节目之外和我们保持联系。\n「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。\n  \n我们还有这些播客：声东击西、What's Next｜科技早知道、商业WHY酱、跳进兔子洞、吃喝玩乐了不起、泡腾 VC、反潮流俱乐部\n  \n如果你喜欢我们的节目，欢迎打赏支持，或把我们的节目推荐给朋友",
-          "link": "https://www.xiaoyuzhoufm.com/episode/6602b8272d9eae5d0a2a78dc?utm_source=rss",
-          "publishedOn": "2024-03-26T23:00:00.000Z",
-          "wordCount": null,
-          "title": "靠芯片赚得盆满钵满的英伟达，为什么还这么热衷于搞投资？",
-          "itunes": {
-            "duration": "00:16:42"
-          },
-          "enclosure": {
-            "url": "https://dts-api.xiaoyuzhoufm.com/track/60de7c003dd577b40d5a40f3/6602b8272d9eae5d0a2a78dc/media.xyzcdn.net/ls_nWeAweG2e0x_JYsnof5hX6R0o.m4a",
-            "type": "audio/mp4",
-            "length": "24232634"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -760,24 +742,6 @@
             "url": "https://dts-api.xiaoyuzhoufm.com/track/62c2a763ee51bbc306720305/660d18be4f66d1c1dad6d779/media.xyzcdn.net/lrno3vsUsooV5WuYjWqeXjF9_ZOg.m4a",
             "type": "audio/mp4",
             "length": "81474716"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "66017e4c1519139e4f8278f2",
-          "author": null,
-          "description": "和「烧饼夹肘子」的缘分来得十分偶然，冲着多快好省去吃的街头小吃，却被一枚无论油脂、温度还是口感，全都平衡得刚刚好的烧饼夹肘子深深打动，饱足又满足。\n出乎意料的满足感往往意味着更大的可能性，这么多年我估计是错过了点儿什么。\n【时间轴】\n1:36 肘子在北方是一个很隆重的东西\n7:34 为什么是热烧饼配凉肘子？\n11:16 肘子易得，烧饼难做\n19:09 宝华斋：酥脆风格的烧饼夹肘子天花板\n26:49 烧饼夹肘子得配什么汤？\n30:35 西海子西园：发面烧饼和油脂香气超配\n36:50 昌顺马记：烧饼夹坛子肉的细碎感\n41:35 肘香居：没有太大记忆点，但有足够的性价比\n43:17 晓梅和老四：酥脆风格的性价比之选\n46:42 如何挑选好吃的、爱吃的烧饼夹肘子\n【本期配图】\n1. 「宝华斋」的烧饼夹肘子和羊肚汤\n\n2. 「西海子西园」的烧饼夹肘子和疙瘩汤\n\n3. 「昌顺马记」的烧饼夹坛子肉、烧饼夹肘子和豆泡汤\n\n【本期鸣谢嘉宾】\n胖子哥，美食爱好者，大众点评/公众号：「胖子哥的饿世界」。\n本期播客提及公众号文章：2023版北京烧饼夹肘子小全\n【本期配乐】\nVivaldi - Violin Concerto in G Major RV310 I. Allegro\n.\n「厨此以外」是我在写了很多菜谱之后决定再往前踏出的一步，希望可以从菜场、从餐厅、从书里、从种种地方都能了解食物更多一些。烹饪并不是食物的终点，「和食物做朋友」才是想重新构建生活时必不可少的一环。\n可以在这些社交平台找到我，公众号/微博/小红书：田螺姑娘hhhaze 。",
-          "link": "https://www.xiaoyuzhoufm.com/episode/66017e4c1519139e4f8278f2?utm_source=rss",
-          "publishedOn": "2024-03-26T23:00:00.000Z",
-          "wordCount": null,
-          "title": "43. 烧饼夹肘子！香而不腻的平衡艺术",
-          "itunes": {
-            "duration": "00:50:03"
-          },
-          "enclosure": {
-            "url": "https://dts-api.xiaoyuzhoufm.com/track/62c2a763ee51bbc306720305/66017e4c1519139e4f8278f2/media.xyzcdn.net/lliZ0O4BuqEZLTMDkk_TSRmlAcWZ.m4a",
-            "type": "audio/mp4",
-            "length": "72601983"
           },
           "imageUrl": null
         }
