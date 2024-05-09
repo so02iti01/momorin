@@ -148,24 +148,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "5557d40c-1f62-4365-8b1c-7bdbf912dbb7",
-          "author": "放晴公园",
-          "description": "☀️ 本期放晴故事\n性骚扰的问题正在引起社会越来越多的关注，但仍有很多经受了性骚扰的幸存者因为种种原因不敢举报。与此同时，性骚扰的惯犯们也认定幸存者不会举报，就更加肆无忌惮。而现在，有一个平台既可以鼓励幸存者举报，也可以揪出性骚扰惯犯。它的机制是什么？它真的有效吗？欢迎收听今天的节目。\n延伸阅读\n- Callisto的网站 (https://www.projectcallisto.org)\n- 华盛顿邮报：认识Callisto，一个像Tinder一样但目的是打击性犯罪的平台 (https://www.washingtonpost.com/opinions/using-game-theory-technology-to-fight-sexual-assault/2015/10/09/f8ebd44e-6e02-11e5-aa5b-f78a98956699_story.html)\n☀️ 改变自己的100件小事\n08:45  如何养胃？\n☀️ 往期节目\ns3e42. 当公司告诉我评论对方外貌可能是性骚扰......｜0227 (https://www.xiaoyuzhoufm.com/episode/65dd0cf1c1df2e088aca9172)\n290. 什么才是合适的“性教育”？｜开学特别篇0909 (https://www.xiaoyuzhoufm.com/episode/631a756f946c24456e000405)\n☀️\n本期制作\n主播：王艺雯\n文稿撰写：周闻晓，乔雨杉\n文稿编辑：方可成\n后期：曹睿清\n运营：周闻晓\n《放晴早安》由「放晴公园」制作播出，是一档以「解困式报道」（solutions journalism）为理念的节目。我们的第三季节目由香港中文大学社会科学学院「社会科学与创新实践」（CU-ASK）辅修项目支持。",
-          "link": "https://sunshine.fireside.fm/183",
-          "publishedOn": "2024-04-08T22:00:00.000Z",
-          "wordCount": null,
-          "title": "s3e72. 揪出那个性骚扰惯犯｜0409",
-          "itunes": {
-            "duration": "13:45"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/e0f2e192-ad76-4431-942c-c290cfbcda1f/5557d40c-1f62-4365-8b1c-7bdbf912dbb7.mp3",
-            "length": "12797209",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -174,6 +156,24 @@
       "feedUrl": "https://feed.xyzfm.space/q88qwmydeuw8",
       "siteUrl": "https://www.xiaoyuzhoufm.com/podcast/60de7c003dd577b40d5a40f3?utm_source=rss",
       "articles": [
+        {
+          "id": "663b879adf37950503b690fa",
+          "author": null,
+          "description": "本期早咖啡为你带来与日常生活息息相关的商业科技动态，你将会听到：\n\n苹果发布新款 iPad Air 和 iPad Pro\n\nTiktok 针对剥离法案起诉美国政府\n\n任天堂预计明年推出下一代 Awitch\n\nOpenAI 将为 ChatGPT 引入网络搜索功能\n\n本期还有关于迪士尼、极氪、蔚来、SHEIN、Uber Eats 和 Instacart 的新动态，欢迎收听！\n由《三联生活周刊》官方 APP【三联中读】策划的「年度阅读倡导计划」活动正在进行，声动早咖啡作为已入驻三联中读播客频道的老朋友，获得了由【三联中读】提供的特别福利：价值 198 元的听书年卡 15 张，听友们在评论区参与指定互动即有机会获得年卡一张～欢迎大家登陆三联中读 APP，畅听 1000+ 好书，度过你的 365 个读书日。\n加入我们\n声动活泼的工作邀请——我们正在寻找：节目监制、商务 BD、节目营销、人才发展（HR）岗位的全职伙伴，以及节目监制实习生。工作地点: 北京东城区。详细信息与申请方式，请点击链接\n主播\nMengyi\n幕后制作\n监制：Zelin、Qianwen\n实习研究员：Stella、Kelly、东君\n运营：George\n后期：Jack、沁茗\n商业内容策划：Nene\n封面设计：饭团\n\n声动商务会客厅｜招聘入口｜给早咖啡投稿｜加入会员计划\n\n欢迎扫码添加声小音，在节目之外和我们保持联系。\n「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。\n\n我们还有这些播客：声东击西、What's Next｜科技早知道、商业WHY酱、跳进兔子洞、吃喝玩乐了不起、不止金钱、泡腾 VC、反潮流俱乐部\n\n如果你喜欢我们的节目，欢迎打赏支持，或把我们的节目推荐给朋友",
+          "link": "https://www.xiaoyuzhoufm.com/episode/663b879adf37950503b690fa?utm_source=rss",
+          "publishedOn": "2024-05-08T23:00:00.000Z",
+          "wordCount": null,
+          "title": "苹果发布新款 iPad，TikTok 就剥离法案起诉美国政府",
+          "itunes": {
+            "duration": "00:10:34"
+          },
+          "enclosure": {
+            "url": "https://dts-api.xiaoyuzhoufm.com/track/60de7c003dd577b40d5a40f3/663b879adf37950503b690fa/media.xyzcdn.net/lokD6Ju3YOVHUMYK9Q3Jp9eJg_zP.m4a",
+            "type": "audio/mp4",
+            "length": "15359701"
+          },
+          "imageUrl": null
+        },
         {
           "id": "663a22f0dec649c5f50a9ce0",
           "author": null,
@@ -459,24 +459,6 @@
             "url": "https://dts-api.xiaoyuzhoufm.com/track/60de7c003dd577b40d5a40f3/661525445dae7932c6654d73/media.xyzcdn.net/lqgYqaTWxQyztlcTi51opmnWwgo1.m4a",
             "type": "audio/mp4",
             "length": "22115947"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "6613c83e5dae7932c6261ed3",
-          "author": null,
-          "description": "本期早咖啡为你带来与日常生活息息相关的商业科技动态，你将会听到：\n  \nOpenAI、Google 与亚马逊利用视频内容训练 AI 模型\n  \nSam Altman 的 AI 项目寻求 10 亿美元融资\n  \n广汽埃安与滴滴自动驾驶成立合资公司\n  \n优衣库计划在北美开设 20 多家新店\n\n本期还有关于 Instagram 、苹果、三星、派拉蒙和亚马逊的新动态，欢迎收听！\n加入我们\n声动活泼的工作机会邀请——我们正在寻找：节目监制、节目营销、声音设计、人才发展 等多个岗位的全职伙伴，以及节目监制实习生，工作地点北京东城区。详细信息与申请方式，请点击链接\n主播\nMengyi\n幕后制作\n监制：Zelin、Qianwen\n实习研究员：Stella、六工、Kiki、Kelly\n运营：瑞涵\n后期：Jack\n商业内容策划：Nene\n封面设计：饭团\n\n声动商务会客厅｜招聘入口｜给早咖啡投稿｜加入会员计划\n\n欢迎扫码添加声小音，在节目之外和我们保持联系。\n「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。\n  \n我们还有这些播客：声东击西、What's Next｜科技早知道、商业WHY酱、跳进兔子洞、吃喝玩乐了不起、泡腾 VC、反潮流俱乐部\n  \n如果你喜欢我们的节目，欢迎打赏支持，或把我们的节目推荐给朋友",
-          "link": "https://www.xiaoyuzhoufm.com/episode/6613c83e5dae7932c6261ed3?utm_source=rss",
-          "publishedOn": "2024-04-08T23:00:00.000Z",
-          "wordCount": null,
-          "title": "OpenAI 使用 YouTube 内容训练 AI，优衣库将在北美开设新店",
-          "itunes": {
-            "duration": "00:10:00"
-          },
-          "enclosure": {
-            "url": "https://dts-api.xiaoyuzhoufm.com/track/60de7c003dd577b40d5a40f3/6613c83e5dae7932c6261ed3/media.xyzcdn.net/lpXlxBE4AkaSytzngEgB88hwc0QJ.m4a",
-            "type": "audio/mp4",
-            "length": "14528539"
           },
           "imageUrl": null
         }
