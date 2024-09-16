@@ -617,6 +617,12 @@
       ]
     },
     {
+      "title": "狸叶休息室",
+      "feedUrl": "https://rsshub.app/xiaoyuzhou/podcast/64c78b16e8176c3ff823e282",
+      "siteUrl": "https://www.xiaoyuzhoufm.com/podcast/64c78b16e8176c3ff823e282",
+      "articles": []
+    },
+    {
       "title": "硅谷101",
       "feedUrl": "https://feeds.fireside.fm/sv101/rss",
       "siteUrl": "https://sv101.fireside.fm",
@@ -1000,30 +1006,6 @@
           "enclosure": {
             "url": "https://r.typlog.com/eyJzIjoxMjY3LCJlIjo3NzQ3MCwidCI6MX0.opJg4-cBK-BkuMgZkJ1f59If3Ks/looper/8275583014_534064.mp3",
             "length": "75002615",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Peace",
-      "feedUrl": "https://rsshub.app/xiaoyuzhou/podcast/6219c1f142107d36fefdfa6c",
-      "siteUrl": "https://www.xiaoyuzhoufm.com/podcast/6219c1f142107d36fefdfa6c",
-      "articles": [
-        {
-          "id": "https://www.xiaoyuzhoufm.com/episode/66e3ed843a5ff0a0ca2f8f6a",
-          "author": null,
-          "description": "今年做过一个长梦\n陌生异国\n一个人提着行李走在小巷子的鹅卵石路上\n周围是高耸的古老建筑\n天色渐晚 不久我就迷路了\n当地居民默契的聚在护城河边\n暖色的灯光映在河面上摇曳\n人们唱歌跳舞\n有打非洲鼓的爆炸头和跑来跑去的小朋友\n所有人都非常开心\n梦里只有我\n在为和好朋友失散和不知住处担心\n那一刻我突然醒了 定定神\n决定以后遇到各种情况\n无论如何 也要先把行李甩在一边\n融入快乐的嘉年华\n💃\n秋天来了\n祝大家都有好心情\n/* we suffer more in our heads than in real life.*/\n♥ 所有音乐作品版权归其各自所有者。",
-          "link": "https://www.xiaoyuzhoufm.com/episode/66e3ed843a5ff0a0ca2f8f6a",
-          "publishedOn": "2024-09-13T07:45:07.000Z",
-          "wordCount": null,
-          "title": "一个遥远的梦",
-          "itunes": {
-            "duration": "0:29:25"
-          },
-          "enclosure": {
-            "url": "https://media.xyzcdn.net/ljF7A0CATWmEfcdDRE4dOPn3nY_0.m4a",
             "type": "audio/mpeg"
           },
           "imageUrl": null
