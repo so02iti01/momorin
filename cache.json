@@ -4,7 +4,26 @@
       "title": "放晴早安",
       "feedUrl": "https://feeds.fireside.fm/sunshine/rss",
       "siteUrl": "https://sunshine.fireside.fm",
-      "articles": []
+      "articles": [
+        {
+          "id": "96484287-6d42-4f36-b1fa-4032ff6b493b",
+          "author": "放晴公园",
+          "description": "下周，《放晴早安》第四季节目将会全新上线～\n🫶「谢谢你让我放晴」投稿链接：https://www.wjx.cn/vm/ex2wfBA.aspx\n本期预热节目，是今年5月底我们在北京做的线下活动的录音。我们的活动是和看理想圆桌一起举办的，现场的主持人是看理想的主播颠颠。非常感谢他和看理想团队对放晴早安的支持！",
+          "link": "https://sunshine.fireside.fm/192",
+          "publishedOn": "2024-10-01T22:00:00.000Z",
+          "wordCount": null,
+          "title": "我们都是那样慌慌张张，却不愿放弃寻找意义｜第四季上线预热",
+          "itunes": {
+            "duration": "1:19:18"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/e0f2e192-ad76-4431-942c-c290cfbcda1f/96484287-6d42-4f36-b1fa-4032ff6b493b.mp3",
+            "length": "76145423",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "声动早咖啡",
@@ -316,24 +335,6 @@
             "length": "18108493"
           },
           "imageUrl": null
-        },
-        {
-          "id": "66d475095a91beebb30254a2",
-          "author": null,
-          "description": "8 月底，美国航空航天局 NASA 正式宣布滞留空间站 79 天的两位宇航员，将在明年 2 月乘坐 Space X 的龙飞船返回地球，而波音的星际客机将在不搭载宇航员的情况下返回。由于星际客机出现推进器故障和氦气泄漏等问题，两位宇航员的返航时间此前已经多次被迫推迟。NASA 最初为何会将载人飞行任务交给波音？原本由波音星际客机送上太空的宇航员，最后却要由竞争对手 Space X 接回 ，又会对波音产生怎样的影响？本期轻解读就与之相关 06:23。你平时出行经常乘坐波音的飞机吗？你认为波音是否有可能挽回自己的形象？在评论区和我们一起聊聊吧。\n本期还有关于 OpenAI、华为、阿里和娃哈哈的新动态 01:42，欢迎收听！\n加入我们\n声动活泼的工作邀请——我们正在寻找：节目监制岗位的全职伙伴，以及节目监制实习生，点击相应链接即可查看岗位详情及投递指南。工作地点: 北京东城区，期待你的加入。\n主播\nMengyi\n幕后制作\n监制：Zelin、Qianwen、Stella\n实习研究员：东君、幸倍\n运营：George\n后期：沁茗\n商业内容策划：Nene\n封面设计：饭团\n\n声动商务会客厅｜招聘入口｜给早咖啡投稿｜加入会员计划\n\n欢迎扫码添加声小音，在节目之外和我们保持联系。\n「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。\n  \n我们还有这些播客：声东击西、What's Next｜科技早知道、商业WHY酱、跳进兔子洞&跳进兔子洞第三季（全新发布）、吃喝玩乐了不起、不止金钱、泡腾 VC、反潮流俱乐部\n  \n如果你喜欢我们的节目，欢迎打赏支持，或把我们的节目推荐给朋友",
-          "link": "https://www.xiaoyuzhoufm.com/episode/66d475095a91beebb30254a2?utm_source=rss",
-          "publishedOn": "2024-09-01T23:00:00.000Z",
-          "wordCount": null,
-          "title": "太空任务 8 天变 8 个月，无法接回宇航员的波音将受到哪些影响？",
-          "itunes": {
-            "duration": "00:15:04"
-          },
-          "enclosure": {
-            "url": "https://dts-api.xiaoyuzhoufm.com/track/60de7c003dd577b40d5a40f3/66d475095a91beebb30254a2/media.xyzcdn.net/llx7hBmFTF8jcv-7v0_LDQ8sUUfo.m4a",
-            "type": "audio/mp4",
-            "length": "21889277"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -435,24 +436,6 @@
             "url": "https://dts-api.xiaoyuzhoufm.com/track/62c2a763ee51bbc306720305/66d5853d5a91beebb338a430/media.xyzcdn.net/lnskXmks2fS1SGQVN-W8L9M7Bg7g.m4a",
             "type": "audio/mp4",
             "length": "92646452"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "66d2d9495a91beebb3c68268",
-          "author": null,
-          "description": "我特别爱潮汕，这里的饮食文化多元又深厚，怎么吃都吃不腻，还总能吃出新花样！我也一直想做这么一个《潮汕特辑》，从市井到殿堂，把我感受到的潮汕美食一点点呈现出来。在《潮汕特辑》里可能会聊到餐厅攻略、饮食文化，甚至只是聊聊怎么烧一道潮菜。每期节目的形式和时长不一，不管你到没到过潮汕，我都想尽己所能，让你感受到这座城市的万般滋味，是真的真的很好吃！\n第一季潮汕特辑一共有四集：\n  \n1）澄海，关键词：猪脚饭，卤鹅，薄壳米，酸菜\n  \n2）樟林古港，关键词：city walk，红头船\n  \n3）促肉粿条攻略，关键词：一人食，精准切割，丰俭由人，极致追求\n  \n4）潮汕饮食基础语法，关键词：鲜味，猪油，果酸，香料，两头甜\n\n这些节目会在一两周内陆续播出，欢迎大家收听！\n特别感谢「潮汕集锦」对《潮汕特辑》的支持，这是一家以潮汕灵魂调料鱼露起家的品牌。我们都在以各自的方式理解和表达潮汕传统饮食文化，潮汕地方不大，潮汕的食物却足够广阔，也足够极致。\n【本期配乐】\nBrandenburg Concerto No.4 In G BWV 1049: 1. Allegro\n.\n「厨此以外」是我在写了很多菜谱之后决定再往前踏出的一步，希望可以从菜场、从餐厅、从书里、从种种地方都能了解食物更多一些。烹饪并不是食物的终点，「和食物做朋友」才是想重新构建生活时必不可少的一环。\n可以在这些社交平台找到我，公众号/微博/小红书：田螺姑娘hhhaze 。",
-          "link": "https://www.xiaoyuzhoufm.com/episode/66d2d9495a91beebb3c68268?utm_source=rss",
-          "publishedOn": "2024-09-01T23:00:00.000Z",
-          "wordCount": null,
-          "title": "潮汕特辑 | 先导片：我想踏上那座美食孤岛",
-          "itunes": {
-            "duration": "00:08:06"
-          },
-          "enclosure": {
-            "url": "https://dts-api.xiaoyuzhoufm.com/track/62c2a763ee51bbc306720305/66d2d9495a91beebb3c68268/media.xyzcdn.net/lhmYJdUT9gKbS4BGSJB5__uGcmDD.m4a",
-            "type": "audio/mp4",
-            "length": "11750141"
           },
           "imageUrl": null
         }
