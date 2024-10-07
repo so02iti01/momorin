@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-06T00:22:18.528Z</id>
+    <id>urn:2024-10-07T00:21:32.730Z</id>
     <title>Sunny🕊️</title>
-    <updated>2024-10-06T00:22:18.528Z</updated>
+    <updated>2024-10-07T00:21:32.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[阳光偏爱彼此相连的人群｜第四季发刊词]]></title>
+        <id>2ff6ad52-0d38-445a-a504-dbec82f50e84</id>
+        <link href="https://sunshine.fireside.fm/s4e0"/>
+        <updated>2024-10-06T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[☀️ 给我们投稿，感谢让你放晴的人：https://www.wjx.cn/vm/ex2wfBA.aspx
+📖 保罗·法默《修复世界》（张晶译）：https://book.douban.com/subject/36829308/
+🍠 我们开通小红书啦，快来关注我们：@放晴公园
+《放晴早安》由「放晴公园」制作播出，是一档以「解困式报道」（solutions journalism）为理念的节目。我们的第三、四季节目由香港中文大学社会科学学院「社会科学与创新实践」（CU-ASK）辅修项目支持。]]></summary>
+        <author>
+            <name>放晴公园</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[E168｜全息显示的AR眼镜真的来了，聊聊Meta Connect与日趋成熟的XR生态]]></title>
         <id>48cd33bb-f57b-49b1-a226-f992303cf9c9</id>
@@ -12,7 +25,7 @@
         <updated>2024-10-06T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Meta Connect开发者大会的一周以后，Meta股价连创新高，创始人马克·扎克伯格身价一度超越贝佐斯成为世界第二大富豪。活动上，扎克伯格从保险箱里拿出了一副全息显示AR眼镜原型机：Meta Orion。尽管只向少量开发者和媒体开放试用，也没有开卖的计划，只有一个原型机的Orion依旧成为了业内争相讨论的焦点。
 除了Orion，Meta还发布了平价版VR眼镜Quest 3S，更新了Meta AI和开源模型Llama 3.2。这些更新不仅仅只是参数和价格的升级：Meta正在逐步构建一个硬件、软件和AI技术融合的生态系统。而上一家完成了硬件+软件生态的公司，是智能手机时代的苹果。
-本期《硅谷101》录制于Connect大会结束的第二天，我们邀请到了三位刚从大会现场回来的资深开发者，第一时间解读小扎的“压箱宝”Orion到底强在哪里，为何要把Quest VR的价格打下来，以及Meta如何鼓励包括Mod二创在内的内容创作者扩充整个XR生态。
+本期《硅谷101》录制于Connect大会结束的第一天，我们邀请到了三位刚从大会现场回来的资深开发者，第一时间解读小扎的“压箱宝”Orion到底强在哪里，为何要把Quest VR的价格打下来，以及Meta如何鼓励包括Mod二创在内的内容创作者扩充整个XR生态。
 【主播】
 泓君Jane，硅谷101创始人，播客主理人
 【嘉宾】

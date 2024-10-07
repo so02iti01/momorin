@@ -6,6 +6,24 @@
       "siteUrl": "https://sunshine.fireside.fm",
       "articles": [
         {
+          "id": "2ff6ad52-0d38-445a-a504-dbec82f50e84",
+          "author": "放晴公园",
+          "description": "☀️ 给我们投稿，感谢让你放晴的人：https://www.wjx.cn/vm/ex2wfBA.aspx\n📖 保罗·法默《修复世界》（张晶译）：https://book.douban.com/subject/36829308/\n🍠 我们开通小红书啦，快来关注我们：@放晴公园\n《放晴早安》由「放晴公园」制作播出，是一档以「解困式报道」（solutions journalism）为理念的节目。我们的第三、四季节目由香港中文大学社会科学学院「社会科学与创新实践」（CU-ASK）辅修项目支持。",
+          "link": "https://sunshine.fireside.fm/s4e0",
+          "publishedOn": "2024-10-06T22:00:00.000Z",
+          "wordCount": null,
+          "title": "阳光偏爱彼此相连的人群｜第四季发刊词",
+          "itunes": {
+            "duration": "9:22"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/e0f2e192-ad76-4431-942c-c290cfbcda1f/2ff6ad52-0d38-445a-a504-dbec82f50e84.mp3",
+            "length": "9007377",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "96484287-6d42-4f36-b1fa-4032ff6b493b",
           "author": "放晴公园",
           "description": "下周，《放晴早安》第四季节目将会全新上线～\n🫶「谢谢你让我放晴」投稿链接：https://www.wjx.cn/vm/ex2wfBA.aspx\n本期预热节目，是今年5月底我们在北京做的线下活动的录音。我们的活动是和看理想圆桌一起举办的，现场的主持人是看理想的主播颠颠。非常感谢他和看理想团队对放晴早安的支持！",
@@ -444,7 +462,7 @@
         {
           "id": "48cd33bb-f57b-49b1-a226-f992303cf9c9",
           "author": "硅谷101",
-          "description": "Meta Connect开发者大会的一周以后，Meta股价连创新高，创始人马克·扎克伯格身价一度超越贝佐斯成为世界第二大富豪。活动上，扎克伯格从保险箱里拿出了一副全息显示AR眼镜原型机：Meta Orion。尽管只向少量开发者和媒体开放试用，也没有开卖的计划，只有一个原型机的Orion依旧成为了业内争相讨论的焦点。\n除了Orion，Meta还发布了平价版VR眼镜Quest 3S，更新了Meta AI和开源模型Llama 3.2。这些更新不仅仅只是参数和价格的升级：Meta正在逐步构建一个硬件、软件和AI技术融合的生态系统。而上一家完成了硬件+软件生态的公司，是智能手机时代的苹果。\n本期《硅谷101》录制于Connect大会结束的第二天，我们邀请到了三位刚从大会现场回来的资深开发者，第一时间解读小扎的“压箱宝”Orion到底强在哪里，为何要把Quest VR的价格打下来，以及Meta如何鼓励包括Mod二创在内的内容创作者扩充整个XR生态。\n【主播】\n泓君Jane，硅谷101创始人，播客主理人\n【嘉宾】\n瞿嘉，“大象”， 黑暗幻想风格动作VR游戏《Grimlord (http://linktr.ee/grimlord)》制作人\n张猛博士 ，XR健康应用《FunFitLand (http://www.funfitland.com/)》创始人 \n黄庄，治愈系VR生活模拟类游戏《Little Planet (https://www.littleplanet.world/)》 游戏制作人\n【活动预告】\n如果大家对更多跟AI还有前沿科技相关的内容感兴趣，欢迎报名参加我们10月19号下午在硅谷Sunnyvale举办的大会。活动报名链接：https://lu.ma/sv101genai2024  \n感谢盛大集团对本次大会的赞助支持。盛大是一家私人投资控股集团，由中国网络互娱的先锋陈天桥以及家…",
+          "description": "Meta Connect开发者大会的一周以后，Meta股价连创新高，创始人马克·扎克伯格身价一度超越贝佐斯成为世界第二大富豪。活动上，扎克伯格从保险箱里拿出了一副全息显示AR眼镜原型机：Meta Orion。尽管只向少量开发者和媒体开放试用，也没有开卖的计划，只有一个原型机的Orion依旧成为了业内争相讨论的焦点。\n除了Orion，Meta还发布了平价版VR眼镜Quest 3S，更新了Meta AI和开源模型Llama 3.2。这些更新不仅仅只是参数和价格的升级：Meta正在逐步构建一个硬件、软件和AI技术融合的生态系统。而上一家完成了硬件+软件生态的公司，是智能手机时代的苹果。\n本期《硅谷101》录制于Connect大会结束的第一天，我们邀请到了三位刚从大会现场回来的资深开发者，第一时间解读小扎的“压箱宝”Orion到底强在哪里，为何要把Quest VR的价格打下来，以及Meta如何鼓励包括Mod二创在内的内容创作者扩充整个XR生态。\n【主播】\n泓君Jane，硅谷101创始人，播客主理人\n【嘉宾】\n瞿嘉，“大象”， 黑暗幻想风格动作VR游戏《Grimlord (http://linktr.ee/grimlord)》制作人\n张猛博士 ，XR健康应用《FunFitLand (http://www.funfitland.com/)》创始人 \n黄庄，治愈系VR生活模拟类游戏《Little Planet (https://www.littleplanet.world/)》 游戏制作人\n【活动预告】\n如果大家对更多跟AI还有前沿科技相关的内容感兴趣，欢迎报名参加我们10月19号下午在硅谷Sunnyvale举办的大会。活动报名链接：https://lu.ma/sv101genai2024  \n感谢盛大集团对本次大会的赞助支持。盛大是一家私人投资控股集团，由中国网络互娱的先锋陈天桥以及家…",
           "link": "https://sv101.fireside.fm/175",
           "publishedOn": "2024-10-06T00:00:00.000Z",
           "wordCount": null,
