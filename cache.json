@@ -6,13 +6,31 @@
       "siteUrl": "https://sunshine.fireside.fm",
       "articles": [
         {
+          "id": "f39b62d1-4eb0-42e4-aaf5-6f77e637bf4b",
+          "author": "放晴公园",
+          "description": "☀️ 本期放晴故事\n你是否有这样的经历，当和家人一起吃饭时，当和朋友聚会时，你下意识的反应却是打开手机，从而浪费了很多本可以更有意义的时间。如果你的生活中时常有这类情况，不妨来看看阿姆斯特丹一家叫“Offline Club”的俱乐部是怎样来解决这个问题，促进人与人的线下互动的。\n延伸阅读\n* 「離線俱樂部」遠離數碼生活 在荷蘭受熱捧 (https://www.epochtimes.com/b5/24/5/29/n14260179.htm)\n* Life without a phone at The Offline Club (https://www.abc.net.au/listen/programs/saturdayextra/life-without-a-phone-the-offline-club/103979050)\n* Offline Club 官网 (https://www.offline.club/)\n☀️ 改变自己的100件小事\n08:36  健康会传染\n☀️往期节目\ns3e11. 建立在深山里的复兴营，帮助“家里蹲们”走出房门｜1030 (https://sunshine.fireside.fm/118)\ns3e26. 在咖啡馆谈论死亡｜1120 (https://sunshine.fireside.fm/134)\ns3e52. 解忧书店: 开一间书店，疗愈他人的心灵｜0312 (https://sunshine.fireside.fm/162)\n☀️\n本期制作\n主播：钱睿暄\n文稿撰写：钱睿暄   李千寻\n文稿编辑：张小阳   方可成\n后期：林适芬\n运营：周姿含\n🍠我们开通小红书啦，快来关注我们：@放晴公园 (https://www.xiaohongshu.com/user/profile/66695c2c0000000007005fba)\n《放晴早安》由「放晴公园」制作播出，是一档以「解困式报道」（solutions journalism）为理念的节目。我们的第三、四季节目由香港中文大学社会科学学院「社会科学与创新实践」（CU-ASK）辅修项目支持。",
+          "link": "https://sunshine.fireside.fm/s4e6",
+          "publishedOn": "2024-10-13T22:00:00.000Z",
+          "wordCount": null,
+          "title": "s4e6.聚会时人人都在看手机？这群人有办法“治”好你｜1014",
+          "itunes": {
+            "duration": "12:23"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/e0f2e192-ad76-4431-942c-c290cfbcda1f/f39b62d1-4eb0-42e4-aaf5-6f77e637bf4b.mp3",
+            "length": "17847680",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "b9ee56f3-e06d-4054-9e5a-416406f18d3e",
           "author": "放晴公园",
           "description": "☀️ 本期放晴故事\n这是我们第四季节目的第一期好消息汇总。虽然今天是星期六，但在大陆仍然是一个工作日，所以我们一如既往地为大家带来了好消息总结！\n你见过盲人芭比吗？你知道动态捕捉技术还可以被用于疾病研究吗？除了这些，在这一期节目里，我们还会为你分享电子导盲犬的最新进展、伦敦设计节里展出的“街头家具”、美国心理健康热线的最新变化。欢迎你来收听，祝大家拥有放晴的每一天！\n延伸阅读\n为视障儿童创造归属感的“盲人芭比” (https://www.goodgoodgood.co/articles/mattel-blind-barbie-down-syndrome)\n垂直绿化装置为城市“热岛”降温 (https://www.goodnewsnetwork.org/vertical-greening-brings-nature-to-urban-heat-islands-quickly-and-easily-look/)\n创新方式改善心理健康 (https://www.bbc.co.uk/programmes/p0j924pb)\n☀️ 推荐电影\n08:39 《心灵奇旅》（Soul）\n☀️ 往期节目\ns3e80. 在第三季的最后，我们给你带来这些好消息丨0419 (https://www.xiaoyuzhoufm.com/episode/66219ac47ea4dff38197aefa)\ns3e70. 滴！这些好消息正在等待查收｜0405 (https://www.xiaoyuzhoufm.com/episode/660f239d49d9faddc2c3270a)\ns3e60. 世界又为我们放晴了！最近的好消息们：“下班不回老板消息”应该立法！｜0322 (https://www.xiaoyuzhoufm.com/episode/65fcae62bb43f914da1ed734)\ns3e50. 最近的这些好消息，让我们觉得世界还有希望｜0308 (https://www.xiaoyuzhoufm.com/episode/65ea390b2af34e08eb684bdb)\n☀️\n本期制作\n主播：钱睿暄\n文稿撰写：钱睿暄\n文稿编辑：方可成\n后期：李千寻\n运营：郑雨杉",
           "link": "https://sunshine.fireside.fm/s4e5",
           "publishedOn": "2024-10-11T22:00:00.000Z",
           "wordCount": null,
-          "title": "s4e5.新的一季，查收新的放晴好消息！",
+          "title": "s4e5.新的一季，查收新的放晴好消息！｜1012",
           "itunes": {
             "duration": "11:01"
           },
@@ -138,6 +156,24 @@
       "feedUrl": "https://feed.xyzfm.space/q88qwmydeuw8",
       "siteUrl": "https://www.xiaoyuzhoufm.com/podcast/60de7c003dd577b40d5a40f3?utm_source=rss",
       "articles": [
+        {
+          "id": "670bdafc0d2f24f289cc4367",
+          "author": null,
+          "description": "北京时间 10 月 11 日上午，特斯拉在洛杉矶举办了「We, Robot」新品发布会，并发布了无人驾驶出租车 Cybercab、无人驾驶厢式货车 Robovan，以及改装款无人驾驶 Model Y。但金融时报指出，特斯拉本次既没有详细说明无人驾驶出租车背后的技术细节，也没有解释将如何降低成本。发布会后，特斯拉股价在周五收盘时下跌了近 9%，而被认为市场份额可能会因为无人驾驶出租车受损的网约车平台 Uber 和 Lyft ，股价却都上涨超过 7%。特斯拉的 Cybercab 和竞争对手们存在哪些不同？外界现在对特斯拉的无人驾驶出租车还有哪些担忧？本期轻解读就与之相关 06:05。你上周是否看了特斯拉的发布会？你看后的感受如何？你会愿意让自己的闲置车加入无人驾驶出租车车队吗？在评论区和我们一起聊聊吧。\n本期还有关于优衣库、安踏、苹果和字节跳动的新动态 02:10，欢迎收听！\n「昂跑运动局、等你来组局」将在双十一活动期间举办跑步局、网球局、户外局、训练局、和 Citywalk 局共计五场线下运动主题活动。每场运动局都全程配备专业的运动主理人，而且参与的朋友们也都有机会可以试穿昂跑专项的运动装备，在运动的过程中全程体验昂跑的产品。除了这五场官方发起的运动局，On昂跑也会定期举办城市例跑活动，感兴趣的朋友们可以到昂跑官方体验中心小程序报名参加，期待在 On昂跑的运动局上与你相遇！\nOn昂跑也在近期发布了新款综合训练鞋 Cloud X Z5 和 Cloud X 4。也欢迎访问On昂跑的官方旗舰店和小程序。双十一期间，在On昂跑官方旗舰店购物满1500元即送限定帆布包等礼赠，更多活动详情欢迎访问店铺！\n\n\n声动活泼终于要和大家见面啦！\n10 月 19 日周六 10 点至 11 点 30 分 在上海 上生·新所「2024·小宇宙播客漫游日 」现场，声动活泼的两位创始人徐涛和 Diane，以及各档节目的小伙伴将会齐聚上海，和你面对面交流。\n现场会与你分享各档节目制作过程、聊到我们的幕后故事和所思所想，也会分享我们的信息食谱和有用工具，当然更多的时间还是希望留给大家一起提问和讨论，现场也设置了其他互动环节，欢迎想深入了解我们的朋友来到现场。\n本次活动有 50 个名额，仅限声动活泼会员报名，先到先得。不过大家热情高涨，目前已经报满。没有来得及报名的朋友依然可以成为我们的会员，我们会把活动现场的音频发给会员~除此之外，会员可以参加年末我们将举办的系列活动，还可以解锁旗下所有付费节目、收到我们每周的邮件来信。点击这里成为会员吧。\n加入我们\n声动活泼的工作邀请——我们正在寻找：节目监制岗位的全职伙伴，以及节目监制实习生、 品牌传播实习生，点击相应链接即可查看岗位详情及投递指南。工作地点: 北京东城区，期待你的加入。\n主播\nMengyi\n幕后制作\n监制：Zelin、Qianwen、Stella\n实习研究员：东君、幸倍、姝含\n运营：George\n后期：沁茗\n商业内容策划：Nene\n封面设计：饭团\n\n声动商务会客厅｜招聘入口｜给早咖啡投稿｜加入会员计划\n\n欢迎扫码添加声小音，在节目之外和我们保持联系。\n「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。\n  \n我们还有这些播客：声东击西、What's Next｜科技早知道、商业WHY酱、跳进兔子洞&跳进兔子洞第三季（全新发布）、吃喝玩乐了不起、不止金钱、泡腾 VC、反潮流俱乐部\n  \n如果你喜欢我们的节目，欢迎打赏支持，或把我们的节目推荐给朋友",
+          "link": "https://www.xiaoyuzhoufm.com/episode/670bdafc0d2f24f289cc4367?utm_source=rss",
+          "publishedOn": "2024-10-13T23:00:00.000Z",
+          "wordCount": null,
+          "title": "On昂跑｜没有方向盘和踏板，姗姗来迟的特斯拉「赛博出租」引发哪些担忧？",
+          "itunes": {
+            "duration": "00:19:08"
+          },
+          "enclosure": {
+            "url": "https://dts-api.xiaoyuzhoufm.com/track/60de7c003dd577b40d5a40f3/670bdafc0d2f24f289cc4367/media.xyzcdn.net/lkc041nu94tT9XMy4JmMCwdsR40I.m4a",
+            "type": "audio/mp4",
+            "length": "27780517"
+          },
+          "imageUrl": null
+        },
         {
           "id": "6707bcd06c7f817786182ac0",
           "author": null,
@@ -588,6 +624,24 @@
       "siteUrl": "https://sv101.fireside.fm",
       "articles": [
         {
+          "id": "0f53c183-1136-46a2-b93a-7510f03cefe4",
+          "author": "硅谷101",
+          "description": "上周末，在被马斯克定义为“载入史册”的“We, Robot”发布会上，特斯拉一口气发布了两款Robotaxi（无人出租车）概念车：Cybercab和Robovan。到场的观众兴奋地和人形机器人Optimus互动合影，甚至排队两三个小时试坐Cybercab。但是华尔街投资者和市场并没有分享这份激动，特斯拉的股票在第二天大跌。\n本期节目我们邀请到了四位嘉宾，他们分别是现场参与发布会的科技博主、自动驾驶行业的从业者和华尔街的投资人，一起来聊聊马斯克这次的RoboTaxi发布会到底怎么样。\n【主播】\n泓君Jane，硅谷101创始人，播客主理人\n陈茜，硅谷101联合创始人，视频主理人\n【嘉宾】\nLeo，科技投资博主CyberCat，武田制药资深科学家，药学博士（X@Tesla_Cybercat；YouTube@CybercatX01）\n于振华，前特斯拉AI工程师（X@TSLA99T）\n曲宁，蔚来技术副总裁，软件平台团队负责人\n刘沁东（Bruce Liu），美国Esoterica Capital(济容投资)首席执行官兼首席投资官\n【联想直播】\n北京时间16日凌晨1点，即美国西部时间10月15日上午10点，2024联想创新科技大会将在美国西雅图举办。本次大会聚集了NVIDIA黄仁勋、AMD苏姿丰、Meta扎克伯格，微软CEO纳德拉，以及英特尔、高通等顶尖科技企业的领袖，将重点探讨混合式AI以及生成式AI的落地。\n在活动开始前的两个小时，《硅谷101》将联合联想集团在其官方账号直播聊聊大家最近观察到的一些AI趋势。如果你感兴趣，可以通过微信公众号或视频号搜索“联想集团”，预约观看本次大会。直播预约请点击这里 (https://mp.weixin.qq.com/s/PTVpqmzoFR1se9tSsb3N2g)。\n【你将听到】\n02:29 联想科技大会直播预告\n体验特斯拉的“西部世界”\n06:01 已确认：机器人猜石头剪刀布靠的是远程遥控\n09:24 给机器人讲冷笑话才能拿到饼干\n15:36 没有任何物理按钮的Cybercab和Robovan质感像Macbook\n25:42 现场的体验拉满，但场外的观众失望\n发布会的台前幕后\n30:39 Cybercab脱胎于传闻中的Model 2\n31:38 Optimus的终极瓶颈在于只用纯视觉传感完成多样性任务\n37:31 Robotaxi时间表：2026先做到“feature complete”\n42:25 2019 vs 2024: 马斯克的用力与轻描淡写\n45:09 自以为大获成功却被华尔街泼冷水\n48:09 全公司停下产研搞demo，开完发布会就裁员\n54:01 带娃上班的马斯克与全员打鸡血的工程师团队\n华尔街视角\n59:10 投资者的最低期待是看到Robotaxi的产品路线图\n01:01:36 作为“汽车公司”还是“AI公司”的市场估值完全不一样\n01:02:17 Model 2 是华尔街一直期待的下沉市场新产品\n01:06:17 今年FSD的更新帮助特斯拉股价回升\n01:10:04 Uber股票大涨：特斯拉在无人出租车市场在华尔街看来尚无胜算\n【相关单集参考】\nE156｜自动驾驶领域的GPT时刻来了？聊聊特斯拉V12、FSD入华与RoboTaxi (https://sv101.fireside.fm/162)\n【监制】\n杜秀\n【后期】\nAMEI\n【BGM】\nUn Piccolo Party - Martin Landstrom \nCity Phases STEMS INSTRUMENTS - John Abbot\nKevin Graham - Inquisitions\nYellow Light - Arthur Benson\nSimple Pleasantries - Arthur Benson\nKevin Graham - Inquisitions\n【在这里找到我们】\n公众号：硅谷101\n收听渠道：苹果｜小宇宙｜喜马拉雅｜蜻蜓FM｜网易云音乐｜QQ音乐｜荔枝播客\n海外用户：Apple Podcast｜Spotify｜TuneIn｜YouTube｜Amazon Music\n联系我们：podcast@sv101.net\n Special Guests: Bruce Liu, Leo, and 于振华.",
+          "link": "https://sv101.fireside.fm/176",
+          "publishedOn": "2024-10-14T00:00:00.000Z",
+          "wordCount": null,
+          "title": "E169｜特斯拉Robotaxi发布会的台前幕后：兴奋的现场与失望的华尔街",
+          "itunes": {
+            "duration": "1:12:08"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0f53c183-1136-46a2-b93a-7510f03cefe4.mp3",
+            "length": "103884220",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "48cd33bb-f57b-49b1-a226-f992303cf9c9",
           "author": "硅谷101",
           "description": "Meta Connect开发者大会的一周以后，Meta股价连创新高，创始人马克·扎克伯格身价一度超越贝佐斯成为世界第二大富豪。活动上，扎克伯格从保险箱里拿出了一副全息显示AR眼镜原型机：Meta Orion。尽管只向少量开发者和媒体开放试用，也没有开卖的计划，只有一个原型机的Orion依旧成为了业内争相讨论的焦点。\n除了Orion，Meta还发布了平价版VR眼镜Quest 3S，更新了Meta AI和开源模型Llama 3.2。这些更新不仅仅只是参数和价格的升级：Meta正在逐步构建一个硬件、软件和AI技术融合的生态系统。而上一家完成了硬件+软件生态的公司，是智能手机时代的苹果。\n本期《硅谷101》录制于Connect大会结束的第一天，我们邀请到了三位刚从大会现场回来的资深开发者，第一时间解读小扎的“压箱宝”Orion到底强在哪里，为何要把Quest VR的价格打下来，以及Meta如何鼓励包括Mod二创在内的内容创作者扩充整个XR生态。\n【主播】\n泓君Jane，硅谷101创始人，播客主理人\n【嘉宾】\n瞿嘉，“大象”， 黑暗幻想风格动作VR游戏《Grimlord (http://linktr.ee/grimlord)》制作人\n张猛博士 ，XR健康应用《FunFitLand (http://www.funfitland.com/)》创始人 \n黄庄，治愈系VR生活模拟类游戏《Little Planet (https://www.littleplanet.world/)》 游戏制作人\n【活动预告】\n如果大家对更多跟AI还有前沿科技相关的内容感兴趣，欢迎报名参加我们10月19号下午在硅谷Sunnyvale举办的大会。活动报名链接：https://lu.ma/sv101genai2024  \n感谢盛大集团对本次大会的赞助支持。盛大是一家私人投资控股集团，由中国网络互娱的先锋陈天桥以及家…",
@@ -866,24 +920,6 @@
             "url": "https://jt.ximalaya.com//GKwRINsKzDfqAYDHHwMWUxrp.m4a?channel=rss&album_id=68228204&track_id=760382656&uid=407209968&jt=https://aod.cos.tx.xmcdn.com/storages/1764-audiofreehighqps/B4/31/GKwRINsKzDfqAYDHHwMWUxrp.m4a"
           },
           "imageUrl": null
-        },
-        {
-          "id": "xmly_track_756591634",
-          "author": null,
-          "description": "本期聊爱与被爱。\n姜姜沦陷常青藤爱情，燃烧四年一次的心动火花；\n奇妙觉得世界上没有无条件的爱，包括父母的爱；\n安妮在爱情和亲情间流浪，不止不休；\n牛小玲习惯付出爱，像瀑布一样汹涌。\n被爱是东亚人的统一性癖，一句悲伤但正确的话。\n希望我们都有爱人的勇气，也相信自己有被爱的能力。\n关于爱与被爱；都在节目里了。\n\nPS：本期因技术原因，音频效果没之前好，大家多多包涵，私密马赛～\n�内容摘要：\n01:36 爱别人，也是一种自恋\n02:05 世界上没有无条件的爱，包括父母的爱\n03:28 所有人都在等待被爱，像遍地找大猛1的0\n04:02 完蛋！我被网恋包围了\n13:04 老派约会的爱情，上头\n19:01 “好想前男友”是一种渴望被爱的幻觉\n30:39 接受了，原来我爸真的不爱我\n43:56 缺爱，是东亚人的统一病症\n46:21 不计回报的爱：爱你是给你脸了\n47:31 不一定要选事业或者感情，可以选一种生命力",
-          "link": "https://www.ximalaya.com/sound/756591634",
-          "publishedOn": "2024-09-14T06:36:29.000Z",
-          "wordCount": null,
-          "title": "被爱是东亚人的统一性癖",
-          "itunes": {
-            "duration": "50:33"
-          },
-          "enclosure": {
-            "length": "97274634",
-            "type": "audio/x-m4a",
-            "url": "https://jt.ximalaya.com//GKwRIJIKuvI-ARohywMP0Yiz.m4a?channel=rss&album_id=68228204&track_id=756591634&uid=407209968&jt=https://aod.cos.tx.xmcdn.com/storages/1a7e-audiofreehighqps/BD/F5/GKwRIJIKuvI-ARohywMP0Yiz.m4a"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -898,6 +934,24 @@
       "feedUrl": "https://looper.typlog.io/feed/audio.xml",
       "siteUrl": "https://looper.typlog.io/",
       "articles": [
+        {
+          "id": "https://looper.typlog.io/episodes/396",
+          "author": null,
+          "description": "Red Room 豆瓣请打分 入听友群请+微信: looperfm Julee Cruise - Falling Flying Lotus - Garmonbozia Moses Sumney - Love's Refrain Kelela, KAYTRANADA - KAYTRANADA_WAITIN_115 BPM Kali Uchis, Damon Albarn - In My Dreams Monkey - Heavenly Peach Banquet Nia Archives - Crowded Roomz Source Direct - The Crane The Prodigy - Breathe DJ Mayhem - Inesse Goldie - Still Life The Future Sound Of London - Lifeforms Nosaj Thing, HYUKOH - We Are SOPHIE - Is It Cold In The Water? Charli xcx - I might say something stupid A.G. Cook - Silver Thread Golden Needle Jamie xx, Romy, Oliver Sim - Waited All Night Gold Panda - You Beck - Tropicalia Caetano Veloso, Davi Kneip - Mtg Você É Linda Devendra Banhart - Is This Nice? Gal Costa, Caetano Veloso - Baby João Gilberto, Caetano Veloso, Gilberto Gil - Aquarela do Brasil Panda Bea…",
+          "link": "https://looper.typlog.io/episodes/396",
+          "publishedOn": "2024-10-13T15:17:11.000Z",
+          "wordCount": null,
+          "title": "Mixtape发射脉冲飘往热带雨林",
+          "itunes": {
+            "duration": "1:25:50"
+          },
+          "enclosure": {
+            "url": "https://r.typlog.com/eyJzIjoxMjY3LCJlIjo3ODQ0OSwidCI6MX0.LoZx7RckF1UURF9XfAb6IpMChdY/looper/8271170182_730927.mp3",
+            "length": "123615810",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://looper.typlog.io/episodes/395",
           "author": null,

@@ -1,10 +1,151 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-13T00:22:13.511Z</id>
+    <id>urn:2024-10-14T00:21:30.085Z</id>
     <title>Sunny🕊️</title>
-    <updated>2024-10-13T00:22:13.511Z</updated>
+    <updated>2024-10-14T00:21:30.085Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[E169｜特斯拉Robotaxi发布会的台前幕后：兴奋的现场与失望的华尔街]]></title>
+        <id>0f53c183-1136-46a2-b93a-7510f03cefe4</id>
+        <link href="https://sv101.fireside.fm/176"/>
+        <updated>2024-10-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[上周末，在被马斯克定义为“载入史册”的“We, Robot”发布会上，特斯拉一口气发布了两款Robotaxi（无人出租车）概念车：Cybercab和Robovan。到场的观众兴奋地和人形机器人Optimus互动合影，甚至排队两三个小时试坐Cybercab。但是华尔街投资者和市场并没有分享这份激动，特斯拉的股票在第二天大跌。
+本期节目我们邀请到了四位嘉宾，他们分别是现场参与发布会的科技博主、自动驾驶行业的从业者和华尔街的投资人，一起来聊聊马斯克这次的RoboTaxi发布会到底怎么样。
+【主播】
+泓君Jane，硅谷101创始人，播客主理人
+陈茜，硅谷101联合创始人，视频主理人
+【嘉宾】
+Leo，科技投资博主CyberCat，武田制药资深科学家，药学博士（X@Tesla_Cybercat；YouTube@CybercatX01）
+于振华，前特斯拉AI工程师（X@TSLA99T）
+曲宁，蔚来技术副总裁，软件平台团队负责人
+刘沁东（Bruce Liu），美国Esoterica Capital(济容投资)首席执行官兼首席投资官
+【联想直播】
+北京时间16日凌晨1点，即美国西部时间10月15日上午10点，2024联想创新科技大会将在美国西雅图举办。本次大会聚集了NVIDIA黄仁勋、AMD苏姿丰、Meta扎克伯格，微软CEO纳德拉，以及英特尔、高通等顶尖科技企业的领袖，将重点探讨混合式AI以及生成式AI的落地。
+在活动开始前的两个小时，《硅谷101》将联合联想集团在其官方账号直播聊聊大家最近观察到的一些AI趋势。如果你感兴趣，可以通过微信公众号或视频号搜索“联想集团”，预约观看本次大会。直播预约请点击这里 (https://mp.weixin.qq.com/s/PTVpqmzoFR1se9tSsb3N2g)。
+【你将听到】
+02:29 联想科技大会直播预告
+体验特斯拉的“西部世界”
+06:01 已确认：机器人猜石头剪刀布靠的是远程遥控
+09:24 给机器人讲冷笑话才能拿到饼干
+15:36 没有任何物理按钮的Cybercab和Robovan质感像Macbook
+25:42 现场的体验拉满，但场外的观众失望
+发布会的台前幕后
+30:39 Cybercab脱胎于传闻中的Model 2
+31:38 Optimus的终极瓶颈在于只用纯视觉传感完成多样性任务
+37:31 Robotaxi时间表：2026先做到“feature complete”
+42:25 2019 vs 2024: 马斯克的用力与轻描淡写
+45:09 自以为大获成功却被华尔街泼冷水
+48:09 全公司停下产研搞demo，开完发布会就裁员
+54:01 带娃上班的马斯克与全员打鸡血的工程师团队
+华尔街视角
+59:10 投资者的最低期待是看到Robotaxi的产品路线图
+01:01:36 作为“汽车公司”还是“AI公司”的市场估值完全不一样
+01:02:17 Model 2 是华尔街一直期待的下沉市场新产品
+01:06:17 今年FSD的更新帮助特斯拉股价回升
+01:10:04 Uber股票大涨：特斯拉在无人出租车市场在华尔街看来尚无胜算
+【相关单集参考】
+E156｜自动驾驶领域的GPT时刻来了？聊聊特斯拉V12、FSD入华与RoboTaxi (https://sv101.fireside.fm/162)
+【监制】
+杜秀
+【后期】
+AMEI
+【BGM】
+Un Piccolo Party - Martin Landstrom 
+City Phases STEMS INSTRUMENTS - John Abbot
+Kevin Graham - Inquisitions
+Yellow Light - Arthur Benson
+Simple Pleasantries - Arthur Benson
+Kevin Graham - Inquisitions
+【在这里找到我们】
+公众号：硅谷101
+收听渠道：苹果｜小宇宙｜喜马拉雅｜蜻蜓FM｜网易云音乐｜QQ音乐｜荔枝播客
+海外用户：Apple Podcast｜Spotify｜TuneIn｜YouTube｜Amazon Music
+联系我们：podcast@sv101.net
+ Special Guests: Bruce Liu, Leo, and 于振华.]]></summary>
+        <author>
+            <name>硅谷101</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On昂跑｜没有方向盘和踏板，姗姗来迟的特斯拉「赛博出租」引发哪些担忧？]]></title>
+        <id>670bdafc0d2f24f289cc4367</id>
+        <link href="https://www.xiaoyuzhoufm.com/episode/670bdafc0d2f24f289cc4367?utm_source=rss"/>
+        <updated>2024-10-13T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[北京时间 10 月 11 日上午，特斯拉在洛杉矶举办了「We, Robot」新品发布会，并发布了无人驾驶出租车 Cybercab、无人驾驶厢式货车 Robovan，以及改装款无人驾驶 Model Y。但金融时报指出，特斯拉本次既没有详细说明无人驾驶出租车背后的技术细节，也没有解释将如何降低成本。发布会后，特斯拉股价在周五收盘时下跌了近 9%，而被认为市场份额可能会因为无人驾驶出租车受损的网约车平台 Uber 和 Lyft ，股价却都上涨超过 7%。特斯拉的 Cybercab 和竞争对手们存在哪些不同？外界现在对特斯拉的无人驾驶出租车还有哪些担忧？本期轻解读就与之相关 06:05。你上周是否看了特斯拉的发布会？你看后的感受如何？你会愿意让自己的闲置车加入无人驾驶出租车车队吗？在评论区和我们一起聊聊吧。
+本期还有关于优衣库、安踏、苹果和字节跳动的新动态 02:10，欢迎收听！
+「昂跑运动局、等你来组局」将在双十一活动期间举办跑步局、网球局、户外局、训练局、和 Citywalk 局共计五场线下运动主题活动。每场运动局都全程配备专业的运动主理人，而且参与的朋友们也都有机会可以试穿昂跑专项的运动装备，在运动的过程中全程体验昂跑的产品。除了这五场官方发起的运动局，On昂跑也会定期举办城市例跑活动，感兴趣的朋友们可以到昂跑官方体验中心小程序报名参加，期待在 On昂跑的运动局上与你相遇！
+On昂跑也在近期发布了新款综合训练鞋 Cloud X Z5 和 Cloud X 4。也欢迎访问On昂跑的官方旗舰店和小程序。双十一期间，在On昂跑官方旗舰店购物满1500元即送限定帆布包等礼赠，更多活动详情欢迎访问店铺！
+
+
+声动活泼终于要和大家见面啦！
+10 月 19 日周六 10 点至 11 点 30 分 在上海 上生·新所「2024·小宇宙播客漫游日 」现场，声动活泼的两位创始人徐涛和 Diane，以及各档节目的小伙伴将会齐聚上海，和你面对面交流。
+现场会与你分享各档节目制作过程、聊到我们的幕后故事和所思所想，也会分享我们的信息食谱和有用工具，当然更多的时间还是希望留给大家一起提问和讨论，现场也设置了其他互动环节，欢迎想深入了解我们的朋友来到现场。
+本次活动有 50 个名额，仅限声动活泼会员报名，先到先得。不过大家热情高涨，目前已经报满。没有来得及报名的朋友依然可以成为我们的会员，我们会把活动现场的音频发给会员~除此之外，会员可以参加年末我们将举办的系列活动，还可以解锁旗下所有付费节目、收到我们每周的邮件来信。点击这里成为会员吧。
+加入我们
+声动活泼的工作邀请——我们正在寻找：节目监制岗位的全职伙伴，以及节目监制实习生、 品牌传播实习生，点击相应链接即可查看岗位详情及投递指南。工作地点: 北京东城区，期待你的加入。
+主播
+Mengyi
+幕后制作
+监制：Zelin、Qianwen、Stella
+实习研究员：东君、幸倍、姝含
+运营：George
+后期：沁茗
+商业内容策划：Nene
+封面设计：饭团
+
+声动商务会客厅｜招聘入口｜给早咖啡投稿｜加入会员计划
+
+欢迎扫码添加声小音，在节目之外和我们保持联系。
+「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。
+  
+我们还有这些播客：声东击西、What's Next｜科技早知道、商业WHY酱、跳进兔子洞&跳进兔子洞第三季（全新发布）、吃喝玩乐了不起、不止金钱、泡腾 VC、反潮流俱乐部
+  
+如果你喜欢我们的节目，欢迎打赏支持，或把我们的节目推荐给朋友]]></summary>
+        <author>
+            <name>声动早咖啡</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[s4e6.聚会时人人都在看手机？这群人有办法“治”好你｜1014]]></title>
+        <id>f39b62d1-4eb0-42e4-aaf5-6f77e637bf4b</id>
+        <link href="https://sunshine.fireside.fm/s4e6"/>
+        <updated>2024-10-13T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[☀️ 本期放晴故事
+你是否有这样的经历，当和家人一起吃饭时，当和朋友聚会时，你下意识的反应却是打开手机，从而浪费了很多本可以更有意义的时间。如果你的生活中时常有这类情况，不妨来看看阿姆斯特丹一家叫“Offline Club”的俱乐部是怎样来解决这个问题，促进人与人的线下互动的。
+延伸阅读
+* 「離線俱樂部」遠離數碼生活 在荷蘭受熱捧 (https://www.epochtimes.com/b5/24/5/29/n14260179.htm)
+* Life without a phone at The Offline Club (https://www.abc.net.au/listen/programs/saturdayextra/life-without-a-phone-the-offline-club/103979050)
+* Offline Club 官网 (https://www.offline.club/)
+☀️ 改变自己的100件小事
+08:36  健康会传染
+☀️往期节目
+s3e11. 建立在深山里的复兴营，帮助“家里蹲们”走出房门｜1030 (https://sunshine.fireside.fm/118)
+s3e26. 在咖啡馆谈论死亡｜1120 (https://sunshine.fireside.fm/134)
+s3e52. 解忧书店: 开一间书店，疗愈他人的心灵｜0312 (https://sunshine.fireside.fm/162)
+☀️
+本期制作
+主播：钱睿暄
+文稿撰写：钱睿暄   李千寻
+文稿编辑：张小阳   方可成
+后期：林适芬
+运营：周姿含
+🍠我们开通小红书啦，快来关注我们：@放晴公园 (https://www.xiaohongshu.com/user/profile/66695c2c0000000007005fba)
+《放晴早安》由「放晴公园」制作播出，是一档以「解困式报道」（solutions journalism）为理念的节目。我们的第三、四季节目由香港中文大学社会科学学院「社会科学与创新实践」（CU-ASK）辅修项目支持。]]></summary>
+        <author>
+            <name>放晴公园</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mixtape发射脉冲飘往热带雨林]]></title>
+        <id>https://looper.typlog.io/episodes/396</id>
+        <link href="https://looper.typlog.io/episodes/396"/>
+        <updated>2024-10-13T15:17:11.000Z</updated>
+        <summary type="html"><![CDATA[Red Room 豆瓣请打分 入听友群请+微信: looperfm Julee Cruise - Falling Flying Lotus - Garmonbozia Moses Sumney - Love's Refrain Kelela, KAYTRANADA - KAYTRANADA_WAITIN_115 BPM Kali Uchis, Damon Albarn - In My Dreams Monkey - Heavenly Peach Banquet Nia Archives - Crowded Roomz Source Direct - The Crane The Prodigy - Breathe DJ Mayhem - Inesse Goldie - Still Life The Future Sound Of London - Lifeforms Nosaj Thing, HYUKOH - We Are SOPHIE - Is It Cold In The Water? Charli xcx - I might say something stupid A.G. Cook - Silver Thread Golden Needle Jamie xx, Romy, Oliver Sim - Waited All Night Gold Panda - You Beck - Tropicalia Caetano Veloso, Davi Kneip - Mtg Você É Linda Devendra Banhart - Is This Nice? Gal Costa, Caetano Veloso - Baby João Gilberto, Caetano Veloso, Gilberto Gil - Aquarela do Brasil Panda Bea…]]></summary>
+        <author>
+            <name>卧房撸歌</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[116.不服从的艺术：分享一些实战方法，还有力量]]></title>
         <id>xmly_track_764416021</id>
@@ -95,7 +236,7 @@ Believe me- Dalton Day]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[s4e5.新的一季，查收新的放晴好消息！]]></title>
+        <title type="html"><![CDATA[s4e5.新的一季，查收新的放晴好消息！｜1012]]></title>
         <id>b9ee56f3-e06d-4054-9e5a-416406f18d3e</id>
         <link href="https://sunshine.fireside.fm/s4e5"/>
         <updated>2024-10-11T22:00:00.000Z</updated>
@@ -1574,36 +1715,6 @@ vol.91 猎巫：塞勒姆1692，从癔症开始
         <summary type="html"><![CDATA[Luna Safari 豆瓣请打分 入听友群请+微信: looperfm English Teacher - R&B 00:00:01 Clint Mansell - Welcome to Lunar Industries 00:00:20 David Bowie - Moonage Daydream 00:00:28 Yonderboi - Outro 00:01:56 Erykah Badu - Orange Moon 00:02:40 方大同 - Orange Moon 00:04:59 陈奕迅 - 倒带人生 00:06:43 José González - This Is How We Walk On The Moon 00:07:50 Feist - My Moon My Man (Grizzly Bear Remix) 00:11:08 Kanye West, Pusha T - Runaway 00:13:26 The Smashing Pumpkins - Luna 00:17:15 Black Country, New Road - Sunglasses 00:19:29 Kanye West - Moon 00:21:08 Mac DeMarco - Moonlight on the River 00:22:40 Radiohead - Daydreaming 00:26:03 Kinkajous - In The Void of All Things 00:28:42 Maya Delilah - Harvest Moon 00:30:35 Dorothy Ashby - Moonlight In Vermont 00:32:07 Frank Ocean - Moon River 00:33:25 DOMi & JD BECK, Herbie Hanc…]]></summary>
         <author>
             <name>卧房撸歌</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被爱是东亚人的统一性癖]]></title>
-        <id>xmly_track_756591634</id>
-        <link href="https://www.ximalaya.com/sound/756591634"/>
-        <updated>2024-09-14T06:36:29.000Z</updated>
-        <summary type="html"><![CDATA[本期聊爱与被爱。
-姜姜沦陷常青藤爱情，燃烧四年一次的心动火花；
-奇妙觉得世界上没有无条件的爱，包括父母的爱；
-安妮在爱情和亲情间流浪，不止不休；
-牛小玲习惯付出爱，像瀑布一样汹涌。
-被爱是东亚人的统一性癖，一句悲伤但正确的话。
-希望我们都有爱人的勇气，也相信自己有被爱的能力。
-关于爱与被爱；都在节目里了。
-
-PS：本期因技术原因，音频效果没之前好，大家多多包涵，私密马赛～
-�内容摘要：
-01:36 爱别人，也是一种自恋
-02:05 世界上没有无条件的爱，包括父母的爱
-03:28 所有人都在等待被爱，像遍地找大猛1的0
-04:02 完蛋！我被网恋包围了
-13:04 老派约会的爱情，上头
-19:01 “好想前男友”是一种渴望被爱的幻觉
-30:39 接受了，原来我爸真的不爱我
-43:56 缺爱，是东亚人的统一病症
-46:21 不计回报的爱：爱你是给你脸了
-47:31 不一定要选事业或者感情，可以选一种生命力]]></summary>
-        <author>
-            <name>万一火了</name>
         </author>
     </entry>
 </feed>
