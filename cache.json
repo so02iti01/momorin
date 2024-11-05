@@ -6,6 +6,24 @@
       "siteUrl": "https://sunshine.fireside.fm",
       "articles": [
         {
+          "id": "47f9ccae-077b-455a-923a-5d02b1abf7d2",
+          "author": "放晴公园",
+          "description": "☀️ 本期放晴故事\n在美国，有超过五十万名无家可归的人。每到降温的季节，他们最缺乏的物资，不是食物、衣物，而是非常不起眼的东西——袜子。2011年的十月，几个中学生真的开始行动起来，开始为流浪者们筹集这种物资，并把这个项目称为“socktober”。这场开始于街角的温暖行动，像涟漪一样扩散。到最后，《芝麻街》、微软、Happy Socks等许多知名节目和大企业也纷纷参与其中，为流浪者筹集物资；这个项目也带动社区发起更多活动，让无家者感受到更多的关怀和支持。其实，帮助他人，可以从很小很小的事情开始。\n延伸阅读\n- Socktober: A simple idea that sparked a nationwide wave of kindness (https://www.goodgoodgood.co/articles/socktober)\n- Socktober官网 (https://www.happysocktober.com/)\n☀️ 改变自己的100件小事\n06:30 我们的内驱力从何而来？\n☀️ 往期节目\ns4e12. 和猫住：短视频让流浪猫救助变得可持续丨1022 (https://www.xiaoyuzhoufm.com/episode/6716d141d9a875d5a902db23)\ns3e63. 在家做饭，送给流浪街头的人们丨0327 (https://www.xiaoyuzhoufm.com/episode/6603478a7630865fd53dcaf6)\ns3e22. 世界给我们垃圾，我们报之以音乐丨1114 (https://www.xiaoyuzhoufm.com/episode/6552adfc07a7f855da6450a0)\n☀️\n本期制作\n主播：王艺雯\n文稿撰写：周闻晓、覃梓敬\n文稿编辑：覃梓敬\n后期：林适芬\n运营：郑雨杉\n🍠我们开通小红书啦，快来关注我们：@放晴公园 (https://www.xiaohongshu.com/user/profile/66695c2c0000000007005fba)\n《放晴早安》由「放晴公园」制作播出，是一档以「解困式报道」（solutions journalism）为理念的节目。我们的第三、四季节目由香港中文大学社会科学学院「社会科学与创新实践」（CU-ASK）辅修项目支持。",
+          "link": "https://sunshine.fireside.fm/s4e22",
+          "publishedOn": "2024-11-04T22:00:00.000Z",
+          "wordCount": null,
+          "title": "s4e22. 从送出一双袜子开始，几个中学生也能改变世界？丨1105",
+          "itunes": {
+            "duration": "10:21"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/e0f2e192-ad76-4431-942c-c290cfbcda1f/47f9ccae-077b-455a-923a-5d02b1abf7d2.mp3",
+            "length": "14928500",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "6521fc5f-0584-4148-a320-6a2d1f3cc608",
           "author": "放晴公园",
           "description": "☀️ 本期放晴故事\n你可能听说过天使综合症、玻璃人、瓷娃娃、星星的孩子这些罕见病的“外号”，在这些童话般的名字背后，往往隐藏着常人无法理解的痛苦。自2008年以来，一个由罕见病患者主导成立的、名字就叫做“罕见病日”的网站投入使用，鼓励罕见病患者或非罕见病患者在网站上提供自己了解的任何相关信息，通过互助网络为其他患者提供帮助。\n延伸阅读\n- Rare-Disease Patients Know: We All Deserve Better Care (https://www.yesmagazine.org/health-happiness/2024/10/07/disease-patient-care-rare)\n☀️ 改变自己的100件小事\n10:07 如何应对生活中的微压力\n☀️ 往期节目\ns4e14.让时尚不再有障碍：视障人士也可以打扮得光彩照人 | 1024 (https://www.xiaoyuzhoufm.com/episode/671973cc52543d155708a185)\ns4e1.看不到画面，还能玩游戏吗？ | 1008 (https://www.xiaoyuzhoufm.com/episode/67045b21fa47c0150f66c901)\n☀️\n本期制作\n主播：钱睿暄\n文稿撰写：何君奕 覃梓敬\n文稿编辑：林适芬\n后期：林适芬\n运营：林适芬\n🍠我们开通小红书啦，快来关注我们：@放晴公园 (https://www.xiaohongshu.com/user/profile/66695c2c0000000007005fba)\n《放晴早安》由「放晴公园」制作播出，是一档以「解困式报道」（solutions journalism）为理念的节目。我们的第三、四季节目由香港中文大学社会科学学院「社会科学与创新实践」（CU-ASK）辅修项目支持。",
@@ -426,6 +444,24 @@
       "feedUrl": "https://feed.xyzfm.space/q88qwmydeuw8",
       "siteUrl": "https://www.xiaoyuzhoufm.com/podcast/60de7c003dd577b40d5a40f3?utm_source=rss",
       "articles": [
+        {
+          "id": "6728d5e0cbe0e69c8b162eec",
+          "author": null,
+          "description": "本期早咖啡为你带来与日常生活息息相关的商业科技动态，你将会听到：\n  \nPerplexity 推出人工智能选举信息中心\n  \n迪士尼成立研究 AI 和混合现实的新部门\n  \n阿里巴巴在日本推出跨境电商应用 TAO\n  \n微软明年 10 月将停止支持 Win10 系统\n\n本期还有关于英特尔、亚马逊、理想汽车、Uber 和 Claude 的新动态，欢迎收听！\n加入我们\n声动活泼的工作邀请——我们正在寻找：节目监制岗位的全职伙伴，以及节目监制实习生、 品牌传播实习生，点击相应链接即可查看岗位详情及投递指南。工作地点: 北京东城区，期待你的加入。\n主播\nMengyi\n幕后制作\n监制：Zelin、Qianwen、Stella\n实习研究员：姝含、佳麒\n运营：George\n后期：沁茗\n商业内容策划：Nene\n封面设计：饭团\n\n声动商务会客厅｜招聘入口｜给早咖啡投稿｜加入会员计划\n\n欢迎扫码添加声小音，在节目之外和我们保持联系。\n「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。\n  \n我们还有这些播客：声东击西、What's Next｜科技早知道、商业WHY酱、跳进兔子洞&跳进兔子洞第三季（全新发布）、吃喝玩乐了不起、不止金钱、泡腾 VC、反潮流俱乐部\n  \n如果你喜欢我们的节目，欢迎打赏支持，或把我们的节目推荐给朋友",
+          "link": "https://www.xiaoyuzhoufm.com/episode/6728d5e0cbe0e69c8b162eec?utm_source=rss",
+          "publishedOn": "2024-11-04T23:00:00.000Z",
+          "wordCount": null,
+          "title": "微软明年停止支持 Windows10，Perplexity 用 AI 追踪美国大选结果",
+          "itunes": {
+            "duration": "00:10:52"
+          },
+          "enclosure": {
+            "url": "https://dts-api.xiaoyuzhoufm.com/track/60de7c003dd577b40d5a40f3/6728d5e0cbe0e69c8b162eec/media.xyzcdn.net/lus2mLhABasgcwuZknrkc1-QtGRL.m4a",
+            "type": "audio/mp4",
+            "length": "15772573"
+          },
+          "imageUrl": null
+        },
         {
           "id": "6727619733c798676f139001",
           "author": null,
@@ -1213,24 +1249,6 @@
           "enclosure": {
             "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0f53c183-1136-46a2-b93a-7510f03cefe4.mp3",
             "length": "103884220",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "48cd33bb-f57b-49b1-a226-f992303cf9c9",
-          "author": "硅谷101",
-          "description": "Meta Connect开发者大会的一周以后，Meta股价连创新高，创始人马克·扎克伯格身价一度超越贝佐斯成为世界第二大富豪。活动上，扎克伯格从保险箱里拿出了一副全息显示AR眼镜原型机：Meta Orion。尽管只向少量开发者和媒体开放试用，也没有开卖的计划，只有一个原型机的Orion依旧成为了业内争相讨论的焦点。\n除了Orion，Meta还发布了平价版VR眼镜Quest 3S，更新了Meta AI和开源模型Llama 3.2。这些更新不仅仅只是参数和价格的升级：Meta正在逐步构建一个硬件、软件和AI技术融合的生态系统。而上一家完成了硬件+软件生态的公司，是智能手机时代的苹果。\n本期《硅谷101》录制于Connect大会结束的第一天，我们邀请到了三位刚从大会现场回来的资深开发者，第一时间解读小扎的“压箱宝”Orion到底强在哪里，为何要把Quest VR的价格打下来，以及Meta如何鼓励包括Mod二创在内的内容创作者扩充整个XR生态。\n【主播】\n泓君Jane，硅谷101创始人，播客主理人\n【嘉宾】\n瞿嘉，“大象”， 黑暗幻想风格动作VR游戏《Grimlord (http://linktr.ee/grimlord)》制作人\n张猛博士 ，XR健康应用《FunFitLand (http://www.funfitland.com/)》创始人 \n黄庄，治愈系VR生活模拟类游戏《Little Planet (https://www.littleplanet.world/)》 游戏制作人\n【活动预告】\n如果大家对更多跟AI还有前沿科技相关的内容感兴趣，欢迎报名参加我们10月19号下午在硅谷Sunnyvale举办的大会。活动报名链接：https://lu.ma/sv101genai2024  \n感谢盛大集团对本次大会的赞助支持。盛大是一家私人投资控股集团，由中国网络互娱的先锋陈天桥以及家…",
-          "link": "https://sv101.fireside.fm/175",
-          "publishedOn": "2024-10-06T00:00:00.000Z",
-          "wordCount": null,
-          "title": "E168｜全息显示的AR眼镜真的来了，聊聊Meta Connect与日趋成熟的XR生态",
-          "itunes": {
-            "duration": "1:22:10"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/48cd33bb-f57b-49b1-a226-f992303cf9c9.mp3",
-            "length": "98623332",
             "type": "audio/mpeg"
           },
           "imageUrl": null
