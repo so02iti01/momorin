@@ -1,10 +1,133 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-16T00:20:08.670Z</id>
+    <id>urn:2025-01-17T00:20:08.677Z</id>
     <title>Sunny🕊️</title>
-    <updated>2025-01-16T00:20:08.670Z</updated>
+    <updated>2025-01-17T00:20:08.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[E178｜智能眼镜大战CES：靠AI不如产品硬]]></title>
+        <id>0b47d20a-ff20-4238-b3b2-b9237f83d203</id>
+        <link href="https://sv101.fireside.fm/185"/>
+        <updated>2025-01-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2025年的CES上，AI概念火热，但做好一款硬件产品的难点依然在于产品本身。本期节目我们将讨论生成式AI对智能硬件创新的刺激到底有多大，为什么优秀的硬件产品不能只是依靠集成大模型API，而是更需要在用户体验、工程实现、供应链管理等维度做到极致。
+【主播】
+泓君Jane，硅谷101创始人，播客主理人
+【嘉宾】
+陈哲，Alphaist Partners创始人
+【你将听到】
+智能硬件的本质
+03:16 Plaud 录音笔：攀上了AI也要先解决续航问题
+05:50 优秀的硬件必须先是好的消费品
+07:03 中国创新在CES从跟随者转变为引领者
+08:43 扫地机器人的创新核心：清洁效果，可靠性和真实的家庭场景
+15:59 专利不再是扫地机器人的市场壁垒
+AI与硬件融合
+18:38 “百镜大战”拉开序幕，但AI不是必选项
+22:19 Meta Rayban核心功能是摄影而非AI
+25:46 与手机功能重叠的智能硬件最易沦为配件
+29:06 Google Glass的启示：互联网公司为何难以驾驭硬件创新
+33:30 陪伴型机器人走红：更像智能潮玩，重点在触发情感而非展现智能
+35:58 产品设计和AI能力的平衡，两者缺一不可
+38:51 英伟达以工具链布局取胜
+硬件创业的关键要素
+40:45 优秀硬件创业者：用户洞察力与工程直觉的结合
+41:58 硬件创业需要快速MVP验证，降低试错成本
+44:25 大疆人才方法论：第一性原理和极致的工程师文化
+CES的正确打开方式
+48:07 赢家通吃效应显现：粗糙、跟风的产品会快速出局
+50:42 中国科技产品开始占据高溢价的价格段
+51:45 消费级产品更需要成熟的技术方案
+【文中提到的相关产品】
+* LiberLive 无弦吉他
+* PLAUD NOTE录音笔
+* 石头科技 G30 Space 扫地机器人
+* 追觅X50 Ultra扫地机器人
+* XREAL AR眼镜
+* Halliday Glasses
+* Rokid AR Glasses
+* 桌面陪伴型机器人 Looi
+* 英伟达基础模型平台 Nvidia Cosmos
+* 宇树科技“机器狗”产品Go2
+* 云深处科技四足机器人绝影X30 Pro
+* 拓竹科技3D打印机
+【监制】
+杜秀
+【后期】
+AMEI
+【BGM】
+Yellow Light - Arthur Benson
+Sumerian Paradise - Dew Of Light
+【在这里找到我们】
+公众号：硅谷101
+收听渠道：苹果｜小宇宙｜喜马拉雅｜蜻蜓FM｜网易云音乐｜QQ音乐｜荔枝播客
+海外用户：Apple Podcast｜Spotify｜TuneIn｜YouTube｜Amazon Music
+联系我们：podcast@sv101.net Special Guest: 陈哲.]]></summary>
+        <author>
+            <name>硅谷101</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年末特调｜半数拖延症？选题靠 battle？早咖啡全体来摊牌！]]></title>
+        <id>6788dc86b21f1c0fb3560528</id>
+        <link href="https://www.xiaoyuzhoufm.com/episode/6788dc86b21f1c0fb3560528?utm_source=rss"/>
+        <updated>2025-01-16T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本期年末特辑是早咖啡在龙年的最后一期节目，年后我们将会在 2025 年 2 月 10 日恢复更新。
+感谢听友们过去一年来的陪伴与支持。不知不知觉春节将至，这个颇有特殊意义的节点，往往也是最适合做年终思考和总结的时刻之一。作为一档日更播客，早咖啡这一年里的每一期节目，都是在盘点、解读过去一天或一段时间内发生的国内外商业科技事件。而一年的忙碌过后，我们早咖啡编辑部的小伙伴们，也想趁着岁末停下来，回顾与思考一下这一年幕后制作过程中的开心、遗憾、挣扎与收获。同时，借此机会坐下来回答一些咖啡豆们的好奇心，也聊一聊关于早咖啡这个团队的制作故事。所以，早咖啡节目组全员齐聚录音间，制作出了这杯充满特别风味的年末早咖啡，欢迎享用！
+本期特别节目单
+01:28 早咖啡全体幕后制作人员齐亮相
+02:53 沁茗请回答：后期制作与内容研究有哪些乐趣及挑战？
+05:10 Zelin 请回答：短消息 VS 长解读，哪个是你的真爱？
+07:22 Stella 请回答：如何坚持回复咖啡豆投稿？
+09:03 Nene 请回答：最推荐过去一年的哪期早咖啡？
+11:18 Qianwen 请回答：过去一年操作过的选题中哪个最满意？
+23:14 Mengyi 请回答：过去一年哪个特别策划的制作最艰难？
+29:19 咖啡豆好奇心集中回复
+29:47 如何获得一手商业信息？是否为选题吵过架？
+41:00 咖啡豆问题的烘烤研磨流程有哪些？
+42:23 早上 7 点更新是定时发布还是半夜制作？
+欢迎大家点此前往声动早咖啡的小红书账号，解锁更多关于早咖啡制作团队的幕后故事与趣事！
+
+图：整整齐齐的早咖啡团队录制现场
+如果你还没想好过年送自己、送爸妈什么礼物，界环 AI 音频眼镜是随时随地听音频的神器，也是送到爸妈心里的年度好物。假期返乡或者在家玩手机，外放声音容易打扰身边的人，蓝牙耳机久戴耳朵不舒适，戴上耳夹、挂耳式耳机在某些场合跟人交谈显得有距离感。界环 AI 音频眼镜是眼镜的形态，30.7g 超轻设计，佩戴起来像普通眼镜一样舒适，定制镜片也能满足近视的需求，16 种镜框款款时尚又修颜，近视用户还可以单独配镜片使用。
+界环 AI 音频眼镜是由小米生态链公司蜂巢科技出品，之前的两代 MIJIA 音频眼镜也是他们的产品，深厚的产品研发经验确保了可靠的质量。界环“新”礼季，送礼选界环。如果你和家人都是近视用户, 春节前想送自己一个数码好物，或者是送爸妈眼前一亮的“新”礼物，都可以选择界环AI音频眼镜，最主要的是它价格非常合适，649 元起的价格无论送自己还是送爸妈都很不错。点击专属购买链接下单跟客服报暗号“声动活泼”还可以获得专属福利——价值 99 元的替换镜腿一对。 湖北地区听众参加国家补贴下单直降 20%，最高优惠 300 元！
+
+本期人物
+Mengyi，「声动早咖啡」主播
+Zelin，「声动早咖啡」监制
+Qianwen，「声动早咖啡」监制
+Stella，「声动早咖啡」监制
+沁茗，「声动早咖啡」声音设计
+Nene，「声动早咖啡」商业内容策划
+佳麒，「声动早咖啡」实习研究员
+子萱，「声动早咖啡」实习研究员
+幕后制作
+实习研究员：beibei
+运营：George
+封面设计：饭团
+商务合作：声动早咖啡等节目商业合作持续招募中，点击链接直达 声动商务会客厅，或者发送邮件至 business@shengfm.cn 联系我们；
+加入我们：声动活泼正在寻找商业化合作经理、播客节目监制的全职伙伴，以及早咖啡内容实习生，详情点击招聘入口；
+听众投稿：如果你了解身边日常现象的背后原因，欢迎投稿，你的发现可能出现在节目中；
+成为会员：如果你在节目中有所收获，认可好内容的价值，欢迎付费 365 元成为会员，你可以免费收听声动活泼付费内容，同时每周获得一封节目外的观察手记。
+「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。
+  
+我们还有这些播客：声东击西、What's Next｜科技早知道、商业WHY酱、跳进兔子洞&跳进兔子洞第三季（全新发布）、吃喝玩乐了不起、不止金钱、泡腾 VC、反潮流俱乐部
+  
+如果你喜欢我们的节目，欢迎打赏支持，或把我们的节目推荐给朋友]]></summary>
+        <author>
+            <name>声动早咖啡</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[托运50张年度心水碟，转机2024]]></title>
+        <id>https://looper.typlog.io/episodes/414</id>
+        <link href="https://looper.typlog.io/episodes/414"/>
+        <updated>2025-01-16T08:30:53.000Z</updated>
+        <summary type="html"><![CDATA[Trippin' to Tomorrow 豆瓣请打分 入听友群请+微信: looperfm 00:43 a 07:23 b 13:06 c 19:36 d 26:07 e Music Played Shabaka, Floating Points, Laraaji - I'll Do Whatever You Want Ganavya, Shabaka Hutchings - Prema Mudithat Kamasi Washington, André 3000 - Dream State Rich Ruth - No Muscle, No Memory Hiatus Kaiyote - Longcat Saya Gray - DIPAD33 / W. I. D. F. U Nala Sinephro - Continuum 1 Arooj Aftab - Raat Ki Rani El Presidente - Allegro Ma Non Troppo Nubya Garcia, Esperanza Spalding - Dawn anaiis, Grupo Cosmo, Sessa - Voyage Hermanos Gutiérrez - Low Sun The Smile - Bending Hectic N.Y.P.D. 南洋派对 - 吉普赛的冷气机 巴奈 - 吊树头 Geordie Greep - Holy, Holy Howie Lee - 莲师心咒 Koreless - Deceltica Little Simz - Mood Swings Everything Is Recorded, Sampha, Laura Groves, Jah Wobble, Yazz Ahmed - Losing You Erlend Øye, La Comitiva - …]]></summary>
+        <author>
+            <name>卧房撸歌</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tiktok 计划周日关闭美国服务，夸克用户规模破 2 亿]]></title>
         <id>6787a28fb21f1c0fb31c7f06</id>
@@ -402,7 +525,7 @@ Mengyi
         <id>https://looper.typlog.io/episodes/413</id>
         <link href="https://looper.typlog.io/episodes/413"/>
         <updated>2025-01-09T12:28:44.000Z</updated>
-        <summary type="html"><![CDATA[These Vintage Years 豆瓣请打分 入听友群请+微信: looperfm Bryan Ferry, The Bryan Ferry Orchestra - Bitter-Sweet 鸿鸿, 谢明谚, 林理惠 - 夜车 The Lightning Seeds - You Showed Me Mel & Tim - Keep The Faith The Turtles - You Showed Me 梅艳芳 - 是这样的 Jessica Pratt - Life Is Jack J - Foolish Man 杏里 - Last Summer Whisper Tracy Chapman - Fast Car Richie Culver - Slow Car Angelo Badalamenti - Twin Peaks Theme Cocteau Twins - Lorelei Gary Numan - Slowcar to China Eddie Chacon - Trouble (Cola Boyy Remix) Yonderboi - Cantaloupe Island (Interlude) Herbie Hancock - Cantaloupe Island Jenny Hval, Vivian Wang - Lions Lixue Lin-Siedler - 广陵散 Wongchan Pairot - Begging the Moon 片山凉太 - 一路以来 安溥 - train to heaven M83 - Train To Pluton Todd Terje, Bryan Ferry - Johnny and Mary The Cars - Drive Julee Cruise - THe World Spins Speakers Corner Quartet, Tirzah - This Is How We Walk On The Moon Arthur Russell - That's Us / Wild Combination Laurie Anderson - Speak My Language Massive Attack, Tricky - Karmacoma Burial - In McDonalds Mixtape直达电梯 179F 177F 178F 175F 176F 173F 174F 171F 172F 169F 170F 167F 168F 165F 166F 163F 164F 161F 162F 159F 160F 157F 158F 155F 156F 153F 154F 151F 152F 149F 150F 147F 148F 145F 146F 143F 144F 141F 142F 139F 140F 137F 138F 135F 136F 133F 134F 131F 132F 129F 130F 127F 128F 125F 126F 123F 124F 121F 122F 119F 120F 117F 118F 115F 116F 113F 114F 111F 112F 109F 110F 107F 108F 105F 106F 103F 104F 101F 102F 99F 100F 97F 98F 95F 96F 93F 94F 91F 92F 89F 90F 87F 88F 85F 86F 83F 84F 81F 82F 79F 80F 77F 78F 75F 76F 73F 74F 71F 72F 69F 70F 67F 68F 65F 66F 63F 64F 61F 62F 59F 60F 57F 58F 55F 56F 53F 54F 51F 52F 49F 50F 47F 48F 45F 46F 43F 44F 41F 42F 39F 40F 37F 38F 35F 36F 33F 34F 31F 32F 29F 30F 27F 28F 25F 26F 23F 24F 21F 22F 19F 20F 17F 18F 15F 16F 13F 14F 11F 12F 09F 10F 07F 08F 05F 06F 03F 04F 01F 02F]]></summary>
+        <summary type="html"><![CDATA[These Vintage Years 豆瓣请打分 入听友群请+微信: looperfm Bryan Ferry, The Bryan Ferry Orchestra - Bitter-Sweet 00:00:01 鸿鸿, 谢明谚, 林理惠 - 夜车 00:03:03 The Lightning Seeds - You Showed Me 00:5:01 Mel & Tim - Keep The Faith 00:06:13 The Turtles - You Showed Me 00:07:59 梅艳芳 - 是这样的 00:08:47 Jessica Pratt - Life Is 00:10:32 Jack J - Foolish Man 00:13:03 杏里 - Last Summer Whisper 00:15:45 Tracy Chapman - Fast Car 00:18:50 Richie Culver - Slow Car 00:19:24 Angelo Badalamenti - Twin Peaks Theme 00:21:19 Cocteau Twins - Lorelei 00:23:11 Gary Numan - Slowcar to China 00:26:32 Eddie Chacon - Trouble (Cola Boyy Remix) 00:29:24 Yonderboi - Cantaloupe Island (Interlude) 00:31:50 Herbie Hancock - Cantaloupe Island 00:32:49 Jenny Hval, Vivian Wang - Lions 00:35:00 Lixue Lin-Siedler - 广陵散 00:38:04 Wongchan Pairot - Begging…]]></summary>
         <author>
             <name>卧房撸歌</name>
         </author>
@@ -761,7 +884,7 @@ Mengyi
         <id>https://looper.typlog.io/episodes/412</id>
         <link href="https://looper.typlog.io/episodes/412"/>
         <updated>2025-01-05T14:25:52.000Z</updated>
-        <summary type="html"><![CDATA[Run with the Wind 豆瓣请打分 入听友群请+微信: looperfm Edrix Puzzle - Lotus Blossom Yonderboi - Pabadam Nina Simone - Ain't Got No / I Got Life Lata Mangeshkar, S. P. Balasubrahmanyam - Tere Mere Beech Men (Duet) Britney Spears - Toxic Nazia & Zoheb Hassan - Tere Qadmon Ko Nazia Hassan - Boom Boom Yin Yin - Dis̄ kô Dis̄ kô Donna Summer - I Feel Love Floating Points - Birth4000 Koreless - Deceltica FKA twigs, Koreless - Drums of Death Crystal Castles, Robert Smith - Not In Love LiloCox, Tina Ardor - Muthamaki Sakhe The Conqueror, Madmotormiquel, Anna Almani, Sir Eric - Ndibolekeni Buddha-Bar, Robin M, Nyabuto - Tu Sawa (Just Fine) 10cc - I'm Not In Love The Cure - Alone Radiohead - Follow Me Around Laura Marling - Song For Our Daughter Cosmo Sheldrake - Bathed In Sound Audrey Powne - Souled Out Laura Marling - Child of Mine Fujii Kaze - Hana 陈美龄 - ひなげしの花 Eurythmics - There Must Be an Angel (Playing with My Heart) Chaka Khan - I Feel for You Jorge Ben Jor - Mas, Que Nada! Emmanuelle Parrenin, Detlef Weinrich - Le couple coupable Mixtape直达电梯 177F 178F 175F 176F 173F 174F 171F 172F 169F 170F 167F 168F 165F 166F 163F 164F 161F 162F 159F 160F 157F 158F 155F 156F 153F 154F 151F 152F 149F 150F 147F 148F 145F 146F 143F 144F 141F 142F 139F 140F 137F 138F 135F 136F 133F 134F 131F 132F 129F 130F 127F 128F 125F 126F 123F 124F 121F 122F 119F 120F 117F 118F 115F 116F 113F 114F 111F 112F 109F 110F 107F 108F 105F 106F 103F 104F 101F 102F 99F 100F 97F 98F 95F 96F 93F 94F 91F 92F 89F 90F 87F 88F 85F 86F 83F 84F 81F 82F 79F 80F 77F 78F 75F 76F 73F 74F 71F 72F 69F 70F 67F 68F 65F 66F 63F 64F 61F 62F 59F 60F 57F 58F 55F 56F 53F 54F 51F 52F 49F 50F 47F 48F 45F 46F 43F 44F 41F 42F 39F 40F 37F 38F 35F 36F 33F 34F 31F 32F 29F 30F 27F 28F 25F 26F 23F 24F 21F 22F 19F 20F 17F 18F 15F 16F 13F 14F 11F 12F 09F 10F 07F 08F 05F 06F 03F 04F 01F 02F]]></summary>
+        <summary type="html"><![CDATA[Run with the Wind 豆瓣请打分 入听友群请+微信: looperfm Edrix Puzzle - Lotus Blossom 00:01:47 Yonderboi - Pabadam 00:03:28 Nina Simone - Ain't Got No / I Got Life 00:06:59 Lata Mangeshkar, S. P. Balasubrahmanyam - Tere Mere Beech Men (Duet) 00:08:58 Britney Spears - Toxic 00:09:35 Nazia & Zoheb Hassan - Tere Qadmon Ko 00:10:14 Nazia Hassan - Boom Boom 00:12:08 Yin Yin - Dis̄ kô Dis̄ kô 00:14:04 Donna Summer - I Feel Love 00:16:47 Floating Points - Birth4000 00:18:21 Koreless - Deceltica 00:20:55 FKA twigs, Koreless - Drums of Death 00:24:45 Crystal Castles, Robert Smith - Not In Love 00:27:20 LiloCox, Tina Ardor - Muthamaki 00:29:50 Sakhe The Conqueror, Madmotormiquel, Anna Almani, Sir Eric - Ndibolekeni 00:31:59 Buddha-Bar, Robin M, Nyabuto - Tu Sawa (Just Fine) 00:33:26 10cc - I'm Not In Love 00:36:1…]]></summary>
         <author>
             <name>卧房撸歌</name>
         </author>
@@ -1845,63 +1968,6 @@ Mengyi
 👇“其实我在村里的时候发现，老人特别喜欢看一些苦情剧，或者这种山歌短视频，用方言改编后经过重新填词，这些短视频的内容大概就是通过体谅父母的付出，来表达儿女对他们的爱。我们村里面有一个老爷爷，他的手机内存很小，他让我帮他把其他的应用给删了，但是说这个你留着，这个App就是用来看这种视频的。”]]></summary>
         <author>
             <name>一席</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[E827.戒毒十年，我帮更多伙伴从地狱爬回人间]]></title>
-        <id>https://hosting.wavpub.cn/storyfm/?p=4176</id>
-        <link href="https://hosting.wavpub.cn/storyfm/2024/12/18/e827-%e6%88%92%e6%af%92%e5%8d%81%e5%b9%b4%ef%bc%8c%e6%88%91%e5%b8%ae%e6%9b%b4%e5%a4%9a%e4%bc%99%e4%bc%b4%e4%bb%8e%e5%9c%b0%e7%8b%b1%e7%88%ac%e5%9b%9e%e4%ba%ba%e9%97%b4/"/>
-        <updated>2024-12-18T09:48:34.000Z</updated>
-        <summary type="html"><![CDATA[故事FM ❜ 第 827 期
-你好，欢迎来到故事开放麦，这里是 故事 FM 的全新单元。我们去线下收集故事，面对面的见证一段人生，然后把其中一些带回来转交给你。今天你会听到四个故事，来自于 故事FM 11 月 30 日在北京举办的线下活动，这次的故事开放麦主题是「平常看不见的人」。
-这次的四位讲述者，可以说还是来自我们不熟悉的四个领域、四个世界的故事，也是关于助人和自助的故事。
-/Staff/
-讲述者 | 杨青风、叶亮、韩娜、梁锋
-主播 | @寇爱哲
-制作人 |  九度
-声音设计 | 陈磊
-文案整理| 九度
-运营 | 鸣鸣
-实习生 | 俞柯伊
-用你的声音，讲述你的故事。故事FM 是一档亲历者自述的声音节目。
-商务合作：bd@storyfm.cn
-微信公众号：故事FM (ID: story_fm)
-新浪微博：@故事FM_StoryFM
-个人微信号：gushi_fm02]]></summary>
-        <author>
-            <name>故事FM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去视频平台听播客，为什么美国听众对 YouTube 情有独钟？]]></title>
-        <id>67618ba184447b1bd0a94607</id>
-        <link href="https://www.xiaoyuzhoufm.com/episode/67618ba184447b1bd0a94607?utm_source=rss"/>
-        <updated>2024-12-17T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[研究公司爱迪生最近发布的报告显示，YouTube 已经超过了苹果播客和 Spotify，成为了美国最受欢迎的播客平台。而在五年前，最重要的播客平台还是苹果。彭博的分析认为，苹果公司在 2005 年普及了播客的概念，但是 20 年来，播客行业发生了很多的变化，如今视频平台 YouTube 才是北美播客的最重要的入口。为什么海外大家更喜欢在 YouTube 上消费播客内容？这个视频平台为什么能够吸引到播客创作者呢？本期轻解读就与之相关 07:15。你觉得视频画面对播客来说重要吗？你希望平台按照你的喜好来给你推荐播客节目吗？在评论区和我们一起聊聊吧。
-本期还有关于谷歌、银泰百货、TikTok 和 Temu 的新动态 01:30，欢迎收听！
-豆瓣电影日历是有着 8 年历史的经典产品，365 天每天一部高分电影配中英双语对白。和一般只能是书或只能摆设的日历不同，豆瓣日历既可以立在桌面当装饰摆设又可以年底收纳成一本书。豆瓣电影日历还有一个独特之处就是日期与电影故事匹配，带来每天的惊喜与灵感迸发！2025 年的豆瓣电影日历还新增了支架工艺压凹仿浮雕感设计，“洞悉”主题、和侧边笔筒功能，即美观又实用。现在就下单购买，每个日历都会赠送荧光贴和电子日历可兑换手机小组件一份陪伴手机桌面的电子日历（安卓/IOS 均可刮开防伪码兑换手机小组件）。
-
-
-主播
-Mengyi
-幕后制作
-监制：Zelin、Qianwen、Stella
-实习研究员：佳麒、毛毛、beibei、子萱
-运营：George
-后期：沁茗
-商业内容策划：Nene
-封面设计：饭团
-商务合作：声动早咖啡等节目商业合作持续招募中，点击链接直达 声动商务会客厅，或者发送邮件至 business@shengfm.cn 联系我们；
-加入我们：声动活泼正在寻找商业化合作经理、播客节目监制的全职伙伴，以及早咖啡内容实习生，详情点击招聘入口；
-听众投稿：如果你了解身边日常现象的背后原因，欢迎投稿，你的发现可能出现在节目中；
-成为会员：如果你在节目中有所收获，认可好内容的价值，欢迎付费 365 元成为会员，你可以免费收听声动活泼付费内容，同时每周获得一封节目外的观察手记。
-「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。
-  
-我们还有这些播客：声东击西、What's Next｜科技早知道、商业WHY酱、跳进兔子洞&跳进兔子洞第三季（全新发布）、吃喝玩乐了不起、不止金钱、泡腾 VC、反潮流俱乐部
-  
-如果你喜欢我们的节目，欢迎打赏支持，或把我们的节目推荐给朋友]]></summary>
-        <author>
-            <name>声动早咖啡</name>
         </author>
     </entry>
 </feed>
