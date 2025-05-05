@@ -745,12 +745,6 @@
       ]
     },
     {
-      "title": "狸叶休息室",
-      "feedUrl": "https://rsshub.app/xiaoyuzhou/podcast/64c78b16e8176c3ff823e282",
-      "siteUrl": "https://www.xiaoyuzhoufm.com/podcast/64c78b16e8176c3ff823e282",
-      "articles": []
-    },
-    {
       "title": "硅谷101",
       "feedUrl": "https://feeds.fireside.fm/sv101/rss",
       "siteUrl": "https://sv101.fireside.fm",
@@ -1136,24 +1130,6 @@
           "enclosure": {
             "url": "https://r.typlog.com/eyJzIjoxMjY3LCJlIjo4MTQ5NSwidCI6MX0.C58w3fnQ4o4T-eWdIyOZwdFX-bk/looper/8255727225_94813.mp3",
             "length": "56721519",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://looper.typlog.io/episodes/424",
-          "author": null,
-          "description": "drama can't be stolen 窦唯, 不一样 - 开春儿 00:00:01 Beverly Glenn-Copeland - Ever New 00:01:40 Cate Le Bon - Home to You 00:05:18 CHS - Siesta 00:07:02 FKJ - Earthquake 00:08:55 自然卷 - 地球吓了一跳 00:10:16 岑宁儿 - fly 00:12:47 Devendra Banhart - Memorial 00:13:45 Trio Ternura - A Gira 00:17:54 El León Pardo - El Tigrillo Mono 00:19:30 Mariah - 心臓の扉 00:20:40 窦唯 - 熔化 00:23:53 王菲 - 尘埃 00:26:40 陈明章 - DUST IN THE WIND 00:28:06 林强 - Spring Thunder 00:29:59 John Cale - Mr. Sparrow 00:31:31 Joe Armon-Jones, Maxwell Owin - Lost In The Function 00:33:42 Jabu, Time Cow - Us Alone 00:35:00 Denzel Curry, Saul Williams, Bridget Perez - Mental 00:37:37 Ezra Collective, Ty - Chapter 7 00:38:42 Loyle Carner - Ain't Nothing Changed 00:39:46 The Roots, Joanna Newsom, STS - Right On 00:41:10 Yonderboi - Milonga del Mar 00:4…",
-          "link": "https://looper.typlog.io/episodes/424",
-          "publishedOn": "2025-04-05T03:48:04.000Z",
-          "wordCount": null,
-          "title": "春光披着一件Mixtape漫游在太空边陲",
-          "itunes": {
-            "duration": "1:47:47"
-          },
-          "enclosure": {
-            "url": "https://r.typlog.com/eyJzIjoxMjY3LCJlIjo4MTQ1NCwidCI6MX0.IHb0XOzm-H35a1GohvQbuFLap0U/looper/8256179477_048664.mp3",
-            "length": "155236086",
             "type": "audio/mpeg"
           },
           "imageUrl": null
