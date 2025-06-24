@@ -1,10 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-23T00:25:55.806Z</id>
+    <id>urn:2025-06-24T00:24:09.469Z</id>
     <title>Sunny🕊️</title>
-    <updated>2025-06-23T00:25:55.806Z</updated>
+    <updated>2025-06-24T00:24:09.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[瑞幸美国首店将在月底开业，特斯拉自动驾驶出租开启试点]]></title>
+        <id>6859781a2a38b4d9792718f8</id>
+        <link href="https://www.xiaoyuzhoufm.com/episode/6859781a2a38b4d9792718f8?utm_source=rss"/>
+        <updated>2025-06-23T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本期早咖啡为你带来与日常生活息息相关的商业科技动态，你将会听到：
+  
+萝卜快跑扩大在香港的测试区范围
+  
+宇树科技完成 C 轮融资
+  
+Stellantis 考虑出售玛莎拉蒂
+  
+安克召回部分充电宝
+
+本期还有关于老铺黄金、瑞幸、阿里巴巴、Meta 和特斯拉的新动态，欢迎收听！
+往期传送门：
+老铺黄金表示要代表高奢品牌，喊话底气从何而来？
+打算赴美开店的瑞幸，能否在星巴克大本营站稳脚跟？
+声动活泼年度新节目上线！
+
+我们的新节目——「Knock Knock 世界」上线啦！这次，我们倾全团队之力为 AI 时代的青少年做了一件微小但重要的事。
+每期 10 分钟，从一个青少年感兴趣的现象谈起，涉及商业科技、社会人文等话题，解读表象背后的深层逻辑，启发青少年提出自己的好奇。每周一、三、五早晨 6 点在各大音频平台准时更新。
+🧧前 3 期内容可以免费试听。现在就去节目主页一探究竟吧 ↓
+小宇宙听友请点这里
+Apple Podcast 听友请点这里
+主播
+Mengyi
+幕后制作
+监制：Zelin、Qianwen、Stella
+实习研究员：桃子、Rachel、茹雪、Kori
+运营：George
+后期：沁茗
+商业内容策划：茹雪、幸倍
+商业项目管理：Jolin
+封面设计：饭团
+商务合作：声动早咖啡等节目商业合作持续招募中，点击链接直达 声动商务会客厅，或者发送邮件至 business@shengfm.cn 联系我们；加入我们：声动活泼目前开放市场部门岗位（节目运营、社群运营、内容营销）、BD 经理和人才发展伙伴岗，工作地点为北京东城区。详细信息与申请方式，请点击链接；
+听众投稿：如果你了解身边日常现象的背后原因，欢迎投稿，你的发现可能出现在节目中。
+「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。
+  
+我们还有这些播客：声东击西、What's Next｜科技早知道、商业WHY酱、跳进兔子洞&跳进兔子洞第三季、吃喝玩乐了不起、不止金钱、泡腾 VC、反潮流俱乐部
+  
+如果你喜欢我们的节目，欢迎打赏支持，或把我们的节目推荐给朋友]]></summary>
+        <author>
+            <name>声动早咖啡</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哈根达斯人气不再，「冰淇淋界爱马仕」为何难打动年轻人？]]></title>
         <id>685808a64abe6e29cb698ee7</id>
@@ -1926,116 +1973,6 @@ Mengyi
 如果你喜欢我们的节目，欢迎打赏支持，或把我们的节目推荐给朋友]]></summary>
         <author>
             <name>声动早咖啡</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[E192｜谷歌的翻身仗与Gemini背后的灵魂人物｜解析2025谷歌 I/O]]></title>
-        <id>1b731c29-cfac-4b21-b6c3-3232ce6fb438</id>
-        <link href="https://sv101.fireside.fm/201"/>
-        <updated>2025-05-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2025年的Google I/O大会谷歌打了一场漂亮的翻身仗。曾几何时， Bard的“翻车”让谷歌市值一夜蒸发千亿，OpenAI的4o模型又在I/O前夜“精准狙击”。然而，今年谷歌却破釜沉舟：Gemini 2.5 Pro强势霸榜，重塑搜索的AI Mode主动拥抱变革，XR智能眼镜重构人机交互
-。
-本期节目，我们邀请了两位前Google的技术专家，拆解Gemini模型登顶背后的底层逻辑，以及AI Mode能否帮助谷歌在AI时代扳回一局？我们还邀请了华尔街投资人，从资本市场的视角解读发布会后为什么谷歌股价先跌后涨，并分析谷歌商业模式的根本性变革，以及它在“美股七巨头”中的真实处境。
-【主播】
-泓君Jane，硅谷101创始人，播客主理人
-Yiwen，硅谷101特约研究员
-【嘉宾】
-Kimi Kong，Energent.ai联合创始人，ex-DeepMind
-Shaun Wei，HeyRevia创始人，ex-Google Assistant
-刘沁东，美国Esoterica Capital（济容投资）首席执行官兼首席投资官
-【你将听到】
-Google I/O 2025：从模型到产品的全面翻身仗
-00:11 Google I/O三年回顾：从Bard失误到Gemini 2.5 Pro的翻身仗
-03:44 Google的模型全家桶：从广度到深度的融合
-04:34 视频模型加入声音：Veo 3真正实现Text-to-Movie
-AI Mode：搜索业务的自我革命
-06:58 AI Mode大幅提升上下文理解能力，但灰度测试体验弱于Open AI
-10:09 手握人才、模型、流量三大优势，意愿才是AI搜索之战的关键
-13:41 闭环购物：AI搜索带来全新商业逻辑
-19:04 用户订阅+精准广告能否建立新商业模式
-23:14 数据、生态、分发，Google在AI搜索上的起点无人能比
-Gemini 2.5崛起背后的底层逻辑
-25:06 让AI教AI，Gemini 2.5霸榜秘诀
-27:38 代码第一优先级，Anthropic脱颖而出的数据配比
-30:36 从追赶到引领，Google用代码质量与推理能力翻盘
-32:21 解奥数题只是秀肌肉，模型要能服务于商业
-33:36 三位灵魂人物撑起Gemini：预训练、强化学习与自然语言处理三管齐下
-37:09 谢尔盖·布林回归：重回每周60小时的“Founder Mode”
-38:10 从躺平到拼命，Google用一年打回了AI主场
-39:18 Google API价格优势揭秘：TPU、基建调度能力、软硬件一体化
-41:26 DeepSeek论文暴露谷歌API真实成本
-AI创业机会与冲击
-42:44 AI Agent创业模型选择：没有最好，只有最适合
-47:05 AI产品设计：模型决定下限，工程决定上限
-49:58 Google Meet实时翻译三大惊喜：准确、低延迟、上下文理解
-51:58 巨头一更新，创业公司倒一批
-54:25 Google在AI竞争中的优势：硬件、数据、算法
-55:29 Google惯用策略：产品靠铺量看谁出爆款
-华尔街视角看Google AI的困境与挑战
-59:06 “起个大早，赶个晚集”：Google全栈式服务仍难打消市场疑虑
-01:02:27 从躺着赚钱到动一动才能赚钱
-01:08:56 “反垄断”是Google挥之不去的悬剑，风险尚未真正price in
-01:12:53 Google在“七巨头”中的独特困境：叙事始终不清晰
-01:17:25 大模型不再只是烧钱竞赛，应用场景才是巨头的护城河
-01:18:56 AI Mode虽能带动搜索增长，但商业化路径仍不清晰
-【提到的相关名词和人名】
-SEO（Search engine optimization，搜索引擎优化）
-33:53 Google大模型的三大灵魂人物：Jeff Dean、Oriol Vinyals、Noam Shazeer
-【监制】
-泓君
-【后期】
-AMEI
-【运营】
-孙泽平、王梓沁
-【BGM】
-Sunshine Rain - Brendon Moeller
-The Twelve Spies - Silver Maple
-The Last Run - Christoffer Moe Ditlevsen
-Antidote X STEMS MELODY - Van Sandano
-Anticipating a New Day - Stationary Sign
-【在这里找到我们】
-公众号：硅谷101
-收听渠道：Apple Podcast｜Spotify｜小宇宙｜喜马拉雅｜蜻蜓FM｜网易云音乐｜QQ音乐
-其他平台：YouTube｜Bilibili 搜索「硅谷101播客」
-联系我们：podcast@sv101.net Special Guests: Bruce Liu, Kimi Kong, and Shaun Wei.]]></summary>
-        <author>
-            <name>硅谷101</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[141. 制造弗兰肯斯坦：科幻之母和她的神奇时代]]></title>
-        <id>xmly_track_857923931</id>
-        <link href="https://www.ximalaya.com/sound/857923931"/>
-        <updated>2025-05-24T13:18:55.000Z</updated>
-        <summary type="html"><![CDATA[炼金术、自然生发论、燃素、电疗法、解剖并复活人类、生命流体、动物电，这些在21世纪读者看来略显荒诞甚至是纯粹幻想的研究，曾经是十八世纪的前沿科学。与这些技术同时在地球上轰轰烈烈发展的，是启蒙思想、女权主义、独立战争、宗教解放运动……得益于这个非同寻常的时代，出身于英国激进知识分子家庭的天才女性玛丽·雪莱，在十九岁的时候写出了不朽的《弗兰肯斯坦》，成为科幻文学鼻祖。
-
-二百年过去了，当代读者已经难以理解“科幻之母”这一称号的意义，甚至会觉得所谓开山之作不过尔尔，其中的臆想和哥特恐怖风格远远大于科学幻想成分。——这当然是由于科学已经大步向前，人们对自然有了更深刻的理解。
-今天这期节目，我们要借英国科普作家凯瑟琳·哈卡普的著作《制造弗兰肯斯坦》，带大家回到十八、十九世纪的语境中，用玛丽雪莱的眼睛看一看理性和迷信缠斗，体会启蒙的一路曲折艰辛，再回看我们自己的世纪，回到我们今天的恐惧与期待。
-/本期主要参考书目和提到的作品/
-《制造弗兰肯斯坦》by 凯瑟琳·哈卡普
-《最后一个人》by 玛丽·雪莱
-《自然圣殿》by 伊拉斯谟·达尔文
-《解放的普罗米修斯》by 珀西·雪莱
-《浮士德》by 歌德
-《女quan辩护》《为人quan辩护》《法国革命》《女子教育》by 玛丽·沃斯通克拉夫特
-《论人类牙齿的进化》by 约翰·亨特
-《化学基础》by 安托万·拉瓦锡
-《论电对人类肌肉运动的影响》by 路易吉·伽瓦尼
-《阴谋的证据》by 约翰·罗比森 
-《雅各宾主义历史回忆录》by 阿贝·巴鲁埃尔
-《绿巨人》《七龙珠》《魔兽世界》等
-/本期提到的往期作品/
-60.闲聊伟大作家们的八卦（第一弹）
-26.牛顿与伪币制造者：可能是斯内普的原型？
-125.马拉之死：卑鄙的暗杀，或正义的处决？
-片头曲：上高田少年合唱団 - 鉄腕アトム（from 《铁臂阿童木》动画）
-片尾曲：澤野弘之,Yosh - Barricades （from 《进击的巨人》剧场版）
-
-/商务合作/
-请加微信 ：mihuanchishu
-或发邮件至 avinmile2003@163.com]]></summary>
-        <author>
-            <name>蜜獾吃书</name>
         </author>
     </entry>
 </feed>
