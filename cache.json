@@ -506,24 +506,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://hosting.wavpub.cn/storyfm/?p=4387",
-          "author": null,
-          "description": "纪录片《未完成的反日武装战线》今天 9 月 5 日 B 站故事FM 频道上线！",
-          "link": "https://hosting.wavpub.cn/storyfm/2025/09/05/%e6%97%a5%e6%9c%ac%e4%ba%ba%e8%87%aa%e5%b7%b1%e7%9a%84%e3%80%8c%e5%8f%8d%e6%97%a5%e6%ad%a6%e8%a3%85%e6%88%98%e7%ba%bf%e3%80%8d%ef%bc%9a%e5%87%ba%e7%8b%b1%e6%88%90%e5%91%98%e9%a6%96%e6%ac%a1%e6%8a%ab/",
-          "publishedOn": "2025-09-05T12:42:08.000Z",
-          "wordCount": null,
-          "title": "日本人自己的「反日武装战线」：出狱成员首次披露当年细节",
-          "itunes": {
-            "duration": "142"
-          },
-          "enclosure": {
-            "url": "https://tk.wavpub.com/WPDL_pkJaEuNVXgrCCneKeyqGvwrvXsXWbbkttBrUjqFvUtybfPwDSRwBGPmUYU-30.wav",
-            "length": "12564914",
-            "type": "application/octet-stream"
-          },
-          "imageUrl": null
         }
       ]
     },
