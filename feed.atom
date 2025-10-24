@@ -1,10 +1,137 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-23T00:22:59.892Z</id>
+    <id>urn:2025-10-24T00:21:23.837Z</id>
     <title>Sunny🕊️</title>
-    <updated>2025-10-23T00:22:59.892Z</updated>
+    <updated>2025-10-24T00:21:23.837Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[E210｜站在内容创作者与机器人的交界处：聊聊3D数字人的进化]]></title>
+        <id>1d684a0f-e415-4270-b9f5-4fe8434487e2</id>
+        <link href="https://sv101.fireside.fm/222"/>
+        <updated>2025-10-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[9月的最后一天，Sora2发布，它可以把一句话变成一段10秒的短视频；好莱坞完全由AI创作的演员Tilly Norwood，诞生6个多月就获得了6.5万粉丝，她发自拍、代言品牌，却从未真实存在。数字人，正在成为新的内容生产者。
+但从“生成一段视频”，到与一个3D数字人实时稳定互动，中间隔着很多技术壁垒。本期嘉宾柴金祥教授，他在2000年就已经进入卡内基梅隆大学研究机器人，但因为机器人应用与落地极为困难，他们团队反而成为世界上最早用AI做3D动画的团队；18年来，他几乎在做同样的研究。
+从机器人到好莱坞的AI动画，到我们今天讨论的3D数字人模型是不是又可以反过来驱动机器人，这听起来像是一种轮回，却也是一种新的开始。
+【主播】
+泓君，硅谷101创始人，播客主理人
+【嘉宾】
+柴金祥，魔珐科技创始人兼CEO，TAMU计算机科学和工程系终身教授、博导
+【你将听到】
+数字人，下一代内容生产者
+02:45 从Sora2的发布，看“文生视频”的进步与局限
+05:58 Text-to-Video与Text-to-3D的核心区别：像素和参数
+08:55 成本革命的基石：文生3D多模态大模型（星云平台）
+13:33 传统虚拟数字人是如何动起来的？
+16:34 好莱坞有数据无算法，AI公司有算法无数据
+多模态大模型重塑人机交互
+19:46 柴教授的从业经历：从机器人控制到数字人动画
+20:46 Jessica Hodgins：数字人物理动画的先驱
+22:24 很多做Robotics很厉害的人，其实都是做动画的
+26:49 “交互-游戏-好莱坞”，渐进式的技术落地路线图
+29:45 虚拟数字人的两条岔路：预制的完美v.s实时的鲜活
+32:07 AI渲染+分层模型，终结“显卡依赖”
+3D数字人的商业化前景
+37:02 B端的统一形象与C端的个人分身
+40:36 规模化落地需翻越“三座大山”：质量、延时、成本
+42:21 自研语音，风格化“人设”为数字人注入灵魂
+加速具身智能突破泛化
+45:07 对机器人产业判断：白领场景将早于蓝领场景落地
+46:13 用海量3D动作数据教机器人动作规划，但缺乏力的反馈
+47:18 从“运动学”到“动力学”，小脑进化仍需强化学习突破
+49:23 从“爬楼梯”这件小事，看数据如何促进泛化
+58:33 跳脱细节调配，机器人研究进入“黑盒模式”
+【延伸阅读和相关术语】
+文生3D多模态大模型 (https://xingyun3d.com)：一种人工智能模型，输入一段文字描述，就能直接生成一个立体的、会动、会说话的3D数字人，“多模态”指输出包含了语音、表情、肢体动作等多种信息模式。
+VLA模型：下一代机器人的“大脑”模型，它能让机器人理解看到的画面（Vision），理解人类的语言指令（Language），并直接规划出要执行的动作（Action）。
+运动学和动力学（Kinematics and Dynamics）：机器人运动的两个基础学科。运动学解决 “做什么动作” 的问题，不考虑力；动力学解决 “用多大力气做” 的问题。让机器人完成精细操作，需要两者结合。
+【监制】
+泓君
+【后期】
+AMEI
+【运营】
+朱婕
+【BGM】
+Azoic - Max Anson
+Treasure Hunt - Helmut Schenker
+Lost in Time - Aiyo
+【在这里找到我们】
+公众号：硅谷101
+收听渠道：Apple Podcast｜Spotify｜小宇宙｜喜马拉雅｜蜻蜓FM｜荔枝FM｜网易云音乐｜QQ音乐
+其他平台：YouTube｜Bilibili 搜索「硅谷101播客」
+联系我们：podcast@sv101.net Special Guest: 柴金祥.]]></summary>
+        <author>
+            <name>硅谷101</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[咖啡豆｜几乎所有景点都能看到的冰箱贴，为何能够风靡全球？]]></title>
+        <id>68f9e7270156720321b03a04</id>
+        <link href="https://www.xiaoyuzhoufm.com/episode/68f9e7270156720321b03a04?utm_source=rss"/>
+        <updated>2025-10-23T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[无论是国内还是国外，纪念品店面的显眼位置总会看见各种各样的冰箱贴。根据澎湃新闻的数据，今年 3 月以来，「冰箱贴」这一关键词搜索热度不断上升，义乌市场相关订单数与去年同期相比增长了 228%，交易额也比去年翻了接近两倍。冰箱贴，这个几乎在世界各地都可以看见的旅行纪念品，最早是怎么出现的？它为何能够广泛流行开来？本期的咖啡豆回复就与之相关 06:00。你的冰箱上是否有那么一枚可以帮你唤醒某段旅行记忆的冰箱贴？如果有的话，那会是一段怎样的旅途记忆呢？在评论区和我们一起聊聊吧。
+本期还有关于苹果、山姆、中国网约车市场和特斯拉的新动态 01:22，欢迎收听！
+
+图： 1927 年通用电气推出的冰箱 「Monitor-Top」
+
+图： 以美国 50 个州为造型的冰箱磁铁
+感谢谷雨对本期节目的支持！
+谷雨第三代山参胶原霜Pro，更适合国人真实肤质打造的抗初老面霜。它的核心抗老成分「稀有人参皂苷CK」，能促进人体关键胶原的生成，稳住肌肤的支撑力，就像在皮肤里搭起一张稳固的支架，让紧致和弹性慢慢回到脸上，有真功效的同时肤感也很安心，各种肤质的小伙伴都可以用哦。
+谷雨相信，好的护肤，应该顺应肌肤的自然感受，用专业的配方和高效的成分，帮助肌肤保持生机和活力。
+
+主播
+Mengyi
+幕后制作
+监制：Zelin、Stella
+实习研究员：Kori、大豆、雨阳、板凳
+运营：George
+声音设计：沁茗
+封面设计：饭团
+营销内容策划：beibei
+商业内容策划：茹雪、幸倍
+声动活泼商业化小队：新新、秋杰、琳琳、迪卡、小夏（实习）
+商务合作：声动早咖啡等节目商业合作持续招募中，点击链接直达 声动商务会客厅，或者发送邮件至 business@shengfm.cn 联系我们；
+加入我们：声动活泼目前开放内容制作、商业发展等全职岗位，还在招聘内容实习生、商业化实习生和社群运营实习生等，工作地点北京东城区，详细岗位信息与申请方式，请点击链接；
+听众投稿：如果你了解身边日常现象的背后原因，欢迎投稿，你的发现可能出现在节目中。
+「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。
+  
+我们还有这些播客：声东击西、What's Next｜科技早知道、商业WHY酱、跳进兔子洞&跳进兔子洞第三季、吃喝玩乐了不起、不止金钱、泡腾 VC、反潮流俱乐部
+  
+如果你喜欢我们的节目，欢迎打赏支持，或把我们的节目推荐给朋友
+  
+本节目音频内容及文字版权归声动活泼所有，未经授权不得用于 AI 模型训练等用途]]></summary>
+        <author>
+            <name>声动早咖啡</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[s5e10. 被唱衰的全女模式，真的行不通吗？｜1024]]></title>
+        <id>5571b3cc-fb78-41c0-953c-7f7e210f9e6e</id>
+        <link href="https://sunshine.fireside.fm/s5e10"/>
+        <updated>2025-10-23T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[☀️ 本期放晴故事
+你有没有在路上注意过这样的健身房或酒吧？在店铺招牌上，「girls’」「女子」「女她」等字眼被放置在醒目的位置，有些还会用粉色和可爱的元素装饰自己，它们的目标受众往往仅限女性。也许你还没有踏入过这样的空间，但如果你尝试在社交媒体上搜索「全女」两个字，你大概率能看到更多各式各样的活动，比如「全女观影团」「全女茶话会」「全女读书会」。
+你还会看到许多关于「全女模式」的争论。在今年5月举办的华语辩论老友赛中，其中一个辩题是「全女模式的兴起是否有助改善女性处境」，这把「全女」的概念更大程度地推到了公众的面前。
+那么，全女模式究竟是一种进步还是退让？这是不是一种新的消费主义陷阱？她究竟在多大程度上可以改善女性的处境？在今天这期节目，《放晴早安》试图探索这些悬而未决的问题。为此，我们采访了深圳的两个全女活动发起者。
+延伸阅读
+• “全女”商家倒闭潮，到底是噱头还是商机？ (https://mp.weixin.qq.com/s/cWMQDSM5rIbo2_h7uJNNBw)
+• 第一批“全女”经济，迎来倒闭潮 (https://mp.weixin.qq.com/s/LjkozpWs8O9-OwC71RJW3Q)
+☀️ 往期节目
+• s4e51. 当100名女性博主决定无偿帮助她人｜0310 (https://www.xiaoyuzhoufm.com/episode/67ce111452a6af799c6350d3)
+• s4e38. 姐妹们，你们可以创业！｜1127 (https://www.xiaoyuzhoufm.com/episode/67464575f84b8fc90f64ee9d)
+• s3e78. 她们让音乐节的女厕所不用排队了｜0417 (https://www.xiaoyuzhoufm.com/episode/661ef6553e395b3c71e6702c)
+☀️
+本期制作
+主播：熊若皙
+文稿撰写：熊若皙、毕咏璇
+后期：柯志坤、熊若皙
+运营：毕咏璇
+🍠我们开通小红书啦，快来关注我们：@放晴公园 (https://www.xiaohongshu.com/user/profile/66695c2c0000000007005fba)
+《放晴早安》由「放晴公园」制作播出，是一档以「解困式报道」（solutions journalism）为理念的节目。我们的第三、四、五季节目由香港中文大学社会科学学院「社会科学与创新实践」（CU-ASK）辅修项目支持。]]></summary>
+        <author>
+            <name>放晴公园</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米其林｜美洲成泡泡玛特增速最快的市场，中国连锁酒店加速布局东南亚]]></title>
         <id>68f8b4bc01567203218aa4a9</id>
@@ -687,16 +814,6 @@ s3e56. 如果学校帮你找饭搭子… (https://www.xiaoyuzhoufm.com/episode/6
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[秋葵干了三杯Mixtape，转身游向深夜港湾]]></title>
-        <id>https://looper.typlog.io/episodes/458</id>
-        <link href="https://looper.typlog.io/episodes/458"/>
-        <updated>2025-10-15T14:07:22.000Z</updated>
-        <summary type="html"><![CDATA[Les Tourmentés David Bowie, Olivia Vermeulen, Jan Philip Schulze - Life on mars (Intro: First sounds from Mars-rover Perseverance 2021) Kraftwerk - The Hall of Mirrors FKA twigs - mirrored heart Leon Vynehall - A Jagged Promise JPEGMAFIA - i scream this in the mirror before i interact with anyone Kassa Overall - REBIRTH OF SLICK (COOL LIKE DAT) 关淑怡 - 逝去的传奇 Ryuichi Sakamoto - Rain Shut Up and Dance - The Green Man Steve Reich - It's Gonna Rain, Pt. 1 (1965) Amy Winhouse - In My Bed Incredible Bongo Band - Apache Little Simz - Don't Leave Too Soon aja monet - black joy D'Angelo - Unshaken Angie Stone - Wish I Didn't Miss You Emma-Jean Thackray, Kassa Overall - It's Okay Alabaster DePlume - Thank You My Pain Okay Kaya - Believe N.Y.P.D. 南洋派对 - 我钟意 Leon Thomas - Echoes John Martyn - Solid Air …]]></summary>
-        <author>
-            <name>卧房撸歌</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[94 就不爱酸，谁还不配喝精品咖啡了？！]]></title>
         <id>xmly_track_921296925</id>
         <link href="https://www.ximalaya.com/sound/921296925"/>
@@ -1303,16 +1420,6 @@ Mozart: Symphony No. 29 in A Major, K. 201: I. Allegro moderato
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[秋海棠捧着Mixtape在月球表面游荡]]></title>
-        <id>https://looper.typlog.io/episodes/457</id>
-        <link href="https://looper.typlog.io/episodes/457"/>
-        <updated>2025-10-06T01:31:46.000Z</updated>
-        <summary type="html"><![CDATA[Dawn To Dusk Nina Simone - My Father / Dialog 00:00:08 吴莺音 - 明月千里寄相思 00:01:45 Ryuichi Sakamoto - fullmoon 00:03:01 Floating Points - Falaise 00:07:45 David Bowie - "Let me tell you one thing..." 00:09:21 Arthur Russell - This Is How We Walk On The Moon 00:11:07 Jay Electronica - Letter To Mars 00:13:11 The Comet Is Coming - Astral Flying 00:17:26 Everything Is Recorded, Roses Gabor - No Ends No Beginnings 00:20:12 Erik Truffaz - Sail to the Moon 00:21:43 Cassandra Wilson - Harvest Moon 00:23:45 Claude Debussy, Will Borders - Clair De Lune 00:27:38 Claude Debussy, Valery Gergiev, London Symphony Orchestra - Prelude a l'apres-midi d'un faune, L. 86 00:30:05 Björg Brynjarsdóttir, viibra - Eyg 00:32:02 Björk - Family 00:33:46 Black Country, New Road - For the Cold Country 00:36:43 Cameron Wint…]]></summary>
-        <author>
-            <name>卧房撸歌</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[153.我的名字叫红：用一千零一夜的心跳完成这场谋杀(上）]]></title>
         <id>xmly_track_917670296</id>
         <link href="https://www.ximalaya.com/sound/917670296"/>
@@ -1730,80 +1837,6 @@ AI 动漫短剧迎来高速发展
 商业内容策划：茹雪、幸倍
 声动活泼商业化小队：新新、秋杰、琳琳、迪卡、小夏（实习）
 商务合作：声动早咖啡等节目商业合作持续招募中，点击链接直达 声动商务会客厅，或者发送邮件至 business@shengfm.cn 联系我们；
-听众投稿：如果你了解身边日常现象的背后原因，欢迎投稿，你的发现可能出现在节目中。
-「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。
-  
-我们还有这些播客：声东击西、What's Next｜科技早知道、商业WHY酱、跳进兔子洞&跳进兔子洞第三季、吃喝玩乐了不起、不止金钱、泡腾 VC、反潮流俱乐部
-  
-如果你喜欢我们的节目，欢迎打赏支持，或把我们的节目推荐给朋友
-  
-本节目音频内容及文字版权归声动活泼所有，未经授权不得用于 AI 模型训练等用途]]></summary>
-        <author>
-            <name>声动早咖啡</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[E208｜量产CEO这事儿，是怎么被宝洁办成的？]]></title>
-        <id>66c2318e-a6ef-442e-919a-0635d0df3634</id>
-        <link href="https://sv101.fireside.fm/218"/>
-        <updated>2025-09-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[如果有家公司的特长是量产CEO，而这家公司还是卖洗发水、洗衣粉和尿不湿的宝洁，你会怎么想？
-事实就是这样——宝洁最近公布了它的新任CEO，后者在36年前通过校招进入宝洁，在公司里从品牌助理经理做起一直做到全球COO，即将在明年掌舵这个全球最大的日化巨头。
-从1837年创立以来，一共有12位职业经理人，担任过宝洁13任的CEO。他们全都从宝洁的内部培养体系而来，在公司任职多年，熟知公司的业务、战略和文化。这和如今不少公司一发展就愁人才、一愁人才就找空降高管、一找空降高管总会水土不服的情况截然不同。
-宝洁的人才培养机制不只服务了自己，它还向全球快消行业输送了大量职业经理人，向中国消费创业领域输送了诸多明星创业者，甚至向互联网行业输送了不少高管。
-本期播客，我们将宝洁的人才培养机制拆解成了招人-培养人-寻找Coach三个环节，也聊了聊普遍的“空降高管难题”，以及科技创业公司能从宝洁的人才培养机制中借鉴什么。
-量产CEO也许不是每家公司都能做到，但想多从内部培养一些人才，宝洁这家超传统企业，的确能捋出不少know-how来。
-【主播】
-麻花，硅谷101特约研究员
-【嘉宾】
-于冬琪，新能力咨询创始人（公众号：于冬琪商业笔记）
-叶楠，人力资源专家，知乎人力资源优秀答主（公众号：瞎说职场）
-【硅谷101科技峰会】
-《硅谷101》的年度科技大会又回来了，这是我们将有趣的技术干货与故事带到线下的第二年，用最好的内容让大家亲身感受前沿科技的酷炫和温度一直是硅谷101的目标。硅谷10月5日，期待与各位见面，从这里驶向未来！
-欢迎点击前往 (https://luma.com/mtqq79ii)购票地址，输入粉丝专属折扣码“VALLEY101FANS”，享85折优惠。
-【你将听到】
-养人先招人，从“宝洁八大问”开始
-05:10 宝洁的招人逻辑，更重先天特质而非后天技能
-11:10 怎样的面试和互动，…]]></summary>
-        <author>
-            <name>硅谷101</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为可口可乐和百事灌装汽水的装瓶商，和可乐公司有哪些矛盾？]]></title>
-        <id>68d2b5a0522b40626cf0c9e3</id>
-        <link href="https://www.xiaoyuzhoufm.com/episode/68d2b5a0522b40626cf0c9e3?utm_source=rss"/>
-        <updated>2025-09-23T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[9 月初，美国的投资机构 Elliott Management 要求百事公司效仿可口可乐，出售可乐的装瓶业务。装瓶是可乐生意中，相当重要的一环。以可口可乐为例，他们主要负责营销活动，然后把浓缩液卖给装瓶商，装瓶商需要生产可乐、搭建销售和物流体系，把可乐送到超市的货架上。那么，为什么可乐公司需要装瓶商这个角色呢？装瓶商和可口可乐、百事公司之间的关系又是什么样的？本期轻解读就与之相关 05:28。你在买可乐的时候，会想要顺带着买一些薯片之类的零食吗？在评论区和我们一起聊聊吧。
-本期还有关于比亚迪、英伟达、耐克和阿里巴巴的新动态 01:25，欢迎收听！
-往期传送门：
-运动巨头联姻网红品牌 Skims，耐克为何要找卡戴珊来帮忙？
-特朗普想要的蔗糖可乐，为何难以取代美国现有的玉米糖浆可乐？
-「Knock Knock 世界｜秋季敲门版」上线啦！
-新学期伊始，我们特别准备了「Knock Knock 世界｜秋季敲门版」，每期 10 分钟，和青少年一起解读全球新鲜事，话题涉及社会、科技、商业、文化。
-  
-更新时间：整个秋季学期，从 9 月 1 日开始到 1 月 30 日
-  
-期数：60 期
-  
-售价：179 元
-
-前 3 期可以免费收听，其中包括我们在线下选题会和少年听友们一起制作的两期正式节目。点击这里收听。
-已经购买了「Knock Knock 世界」的朋友们无需重复购买，秋季敲门版里的节目是全年节目的一小部分。不过，也欢迎把秋季敲门版分享给更多志同道合的新朋友，我们也为每一位帮助我们成功邀请的老听友准备了一份专属礼物！感兴趣的朋友可以点击链接收听。
-主播
-幸倍
-幕后制作
-制作人：Mengyi
-监制：Zelin、Stella
-实习研究员：Kori、大豆
-运营：George
-后期：沁茗
-封面设计：饭团
-营销内容策划：beibei
-商业内容策划：茹雪、幸倍
-声动活泼商业化小队：新新、秋杰、琳琳、迪卡、小夏（实习）
-商务合作：声动早咖啡等节目商业合作持续招募中，点击链接直达 声动商务会客厅，或者发送邮件至 business@shengfm.cn 联系我们；
-加入我们：声动活泼目前开放内容实习生、商业化合作实习生和市场部门岗位（节目运营、社群运营、内容营销）等，工作地点北京东城区。详细信息与申请方式，请点击链接；
 听众投稿：如果你了解身边日常现象的背后原因，欢迎投稿，你的发现可能出现在节目中。
 「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。
   
