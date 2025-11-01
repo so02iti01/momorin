@@ -1,16 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-31T00:23:42.345Z</id>
+    <id>urn:2025-11-01T00:25:54.936Z</id>
     <title>Sunny🕊️</title>
-    <updated>2025-10-31T00:23:42.345Z</updated>
+    <updated>2025-11-01T00:25:54.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[E863.那个在游戏里保护我的人，是我妈]]></title>
+        <id>https://hosting.wavpub.cn/storyfm/?p=4422</id>
+        <link href="https://hosting.wavpub.cn/storyfm/2025/10/31/e863-%e9%82%a3%e4%b8%aa%e5%9c%a8%e6%b8%b8%e6%88%8f%e9%87%8c%e4%bf%9d%e6%8a%a4%e6%88%91%e7%9a%84%e4%ba%ba%ef%bc%8c%e6%98%af%e6%88%91%e5%a6%88/"/>
+        <updated>2025-10-31T10:08:19.000Z</updated>
+        <summary type="html"><![CDATA[爱哲按：
+当一款游戏走过十年，它早已不只是娱乐。
+《王者荣耀》是一个时代的缩影，也是一代人的情感档案。
+在这个十周年特别企划中，我们听到了三段不同的「关系」故事：
+母女在游戏里并肩作战、一起夺冠；
+情侣因语音相恋、跨越千里结婚；
+老朋友隔海相望，却仍在游戏中保持联系。
+他们的故事，记录了「游戏之外的人心」。
+这是一堂关于「连接、理解与陪伴」的关系课。
+/Staff/
+讲述者 | 小浪浪、杨秀蓉、小卫、小白、沐沐、杨
+主播 | @故事FM 爱哲
+制作人 | 王文卓
+声音设计 | 王文卓
+文案整理 | 俞柯伊 
+运营 | 鸣鸣
+用你的声音，讲述你的故事。
+故事FM 是一档亲历者自述的声音节目。在以下渠道均可收听我们的节目：
+苹果播客 | 网易云音乐 | 喜马拉雅
+蜻蜓FM | 荔枝FM | 懒人听书
+小宇宙 | QQ音乐 | 酷狗音乐 | 酷我音乐
+Spotify | YouTube Music
+商务合作：bd@storyfm.cn
+微信公众号：故事FM (ID: story_fm)
+新浪微博：@故事FM_StoryFM
+个人微信号：gushi_fm02]]></summary>
+        <author>
+            <name>故事FM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不尝试一次“羞耻的快乐”，算我白活]]></title>
+        <id>xmly_track_926828482</id>
+        <link href="https://www.ximalaya.com/sound/926828482"/>
+        <updated>2025-10-31T10:07:58.000Z</updated>
+        <summary type="html"><![CDATA[️本期节目请成年人在私密场合下尽情收听。
+朋友们，今天是「羞耻的快乐」坦白局，又不拿大家当外人了。
+生活中总有些快乐让我们难以启齿。
+比如对某些“影片”的私密爱好；
+对某种食物的暗自喜欢；
+对过去某个时刻的偷偷回味。
+正是一个个不足为外人道也的“小快乐”；
+促成了我们平淡生活中灵光乍现的生命悸动。
+《好东西》里那句“能让你快乐的，就是好东西”含金量还在上升。
+我们拥有羞耻的快乐，但不必因为快乐而羞耻。
+欢迎在评论区留下你自己的小欢愉。
+�内容摘要：
+02:01 爱看小甜剧亲嘴儿，姐偏爱含蓄的
+07:13 低能量人的高能量时刻——
+26:54 冬天自救指南：被暧昧氛围环绕
+39:01 其实我的人设早就塌了
+46:04 坦白了，我就是爱吃食物的女孩
+52:20 “上瘾”这件事，对我是羞耻
+59:01 没有文化体力，但有脑子空空的快乐
+�️本期主播：奇妙、安妮、牛小玲
+剪辑：思凡
+视觉：一隻鹿
+�背景音乐-来自平台musicbed
+Breathing it in-Peached
+Believe me- Dalton Day]]></summary>
+        <author>
+            <name>万一火了</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[E212｜AI数据中心的万亿大基建时代：美国GDP增长全靠它]]></title>
         <id>80d7c07d-2fae-48a0-86e4-1bd2294f88e7</id>
         <link href="https://sv101.fireside.fm/220"/>
         <updated>2025-10-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“2025年上半年，美国GDP增长几乎全部来自于人工智能基础设施投资。”
+        <summary type="html"><![CDATA[“2025年上半年，美国GDP增长几乎全部来自于数据中心与信息技术。”
 “如果去掉信息技术与软件，美国GDP增长率仅有0.1%。”
 ——哈佛大学经济学家杰森·弗曼（Jason Furman）
 最近一个大新闻是，OpenAI发公告完成架构与资本重组，为潜在IPO铺路，核心也是它承诺了未来1.4万亿的算力投入，这是一个巨大的资金缺口。
@@ -29,7 +98,7 @@ JJLake是位于硅谷Mountain View的创新空间 + 孵化器，由管理规模�
 AI巨头押注算力规模
 04:43 OpenAI最激进，目标构建10吉瓦乃至长期100吉瓦的算力容量
 06:36 xAI、Meta同样激进，扫货发电机、抢占能源低廉土地
-07:24 微软、Goo…]]></summary>
+07:24 微软、Goog…]]></summary>
         <author>
             <name>硅谷101</name>
         </author>
