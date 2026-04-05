@@ -364,24 +364,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "7c623f16-9743-4657-a33d-bc38ea7fcd41",
-          "author": "kfang@cuhk.edu.hk (放晴公园)",
-          "description": "☀️ 本期放晴故事\n提起泰国旅行，大家的旅行清单里几乎都藏着一项：去体验一次地道的泰式按摩。不过，把“监狱”和“按摩店”这两个词放在一个句子里却很少见。但在清迈古城，这样的组合却真实存在。为你按摩的那双手，来自一位正在服刑的女性。\n延伸阅读\nDamage undone: Chiang Mai women’s prison taking a lead in reform\n☀️ 往期节目\ns5e12.发声的力量：给保洁阿姨一间休息室｜1028\ns5e10. 被唱衰的全女模式，真的行不通吗？｜1024\n☀️\n本期制作\n🍠我们开通小红书啦，快来关注我们：@放晴公园\n《放晴早安》由「放晴公园」制作播出，是一档以「解困式报道」（solutions journalism）为理念的节目。我们的第三、四、五季节目由香港中文大学社会科学学院「社会科学与创新实践」（CU-ASK）辅修项目支持。",
-          "link": "https://sunshine.fireside.fm/s5e60",
-          "publishedOn": "2026-03-05T22:00:00.000Z",
-          "wordCount": null,
-          "title": "s5e60. 高墙之外：清迈女子监狱按摩店｜0306",
-          "itunes": {
-            "duration": "8:41"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/e0f2e192-ad76-4431-942c-c290cfbcda1f/7c623f16-9743-4657-a33d-bc38ea7fcd41.mp3",
-            "length": "8352259",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -749,24 +731,6 @@
             "length": "19144298"
           },
           "imageUrl": null
-        },
-        {
-          "id": "69a98fb15b2d0ed069782849",
-          "author": null,
-          "description": "根据财新的报道，美国和以色列在 2 月 28 日对伊朗发动空袭后，伊朗在沙特、阿联酋、巴林等多个驻有美国军事基地的周边国家进行回击。随后，亚马逊云 AWS 在 3 月 2 日表示，他们在阿联酋的两个数据中心，还有位于巴林的一个基础设施，受到无人机的袭击而受损。好几个在阿联酋境内提供配送、打车以及支付服务的平台，也都报告由于 AWS 基础设施的影响，服务短暂中断。为什么中东地区会部署大量的数据中心呢？本期的咖啡豆回复就与之相关 06:00。\n\n海湾地区的数据中心分布\n本期还有关于韩国股市、苹果、阿迪达斯和索尼的新动态 01:18，欢迎收听！\n主播\nMengyi\n幕后制作\n监制：Zelin、Stella\n运营：George\n声音设计：沁茗\n封面设计：饭团\n营销内容策划：beibei\n商业内容策划：茹雪、幸倍\n声动活泼商业化小队：新新、秋杰、琳琳、迪卡\n商务合作：声动早咖啡等节目商业合作持续招募中，点击链接直达 声动商务会客厅，或者发送邮件至 business@shengfm.cn 联系我们；\n加入我们：声动活泼目前开放内容监制、声音设计、商业发展等全职岗位，还在招聘内容实习生等，工作地点北京东城区，详细岗位信息与申请方式，请点击链接；\n听众投稿：如果你了解身边日常现象的背后原因，欢迎投稿，你的发现可能出现在节目中。\n「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。\n  \n我们还有这些播客：声东击西、What's Next｜科技早知道、商业WHY酱、跳进兔子洞&跳进兔子洞第三季、吃喝玩乐了不起、不止金钱、泡腾 VC、反潮流俱乐部\n  \n如果你喜欢我们的节目，欢迎打赏支持，或把我们的节目推荐给朋友\n  \n本节目音频内容及文字版权归声动活泼所有，未经授权不得用于 AI 模型训练等用途",
-          "link": "https://www.xiaoyuzhoufm.com/episode/69a98fb15b2d0ed069782849?utm_source=rss",
-          "publishedOn": "2026-03-05T23:00:00.000Z",
-          "wordCount": null,
-          "title": "咖啡豆｜战火波及亚马逊云设施，为何大量数据中心选址中东？",
-          "itunes": {
-            "duration": "00:15:14"
-          },
-          "enclosure": {
-            "url": "https://dts-api.xiaoyuzhoufm.com/track/60de7c003dd577b40d5a40f3/69a98fb15b2d0ed069782849/media.xyzcdn.net/60de7c003dd577b40d5a40f3/lpk4SPZcb-oQ5ZlkeORFr5lbBIrc.m4a",
-            "type": "audio/mp4",
-            "length": "16058883"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1127,26 +1091,7 @@
       "title": "一梦百晓",
       "feedUrl": "http://rss.lizhi.fm/rss/60164802.xml",
       "siteUrl": "http://www.lizhi.fm",
-      "articles": [
-        {
-          "id": "http://cdn.lizhi.fm/audio/2026/03/05/3198655230513734662_hd.mp3",
-          "author": null,
-          "description": "值此妇女节来临之际，谨以此期节目致敬砥砺奋斗在各行各业的女同志们, 希望大家更加关注自身健康, 拥有强健体魄！\n\n \n 本期节目我们将从《她的病痛, 总被当做幻觉: 关于女性身体的真相与谎言》这本书延展开来，讨论医学史上医疗系统对女性患者普遍存在的忽视和误诊问题，还有社会文化因素对女性医疗决策的影响，这些问题并没有因为科学进步而消失，只是更加隐蔽的延续至今。我们也希望能鼓励女性勇于表达自己的感受和需求，得到真正合适的诊疗方案。如果您对书籍内容感兴趣，购书链接在此:\n   《她的病痛》当当抢购 http://dmll.cn/DjhG ​\n  \n\n \n01:00 医学专业书籍的阅读体验与性别视角的科普价值（以及恰饭方式，把\"让她们恰\"打在公屏上）\n\n \n07:30 医学观念滞后与女性健康被忽视的事实\n\n \n性别差异与健康：\n\n \n20:00 肠道——女性更容易便秘吗？\n\n \n28:30 女性心梗为什么更容易漏诊\n\n \n32:20 认为“女性更情绪化”, 有多耽误事儿\n\n \n38:16 尿尿这件事好像很bro\n\n \n45:00 美容相关的医疗已经从科学变成生意\n\n \n56:00 医疗过程中，女性是否真的拥有身体自主权?一切治疗必须生育功能优先吗？\n\n \n72:00 女医生在医疗领域的独特价值和挑战\n\n \n77:00 病痛非幻觉：患者自救与医疗沟通指南在此！\n\n \n——本期主播——\n\n \n@ 庄生，“一梦百晓”电台主播，微博“庄生July”\n\n \n@ 你这愚蠢的土拨鼠，“有理放放肆” 电台主播",
-          "link": "https://www.lizhi.fm/dhp_static/static/h5_dhp_app/share.html#/voice?voiceId=3198655230513734662&podcastId=5326703388531103359",
-          "publishedOn": "2026-03-05T13:47:07.000Z",
-          "wordCount": null,
-          "title": "Vol.75 妇女节特辑| 医疗中被\"消失\"的她",
-          "itunes": {
-            "duration": "5116"
-          },
-          "enclosure": {
-            "url": "https://cdn.lizhi.fm/audio/2026/03/05/3198655230513734662_hd.mp3",
-            "length": "81919550",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "万一火了",
@@ -1186,24 +1131,6 @@
             "length": "146017871",
             "type": "audio/x-m4a",
             "url": "https://jt.ximalaya.com//GKwRIJENkszbAirPowR8qIoq.m4a?channel=rss&album_id=68228204&track_id=964308386&uid=407209968&jt=https://aod.cos.tx.xmcdn.com/storages/431c-audiofreehighqps/F5/EA/GKwRIJENkszbAirPowR8qIoq.m4a"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "xmly_track_960980998",
-          "author": null,
-          "description": "朋友们，本期我们来聊“人类如何丰容”。\n\n啥叫丰容？丰容这个词源于动物园；\n简单说是“给圈养的动物找点事做，让它们过得有意思”。\n有网友发现，人类的世界或许更需要丰容；\n作为人类，我们的刻板行为可能早已经出现。\n\n比如每天都处在物质和精神双重倒贴的坐班之中；\n再比如假期也总有一种“什么都没做，又没什么可做”的焦虑感。\n\n人，你可能确实该丰容了。\n无论是具体的线下生活，还是生动的线上生活；\n丰容或许取决于今天的地球online游戏和昨天相比，到底有哪些微小的不同。\n\n本期节目我们近距离观察了各自的生活切片，聊了聊普通人有过的最小单位的丰容行为。\n欢迎在评论区和我们共享你近期的生活体验～\n\n�内容摘要：\n06：18 喜欢上给别人丰容，荒诞！\n11：33 下班后去搓“三合一”，从头皮爽到脚趾\n15：00 废墟探索是成年人的异世界游戏\n20：50 看小动物丰容，也丰容我自己\n29：29 你囤这些“老东西”，你囤它有啥用\n31：13 战损洗漱包，同事都看不下去\n35：56 《双人成行》逼真动效，让我边哭边玩\n47：28 合理怀疑，抖音的世界才是真的！\n58：19 人类为何需要丰容，没啥标准答案\n\n�️本期主播：奇妙、牛小玲、安妮、左拉\n剪辑：思凡\n视觉：JANE\n\n�背景音乐-来自平台musicbed\n\nBreathing it in-Peached\nBelieve me- Dalton Day",
-          "link": "https://www.ximalaya.com/sound/960980998",
-          "publishedOn": "2026-03-06T08:16:44.000Z",
-          "wordCount": null,
-          "title": "做只猫做条狗，做丰容的人类",
-          "itunes": {
-            "duration": "1:08:46"
-          },
-          "enclosure": {
-            "length": "134257843",
-            "type": "audio/x-m4a",
-            "url": "https://jt.ximalaya.com//GKwRIMANgFEhAf2uAgR1QQnG.m4a?channel=rss&album_id=68228204&track_id=960980998&uid=407209968&jt=https://aod.cos.tx.xmcdn.com/storages/c3ca-audiofreehighqps/4F/B5/GKwRIMANgFEhAf2uAgR1QQnG.m4a"
           },
           "imageUrl": null
         }
