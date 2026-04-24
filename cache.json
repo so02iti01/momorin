@@ -130,24 +130,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "492ea216-ab19-4963-a52e-8a48888fd3db",
-          "author": "kfang@cuhk.edu.hk (放晴公园)",
-          "description": "☀️ 本期放晴故事\n工作、房贷、婚恋、育儿......每一个话题都沉甸甸的。当压力无处释放，当情绪无处安放，“付费情绪”就成了一个看似合理的出口。于是，市场嗅到了需求，心理咨询平台雨后春笋般涌现，陪聊APP层出不穷，甚至连AI都开始扮演“情感伴侣”的角色。情绪，正在被明码标价。\n延伸阅读\n情绪消费：万亿赛道上的温暖与隐忧标题标题标题\n为什么心理咨询要收费那么高，让普通大众消费不起的？\n人工智能“同理心程度”得分高出人类，AI“陪聊”会否让人类更孤独？\n☀️ 往期节目\ns4e27. 在杭州，他们想用陪伴支持抑郁的青少年丨1112\ns3e79. 心理治疗原来也可以很便宜｜CU-ASK｜0418\n☀️\n本期制作\n🍠我们开通小红书啦，快来关注我们：@放晴公园\n《放晴早安》由「放晴公园」制作播出，是一档以「解困式报道」（solutions journalism）为理念的节目。我们的第三、四、五季节目由香港中文大学社会科学学院「社会科学与创新实践」（CU-ASK）辅修项目支持。",
-          "link": "https://sunshine.fireside.fm/qingxu",
-          "publishedOn": "2026-03-24T22:00:00.000Z",
-          "wordCount": null,
-          "title": "s5e73.心理咨询、陪聊、AI伴侣，是解药还是陷阱？｜0325",
-          "itunes": {
-            "duration": "12:06"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/e0f2e192-ad76-4431-942c-c290cfbcda1f/492ea216-ab19-4963-a52e-8a48888fd3db.mp3",
-            "length": "17427694",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -156,6 +138,24 @@
       "feedUrl": "https://feed.xyzfm.space/q88qwmydeuw8",
       "siteUrl": "https://www.xiaoyuzhoufm.com/podcast/60de7c003dd577b40d5a40f3?utm_source=rss",
       "articles": [
+        {
+          "id": "69ea376a1e94ae692100726e",
+          "author": null,
+          "description": "4 月 20 日，苹果宣布，现任硬件工程高级副总裁的 John Ternus，将接替 Tim Cook 出任 CEO。这是自 2011 年 Cook 在乔布斯去世前不久接掌公司以来，苹果首次更换 CEO。John Ternus 究竟是谁？他接手的是一个什么样的苹果公司？本期的咖啡豆回复就与之相关 07:07。你希望未来的苹果产品，能够有什么样的变化？在评论区和我们一起聊聊吧。\n本期还有关于 Lululemon、DeepSeek、OpenAI 和谷歌的新动态 01:10，欢迎收听！\n往期传送门：\n库克接棒的十年，苹果变得更好了吗？\n主播\nMengyi\n幕后制作\n监制：Zelin、Stella\n实习研究员：晨扬、maqing\n运营：George\n声音设计：沁茗\n封面设计：饭团\n营销内容策划：beibei\n商业内容策划：茹雪、幸倍\n声动活泼商业化小队：新新、秋杰、琳琳、迪卡\n商务合作：声动早咖啡等节目商业合作持续招募中，点击链接直达 声动商务会客厅，或者发送邮件至 business@shengfm.cn 联系我们；\n加入我们：声动活泼目前开放内容监制、商业发展等全职岗位，还在招聘内容实习生等，工作地点北京东城区，详细岗位信息与申请方式，请点击链接；\n听众投稿：如果你了解身边日常现象的背后原因，欢迎投稿，你的发现可能出现在节目中。\n「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。\n  \n我们还有这些播客：声东击西、What's Next｜科技早知道、商业WHY酱、跳进兔子洞&跳进兔子洞第三季、吃喝玩乐了不起、不止金钱、泡腾 VC、反潮流俱乐部\n  \n如果你喜欢我们的节目，欢迎打赏支持，或把我们的节目推荐给朋友\n  \n本节目音频内容及文字版权归声动活泼所有，未经授权不得用于 AI 模型训练等用途",
+          "link": "https://www.xiaoyuzhoufm.com/episode/69ea376a1e94ae692100726e?utm_source=rss",
+          "publishedOn": "2026-04-23T23:00:00.000Z",
+          "wordCount": null,
+          "title": "咖啡豆｜苹果即将告别库克时代，新任掌门人正面临哪些关键转折？",
+          "itunes": {
+            "duration": "00:16:54"
+          },
+          "enclosure": {
+            "url": "https://dts-api.xiaoyuzhoufm.com/track/60de7c003dd577b40d5a40f3/69ea376a1e94ae692100726e/media.xyzcdn.net/60de7c003dd577b40d5a40f3/lmRbctEl_us9sCRoJfJdtFxp1YSQ.m4a",
+            "type": "audio/mp4",
+            "length": "16425438"
+          },
+          "imageUrl": null
+        },
         {
           "id": "69e8f0e21e94ae6921eaedda",
           "author": null,
@@ -515,24 +515,6 @@
             "length": "9821557"
           },
           "imageUrl": null
-        },
-        {
-          "id": "69c2b2b814d40a13582970df",
-          "author": null,
-          "description": "过去几年，美妆巨头雅诗兰黛一度陷入低谷。但在最新一个季度，集团营收同比增长了 6%，扭转了亏损的局面，实现 1.6 亿美元的盈利。值得一提的是，这个季度，雅诗兰黛在中国市场的营收，同比增长 13%，远高于集团整体水平。在经历几年低迷之后，雅诗兰黛如今的业绩复苏到底是怎么发生的？本期轻解读就与之相关 05:53。你现在买护肤品，会点开成分表仔细查看吗？你如何看待一些护肤产品的高昂定价呢？在评论区和我们一起聊聊吧。\n本期还有关于影石、老铺黄金、小鹏汽车和 OpenAI 的新动态 01:55，欢迎收听！\n加入我们！\n声动活泼目前开放内容监制、声音设计、商业发展等全职岗位，还在招聘内容实习生等，工作地点北京东城区，详细岗位信息与申请方式，请点击链接。\n主播\nMengyi\n幕后制作\n监制：Zelin、Stella\n实习研究员：晨扬\n运营：George\n声音设计：沁茗\n封面设计：饭团\n营销内容策划：beibei\n商业内容策划：茹雪、幸倍\n声动活泼商业化小队：新新、秋杰、琳琳、迪卡\n商务合作：声动早咖啡等节目商业合作持续招募中，点击链接直达 声动商务会客厅，或者发送邮件至 business@shengfm.cn 联系我们；\n听众投稿：如果你了解身边日常现象的背后原因，欢迎投稿，你的发现可能出现在节目中。\n「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。\n  \n我们还有这些播客：声东击西、What's Next｜科技早知道、商业WHY酱、跳进兔子洞&跳进兔子洞第三季、吃喝玩乐了不起、不止金钱、泡腾 VC、反潮流俱乐部\n  \n如果你喜欢我们的节目，欢迎打赏支持，或把我们的节目推荐给朋友\n  \n本节目音频内容及文字版权归声动活泼所有，未经授权不得用于 AI 模型训练等用途",
-          "link": "https://www.xiaoyuzhoufm.com/episode/69c2b2b814d40a13582970df?utm_source=rss",
-          "publishedOn": "2026-03-24T23:00:00.000Z",
-          "wordCount": null,
-          "title": "美妆巨头艰难转身，一度陷入困境的雅诗兰黛如何摆脱业绩低迷？",
-          "itunes": {
-            "duration": "00:14:58"
-          },
-          "enclosure": {
-            "url": "https://dts-api.xiaoyuzhoufm.com/track/60de7c003dd577b40d5a40f3/69c2b2b814d40a13582970df/media.xyzcdn.net/60de7c003dd577b40d5a40f3/lqpNQp2xmOZED8zyunkBxSN1Iwk3.m4a",
-            "type": "audio/mp4",
-            "length": "14538874"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -777,24 +759,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://hosting.wavpub.cn/storyfm/?p=4563",
-          "author": null,
-          "description": "故事FM ❜ 第 886 期\n爱哲按：\n在我们很多人的记忆里，中国乒乓球一直都是世界领先，似乎从未真正跌落过。 2008 年北京奥运会，男单女单领奖台上同时升起三面五星红旗的画面，成为无数人关于「国球」最深刻的印记。\n即便从不看球，我们也多少听说过几位中国乒乓球运动员的名字：从刘国梁、孔令辉、张怡宁，到马龙、张继科，再到樊振东、孙颖莎……\n然而，在这些能够站上国际领奖台的「明星」背后，有着极少被看见的、极为漫长也极其残酷的竞争体系与淘汰机制。\n我们今天节目的主人公，就是这样一位乒坛聚光灯之外的运动员。她从 5 岁开始打球，一路过关斩将，最终迈进国家队的大门。但只在国家一队待了半年，她便做出了一个令人无法理解的决定\n——选择主动退役。\n时间轴：\n1:10 从 0 比 11 开始的乒乓球生涯\n5:15 不能输……赢球对我来说只是意味着不用挨打\n10:39 从对国家队产生执念到无所谓，规则与潜规则终于让我祛魅\n16:44 顶着高烧打进国家队，越不在乎什么的时候，老天反而会给你什么\n21:20 乒乓球的饭圈文化\n25:23 失败时，我想让我所坐的这架飞机坠毁\n30:16 货拉拉载着我两年半的全部家当驶出大门，我的人生似乎自由了\n31:56 Easy revenge\n/Staff/\n讲述者｜芋头\n主播 | @故事FM爱哲\n采访 | @故事FM爱哲\n制作人 | 张旭冉\n文案整理丨张旭冉\n声音设计 | 张旭冉\n运营 | 鸣鸣\n用你的声音，讲述你的故事。故事FM 是一档亲历者自述的声音节目。\n商务合作：bd@storyfm.cn\n微信公众号：故事FM (ID: story_fm)\n新浪微博：@故事FM_StoryFM\n个人微信号：gushi_fm02",
-          "link": "https://hosting.wavpub.cn/storyfm/2026/03/25/e886-%e7%bb%88%e4%ba%8e%e6%89%93%e8%bf%9b%e4%b9%92%e4%b9%93%e7%90%83%e5%9b%bd%e5%ae%b6%e9%98%9f%e5%90%8e%ef%bc%8c%e6%88%91%e4%b8%bb%e5%8a%a8%e9%80%80%e5%bd%b9%e4%ba%86/",
-          "publishedOn": "2026-03-25T11:36:34.000Z",
-          "wordCount": null,
-          "title": "E886.终于打进乒乓球国家队后，我主动退役了",
-          "itunes": {
-            "duration": "2247"
-          },
-          "enclosure": {
-            "url": "https://tk.wavpub.com/WPDL_MpVRRQdprCWtpJXKQnDufLLSWGADuRfMnVLzyJUAZYMRmLCdJXhXYuAkse-0b.mp3",
-            "length": "53933216",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -806,7 +770,7 @@
         {
           "id": "b2be7093-3366-4ee2-8a7a-625f06206ae5",
           "author": "liuhj60@gmail.com (硅谷101)",
-          "description": "最近，《灵魂摆渡·浮生梦》成为中国首部全AI生成的电影，暑期档即将上映 。“AI能否替代真人演员”、“真人短剧是不是在被AI团灭”，这些话题最近都在冲上微博热搜，成为大家讨论的焦点。\n【主播】\n【嘉宾】\n【两场线下活动预告，南湾见！】\n🔋 第一场：Scaling AI — The Infrastructure, Energy & Capital Triangle 4月25日（周六）下午 联合华丰能源举办。\nluma.com/u4z0gwfc\n🤖 第二场：CONNECT 2026 — 首届全球具身智能大会（GEIS） 4月28日（周二）下午2时 Santa Clara Convention Center\nluma.com/01fxspog\n【你将听到】\nAI目前能做出什么样的电影？\nAI 时代的版权和维权困境\nAI 不可替代的是什么？\n【延伸阅读和相关术语】\nE164｜当电影遇上AI：与好莱坞特效美术聊聊他们和新工具的博弈\nE110 | 好莱坞编剧罢工：AI冲击波与编剧们的生存危机\n【监制】\n【采访 & 制作】\n【后期】\n【运营】\n【BGM】\n【在这里找到我们】\npodcast@sv101.net\nSpecial Guests: KiSA, 陆川, and 黄莺.",
+          "description": "最近，《灵魂摆渡·浮生梦》成为中国首部全AI生成的电影，暑期档即将上映。“AI能否替代真人演员”、“真人短剧是不是在被AI团灭”，这些话题最近都在冲上微博热搜，成为大家讨论的焦点。\n【主播】\n【嘉宾】\n【两场线下活动预告，南湾见！】\n🔋 第一场：Scaling AI — The Infrastructure, Energy & Capital Triangle 4月25日（周六）下午 联合华丰能源举办。\nluma.com/u4z0gwfc\n🤖 第二场：CONNECT 2026 — 首届全球具身智能大会（GEIS） 4月28日（周二）下午2时 Santa Clara Convention Center\nluma.com/01fxspog\n【你将听到】\nAI目前能做出什么样的电影？\nAI 时代的版权和维权困境\nAI 不可替代的是什么？\n【延伸阅读和相关术语】\nE164｜当电影遇上AI：与好莱坞特效美术聊聊他们和新工具的博弈\nE110 | 好莱坞编剧罢工：AI冲击波与编剧们的生存危机\n【监制】\n【采访 & 制作】\n【后期】\n【运营】\n【BGM】\n【在这里找到我们】\npodcast@sv101.net\nSpecial Guests: KiSA, 陆川, and 黄莺.",
           "link": "https://sv101.fireside.fm/247",
           "publishedOn": "2026-04-22T06:00:00.000Z",
           "wordCount": null,
