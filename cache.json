@@ -465,24 +465,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://looper.typlog.io/episodes/476",
-          "author": null,
-          "description": "Radio Flyer 00:33 南洋派对九龙开骚 04:51 上海姑娘在曼城 07:28 滚石乐队预备新碟 11:11 M.I.A.妈妈Kala唱泰米尔语 19:35 绿木头再次搭上拉贾斯坦快车 20:13 拆开Mixtape Music Played N.Y.P.D. 南洋派对 - 心 N.Y.P.D. 南洋派对 - 重新出发 SILVERWINGKILLER - JING'AN TEMPLE Cameron Winter - The Rolling Stones M.I.A., Kala - SACRED HEART Shye Ben Tzur, Jonny Greenwood, The Rajasthan Express - Ranjha Mixtape Lola Beltrán - Cucurrucucú paloma ROSALÍA - Sexo, Violencia y Llantas Hermeto Pascoal, Itiberê Zwarg, Jovino Santos Neto, Carlos Malta, Marcio Bahia - Música da Lagoa 陈明章 - Rainwater Ikue Asazaki, Akira Takahashi - OBOKURI Yussef Dayes, Minami Kizuki - Amami Mulatu Astatke - Gubèlyé Tinariwen, José González - Imidiwan Takyadam Yako 440, Irfan Rainy - Ceremonial Coffee Gotan Project - Época CHO CO PA CO CHO CO QUIN QUIN - アダンの海边 Toquinho, Jorge Ben Jor - Carol…",
-          "link": "https://looper.typlog.io/episodes/476",
-          "publishedOn": "2026-05-06T23:37:44.000Z",
-          "wordCount": null,
-          "title": "躺在无线电塔尖，枕一朵Mixtape春游",
-          "itunes": {
-            "duration": "1:43:59"
-          },
-          "enclosure": {
-            "url": "https://r.typlog.com/eyJzIjoxMjY3LCJlIjo4NzM5OCwidCI6MX0.knjMci2lrPf0FCMIiPF_JM_nmNI/looper/8221933849_439301.mp3",
-            "length": "149766953",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     }
