@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-05T03:28:41.938Z</id>
+    <id>urn:2026-07-06T03:36:03.577Z</id>
     <title>Sunny🕊️</title>
-    <updated>2026-07-05T03:28:41.938Z</updated>
+    <updated>2026-07-06T03:36:03.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[E242｜最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地]]></title>
+        <id>308f9278-dd48-44d3-a4ce-ee436968fc28</id>
+        <link href="https://sv101.fireside.fm/255"/>
+        <updated>2026-07-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[从ChatGPT掀起生成式AI浪潮到现在，不过短短两三年，AI能力的进化速度已经让"AI自我进化"这件事从科幻走进了现实。上个月，Anthropic在一份公开报告中预测，AI未来将进入"递归自我提升"（Recursive Self-Improvement, RSI）阶段，并呼吁人类共同为AI的发展设计出一个减速或暂停机制。
+【主播】
+【嘉宾】
+【你将听到】
+自我进化背后的底层能力
+自我进化关键一步——学会提问
+巩固品味，阻止“跑偏”
+【硅谷101正在招聘】
+点击查看招聘详情
+
+
+【硅谷101听友群】
+
+请用手机相机扫码；如已安装飞书/Lark，可直接在App内扫码进入申请表单。7天内审核，通过后邮件同步入群方式。期待和你在群里碰面！
+【监制】
+【后期】
+【运营】
+【BGM】
+【在这里找到我们】
+podcast@sv101.net
+Special Guests: 李辈滨 and 杜少雷.]]></summary>
+        <author>
+            <name>liuhj60@gmail.com (硅谷101)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[186.让你笑到头掉仍不忘思考，伟大的《消逝世界漫游指南》]]></title>
         <id>xmly_track_998655210</id>
@@ -615,36 +645,6 @@ Spotify | YouTube Music
 个人微信号：gushi_fm02]]></summary>
         <author>
             <name>故事FM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[183.李商隐和红楼梦：偏僻性乖张，那管世人诽谤！]]></title>
-        <id>xmly_track_981580260</id>
-        <link href="https://www.ximalaya.com/sound/981580260"/>
-        <updated>2026-06-06T13:31:50.000Z</updated>
-        <summary type="html"><![CDATA[所以黛玉真的“最不喜欢李义山的诗”吗？
-本期为李商隐翻案，兼论曹雪芹如何在红楼梦中继承玉溪遗脉。
-惊才绝艳的伟大诗人，愿你的灵魂不再被世人的猜疑诽谤纠缠，获得永恒的自由。谢谢你在认清了生命不可逆转的衰败后，依然留得残荷听雨声，那是废墟上开出的傲然浪漫。当然，我想你也会感到欣慰，毕竟近千年之后，竟得知己如芹溪，替你完成了“莺啼如有泪，为湿最高花”。
-片头曲：徐小凤 - 别亦难；片尾曲：陈淑桦 - 滚滚红尘
-——————
-感谢更适合国人肤质的科学护肤品牌「谷雨」对本期节目的大力支持！
- 我们和谷雨一起，祝大家的头脑和皮肤都能一直年轻有活力。
-想要紧致淡纹、提升素颜好气色的朋友们，一定要试试谷雨的新科技细胞泌素【逆时针】
-「购买方式」
-1、点击下方链接或复制淘口令，直达领券购买
-2、找客服报暗号【蜜獾吃书】领取专属加赠
-淘口令 88￥9UwX5A20Thb￥ https://m.tb.cn/h.RhDWvaK HU926 蜜獾吃书听友专属
-H5链接 https://equity.tmall.com/tm?agentId=8b6c906466e3471e&bc_fl_src=tmall_market_llb_1_2860781&llbPlatform=_pube&llbOsd=1&di=IDFA&dim=IMEI&oaid=OAID&caid=CAID&sy=llb
-记得下单和客服备注【蜜獾吃书】，领取粉丝专属额外加赠好礼！
-
-
-
-
-商务合作请加微信：mihuanchishu （仅限商务合作方，好友数量有限听友加群无法通过，感谢理解！）
-还可关注@蜜獾吃书的晴总 在抖音、小红书的账号，或微博@李八斗，进入粉丝群。鞠躬！
-进微信群聊请扫下方二维码，加小助理微信，会把您拉进群里（看不到二维码的请移步小宇宙平台查看，感谢！）：]]></summary>
-        <author>
-            <name>蜜獾吃书</name>
         </author>
     </entry>
 </feed>
