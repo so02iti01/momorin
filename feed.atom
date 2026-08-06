@@ -1,10 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-05T02:32:32.714Z</id>
+    <id>urn:2026-08-06T02:34:43.017Z</id>
     <title>Sunny🕊️</title>
-    <updated>2026-08-05T02:32:32.714Z</updated>
+    <updated>2026-08-06T02:34:43.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”]]></title>
+        <id>6c9d13b1-ac9a-4a7a-a35b-99bfb8374668</id>
+        <link href="https://sv101.fireside.fm/260"/>
+        <updated>2026-08-05T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[这期播客的嘉宾是盛颖，xAI前推理团队负责人、开源推理引擎SGLang发起人及RadixArk联合创始人/CEO。
+
+【主播】
+【嘉宾】
+【你将听到】
+【延伸阅读】
+本期节目视频版已上线，附精校字幕及术语注解，适合想逐句细听的听友
+“榨”出硅的极限：怎么让GPU不“闲着”？｜与SGLang、RadixArk深聊AI Infra技术与千亿美元市场-硅谷101视频 及文字版
+【硅谷101听友群】
+
+
+【硅谷101正在招聘】
+点击查看招聘详情
+
+
+【制片/总编辑】
+【采访】
+【剪辑】
+【视觉编辑】
+【音频后期】
+【运营】
+【BGM】
+【在这里找到我们】
+podcast@sv101.net
+Special Guest: 盛颖.]]></summary>
+        <author>
+            <name>liuhj60@gmail.com (硅谷101)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[怀念卢凯彤，摩天轮上举起Mixtape望向八年前的新世界]]></title>
         <id>https://looper.typlog.io/episodes/486</id>
