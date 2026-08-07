@@ -12,6 +12,24 @@
       "siteUrl": "https://storyfm.cn/",
       "articles": [
         {
+          "id": "https://hosting.wavpub.cn/storyfm/?p=4690",
+          "author": null,
+          "description": "故事FM ❜ 第 907 期\n爱哲按：\n你有没有幻想过，这世上有另外一个自己，你们不仅长得像，趣味也像。你说啥，TA 都能懂，你遇到难处，TA陪你一起扛。\n听起来像情侣，但情侣是互补的关系。如果有另一个自己，是可以让你感觉像多活了一辈子，多了一份体验。\n可是，如果有一天，面前真的出现一个你自己，你会如何反应呢？\n时间轴：\n1:33 命运的齿轮开始转动\n6:29 两个家庭，两种被爱的轨迹\n9:38最好的朋友成为最亲的姐妹\n16:15 各自被抱养的身世源头\n22:00 她是世界上的另一个我\n26:29 我们不需要「认祖归宗」\n29:05 我们没有一起长大，但还能一起慢慢变老\n/Staff/\n讲述者｜张国新 海超\n主播 | @故事FM 爱哲\n采访 | @故事FM 爱哲\n制作人 | 陈思宇\n文案整理 | 陈思宇\n声音设计 | 陈思宇\n运营 | 鸣鸣\n\n用你的声音，讲述你的故事。故事FM 是一档亲历者自述的声音节目。在以下渠道均可收听我们的节目：\n苹果播客 | 网易云音乐 | 喜马拉雅\n小宇宙 |蜻蜓FM | 荔枝FM｜QQ音乐\nSpotify | YouTube Music\n商务合作：bd@storyfm.cn\n微信公众号：故事FM (ID: story_fm)\n新浪微博：@故事FM_StoryFM\n个人微信号：gushi_fm02",
+          "link": "https://hosting.wavpub.cn/storyfm/2026/08/06/e907-%e6%88%91%e5%92%8c%e4%b8%96%e7%95%8c%e4%b8%8a%e7%9a%84%e5%8f%a6%e4%b8%80%e4%b8%aa%e6%88%91%ef%bc%8c%e7%9b%b8%e9%81%87%e4%ba%86/",
+          "publishedOn": "2026-08-06T12:47:47.000Z",
+          "wordCount": null,
+          "title": "E907.我和世界上的另一个我，相遇了",
+          "itunes": {
+            "duration": "1827"
+          },
+          "enclosure": {
+            "url": "https://tk.wavpub.com/WPDL_EBpWMNbffLaHdtvehSGfZvwyCEvCGWKMrXzUGcWahjJYeHQsXZPuubwjqj-c6.mp3",
+            "length": "43865204",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://hosting.wavpub.cn/storyfm/?p=4685",
           "author": null,
           "description": "故事FM ❜ 第 906 期\n爱哲按：\n1972 年 2 月 21 日，尼克松访华。此后，中美关系逐步改善，中苏关系也趋于缓和，爆发大规模战争的可能性不断降低。国家开始调整三线建设战略，逐步减少新增投资，许多三线企业也进入了「军转民」时期。\n1973 年，914 厂的军代表撤出，工厂也从生产枪管、炮管等军工产品，逐步转向民用钢管生产。1983 年，国务院成立三线调整改造办公室，推动三线企业转型发展。\n然而，真正的考验才刚刚开始。改革开放之后，市场经济迅速发展，曾经依靠计划经济运行的三线企业，不得不第一次直面市场竞争。914 厂，也迎来了建厂以来最艰难的时期。\n本期节目是故事FM 与中国国家地理播客共创的播客节目。\n时间轴：\n02:55-养鸡，养鸭，卖苞米楼子，寻找自救方法\n05:17-工厂效益断崖式下降\n07:57-小学没毕业，中学没了，中学没毕业，高中没了\n09:48-国企转民营体制，断腕般艰难\n11:51-200多人的车间，只留下了44人\n17:50-吉林疫情爆发，全厂齐心渡难关\n21:47-厂三代的回归\n24:19-关于 914 厂的未来\n/Staff/\n讲述者｜李福才 王雅男 柴文军\n主播 | @故事FM 爱哲\n采访 | @故事FM 爱哲 \n制作人 | 晓橙\n文案整理 | 晓橙\n声音设计 | 晓橙\n运营 | 鸣鸣\n用你的声音，讲述你的故事。故事FM 是一档亲历者自述的声音节目。\n商务合作：bd@storyfm.cn\n微信公众号：故事FM (ID: story_fm)\n新浪微博：@故事FM_StoryFM\n个人微信号：gushi_fm02",
@@ -129,7 +147,7 @@
         {
           "id": "6c9d13b1-ac9a-4a7a-a35b-99bfb8374668",
           "author": "liuhj60@gmail.com (硅谷101)",
-          "description": "这期播客的嘉宾是盛颖，xAI前推理团队负责人、开源推理引擎SGLang发起人及RadixArk联合创始人/CEO。\n\n【主播】\n【嘉宾】\n【你将听到】\n【延伸阅读】\n本期节目视频版已上线，附精校字幕及术语注解，适合想逐句细听的听友\n“榨”出硅的极限：怎么让GPU不“闲着”？｜与SGLang、RadixArk深聊AI Infra技术与千亿美元市场-硅谷101视频 及文字版\n【硅谷101听友群】\n\n\n【硅谷101正在招聘】\n点击查看招聘详情\n\n\n【制片/总编辑】\n【采访】\n【剪辑】\n【视觉编辑】\n【音频后期】\n【运营】\n【BGM】\n【在这里找到我们】\npodcast@sv101.net\nSpecial Guest: 盛颖.",
+          "description": "这期播客的嘉宾是盛颖，xAI前推理团队负责人、开源推理引擎SGLang发起人及RadixArk联合创始人/CEO。\n\n【主播】\n【嘉宾】\n【你将听到】\n【延伸阅读】\n本期节目视频版已上线，附精校字幕及术语注解，适合想逐句细听的听友\n“榨”出硅的极限：怎么让GPU不“闲着”？｜与SGLang、RadixArk深聊AI Infra技术与千亿美元市场-硅谷101视频 及文字版\n【硅谷101听友群】\n\n\n【硅谷101正在招聘】\n点击查看招聘详情\n\n\n【监制】\n【采访】\n【后期】\n【运营】\n【BGM】\n【在这里找到我们】\npodcast@sv101.net\nSpecial Guest: 盛颖.",
           "link": "https://sv101.fireside.fm/260",
           "publishedOn": "2026-08-05T04:30:00.000Z",
           "wordCount": null,
@@ -219,12 +237,6 @@
       ]
     },
     {
-      "title": "自由人Libero",
-      "feedUrl": "http://rss.lizhi.fm/rss/187813584.xml",
-      "siteUrl": "http://www.lizhi.fm",
-      "articles": []
-    },
-    {
       "title": "蜜獾吃书",
       "feedUrl": "http://www.ximalaya.com/album/64689453.xml",
       "siteUrl": "https://www.ximalaya.com/album/64689453",
@@ -277,32 +289,8 @@
             "url": "https://jt.ximalaya.com//GKwRIJIOP646AoWxhwS-9yBS.m4a?channel=rss&album_id=52344140&track_id=1003538266&uid=51214225&jt=https://aod.cos.tx.xmcdn.com/storages/9be0-audiofreehighqps/CC/C9/GKwRIJIOP646AoWxhwS-9yBS.m4a"
           },
           "imageUrl": null
-        },
-        {
-          "id": "xmly_track_999387051",
-          "author": null,
-          "description": "为什么越来越觉得国外没有好喝的咖啡？以伦敦为例，能窥见一二。但不管怎么说，伦敦人现在正接受云南咖啡是个好东西。\n\n今年 5 月，我因为伦敦咖啡节去了一趟英国。伦敦当然有很多漂亮、热闹、充满社区感的咖啡馆，但真正能稳定喝到好手冲、好选品、高品质浅烘咖啡的地方，并没有想象中那么多。共发酵、“科技豆”在海外市场越来越受欢迎，巴拿马瑰夏和干净细致的风土表达仍然属于小众。也正是在这个现场，我第一次很具体地感受到：国内精品咖啡市场这些年卷出来的审美、选品和供应链敏感度，正在被一批长期生活在伦敦和欧洲的华人咖啡人带进当地市场。\n\n\n这一期，我请到了在伦敦做云南咖啡生豆贸易、同时经营社区咖啡店 Sofu 的 Van，以及 Calico Coffee 的布白。Calico 开业一年多，就和 Special Guests 一起被选入伦敦咖啡指南 Top 10。在一个相对传统的咖啡消费环境里，他们用清晰的选品逻辑、稳定的出品和完整的手冲体验，一点点把只喝 Flat White、Americano 的本地客人，转化成会主动点单一产地手冲咖啡的客人。我们也聊到，为什么海外精品咖啡不像国内这么“卷”，为什么很多老牌品牌很难转身，以及伦敦咖啡圈里正在推动审美变化的新品牌和关键人物。\n\n\n更让我意外的是，云南咖啡正在以一种新的方式进入欧洲市场。它不再只是情怀，也不是某种“平替”，而是在一些当地烘焙商和消费者眼中，变成了有风土、有记忆点、有品质说服力的产区选择。Van 和布白也分享了华人咖啡人在欧洲的真实日常：他们在门店、烘焙、生豆、比赛、杯测和市场教育里无处不在，正在很深地参与伦敦第三波精品咖啡市场的变化。\n\n\n最后，我们还分享了伦敦精品咖啡品牌，只有真正圈内人才知道的私藏清单：\nScenery Coffee Roasters：伦敦新一代浅烘审美较在线的烘焙品牌\nAssembly Coffee：Brixt…",
-          "link": "https://www.ximalaya.com/sound/999387051",
-          "publishedOn": "2026-07-08T13:35:00.000Z",
-          "wordCount": null,
-          "title": "111 伦敦精品咖啡，也是被中国人“卷”到了！",
-          "itunes": {
-            "duration": "2:11:34"
-          },
-          "enclosure": {
-            "length": "129067907",
-            "type": "audio/x-m4a",
-            "url": "https://jt.ximalaya.com//GKwRIJEOI_mPA88azASzaWPB.m4a?channel=rss&album_id=52344140&track_id=999387051&uid=51214225&jt=https://aod.cos.tx.xmcdn.com/storages/0c2f-audiofreehighqps/38/26/GKwRIJEOI_mPA88azASzaWPB.m4a"
-          },
-          "imageUrl": null
         }
       ]
-    },
-    {
-      "title": "一梦百晓",
-      "feedUrl": "http://rss.lizhi.fm/rss/60164802.xml",
-      "siteUrl": "http://www.lizhi.fm",
-      "articles": []
     },
     {
       "title": "万一火了",

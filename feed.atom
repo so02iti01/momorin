@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-06T02:34:43.017Z</id>
+    <id>urn:2026-08-07T02:40:12.203Z</id>
     <title>Sunny🕊️</title>
-    <updated>2026-08-06T02:34:43.017Z</updated>
+    <updated>2026-08-07T02:40:12.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[E907.我和世界上的另一个我，相遇了]]></title>
+        <id>https://hosting.wavpub.cn/storyfm/?p=4690</id>
+        <link href="https://hosting.wavpub.cn/storyfm/2026/08/06/e907-%e6%88%91%e5%92%8c%e4%b8%96%e7%95%8c%e4%b8%8a%e7%9a%84%e5%8f%a6%e4%b8%80%e4%b8%aa%e6%88%91%ef%bc%8c%e7%9b%b8%e9%81%87%e4%ba%86/"/>
+        <updated>2026-08-06T12:47:47.000Z</updated>
+        <summary type="html"><![CDATA[故事FM ❜ 第 907 期
+爱哲按：
+你有没有幻想过，这世上有另外一个自己，你们不仅长得像，趣味也像。你说啥，TA 都能懂，你遇到难处，TA陪你一起扛。
+听起来像情侣，但情侣是互补的关系。如果有另一个自己，是可以让你感觉像多活了一辈子，多了一份体验。
+可是，如果有一天，面前真的出现一个你自己，你会如何反应呢？
+时间轴：
+1:33 命运的齿轮开始转动
+6:29 两个家庭，两种被爱的轨迹
+9:38最好的朋友成为最亲的姐妹
+16:15 各自被抱养的身世源头
+22:00 她是世界上的另一个我
+26:29 我们不需要「认祖归宗」
+29:05 我们没有一起长大，但还能一起慢慢变老
+/Staff/
+讲述者｜张国新 海超
+主播 | @故事FM 爱哲
+采访 | @故事FM 爱哲
+制作人 | 陈思宇
+文案整理 | 陈思宇
+声音设计 | 陈思宇
+运营 | 鸣鸣
+
+用你的声音，讲述你的故事。故事FM 是一档亲历者自述的声音节目。在以下渠道均可收听我们的节目：
+苹果播客 | 网易云音乐 | 喜马拉雅
+小宇宙 |蜻蜓FM | 荔枝FM｜QQ音乐
+Spotify | YouTube Music
+商务合作：bd@storyfm.cn
+微信公众号：故事FM (ID: story_fm)
+新浪微博：@故事FM_StoryFM
+个人微信号：gushi_fm02]]></summary>
+        <author>
+            <name>故事FM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”]]></title>
         <id>6c9d13b1-ac9a-4a7a-a35b-99bfb8374668</id>
@@ -25,11 +64,9 @@
 点击查看招聘详情
 
 
-【制片/总编辑】
+【监制】
 【采访】
-【剪辑】
-【视觉编辑】
-【音频后期】
+【后期】
 【运营】
 【BGM】
 【在这里找到我们】
@@ -573,29 +610,6 @@ Special Guests: 张兵 and 施骅伦.]]></summary>
 个人微信号：gushi_fm02]]></summary>
         <author>
             <name>故事FM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[111 伦敦精品咖啡，也是被中国人“卷”到了！]]></title>
-        <id>xmly_track_999387051</id>
-        <link href="https://www.ximalaya.com/sound/999387051"/>
-        <updated>2026-07-08T13:35:00.000Z</updated>
-        <summary type="html"><![CDATA[为什么越来越觉得国外没有好喝的咖啡？以伦敦为例，能窥见一二。但不管怎么说，伦敦人现在正接受云南咖啡是个好东西。
-
-今年 5 月，我因为伦敦咖啡节去了一趟英国。伦敦当然有很多漂亮、热闹、充满社区感的咖啡馆，但真正能稳定喝到好手冲、好选品、高品质浅烘咖啡的地方，并没有想象中那么多。共发酵、“科技豆”在海外市场越来越受欢迎，巴拿马瑰夏和干净细致的风土表达仍然属于小众。也正是在这个现场，我第一次很具体地感受到：国内精品咖啡市场这些年卷出来的审美、选品和供应链敏感度，正在被一批长期生活在伦敦和欧洲的华人咖啡人带进当地市场。
-
-
-这一期，我请到了在伦敦做云南咖啡生豆贸易、同时经营社区咖啡店 Sofu 的 Van，以及 Calico Coffee 的布白。Calico 开业一年多，就和 Special Guests 一起被选入伦敦咖啡指南 Top 10。在一个相对传统的咖啡消费环境里，他们用清晰的选品逻辑、稳定的出品和完整的手冲体验，一点点把只喝 Flat White、Americano 的本地客人，转化成会主动点单一产地手冲咖啡的客人。我们也聊到，为什么海外精品咖啡不像国内这么“卷”，为什么很多老牌品牌很难转身，以及伦敦咖啡圈里正在推动审美变化的新品牌和关键人物。
-
-
-更让我意外的是，云南咖啡正在以一种新的方式进入欧洲市场。它不再只是情怀，也不是某种“平替”，而是在一些当地烘焙商和消费者眼中，变成了有风土、有记忆点、有品质说服力的产区选择。Van 和布白也分享了华人咖啡人在欧洲的真实日常：他们在门店、烘焙、生豆、比赛、杯测和市场教育里无处不在，正在很深地参与伦敦第三波精品咖啡市场的变化。
-
-
-最后，我们还分享了伦敦精品咖啡品牌，只有真正圈内人才知道的私藏清单：
-Scenery Coffee Roasters：伦敦新一代浅烘审美较在线的烘焙品牌
-Assembly Coffee：Brixt…]]></summary>
-        <author>
-            <name>Coffeeplus播客</name>
         </author>
     </entry>
 </feed>
