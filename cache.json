@@ -6,6 +6,24 @@
       "siteUrl": "https://sunshine.fireside.fm",
       "articles": [
         {
+          "id": "3eb95c15-be16-4075-9f7d-9e65321862da",
+          "author": "kfang@cuhk.edu.hk (放晴公园)",
+          "description": "☀️ 本期放晴故事\n欢迎大家收听放晴早安的2026年暑期特别节目。本期节目是由「无奇不游」和「过滤气泡工作室」联合推出的香港暑期媒体与可持续实践营的成果。有兴趣让孩子参与媒体实践营的家长，请添加微信：gobeyondx\n在香港繁忙的都市生活之外，还有乡村的风土人情，需要被我们看见。自从2013年香港大学团队、社会组织和村民开始着手开垦荒田，香港客家古村落荔枝窝的土地开始重新收获果实。今天我们想和大家分享深入客家文化的亲身体验，以及荔枝窝未来的发展前景。为此，我们采访了荔枝窝保育项目义工和荔枝窝村长，了解了当地的文创产品和特色美食，见证了荔枝窝近四百年的发展历程和香港城乡文化的多元性。\n☀️ 往期节目\ns4e26. 香港梅子林村的乡村复育之路｜1111\ns5e29. 前段时间，我们去深圳南头古城串门了｜1120\n☀️本期制作\n☀️\n《放晴早安》由「放晴公园」制作播出，是一档以「解困式报道」（solutions journalism）为理念的节目。我们的第一、二季节目由看理想APP支持，第三、四、五季节目由香港中文大学社会科学学院「社会科学与创新实践」（CU-ASK）辅修项目支持。",
+          "link": "https://sunshine.fireside.fm/ex0811",
+          "publishedOn": "2026-08-10T22:00:00.000Z",
+          "wordCount": null,
+          "title": "香港有个古村落：荔枝窝的“前世今生”｜暑期特辑0811",
+          "itunes": {
+            "duration": "7:40"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/e0f2e192-ad76-4431-942c-c290cfbcda1f/3eb95c15-be16-4075-9f7d-9e65321862da.mp3",
+            "length": "7372590",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "7d540fb4-7e5a-467d-81ff-4ebea2014364",
           "author": "kfang@cuhk.edu.hk (放晴公园)",
           "description": "☀️本期放晴故事\n欢迎大家收听放晴早安的2026年暑期特别节目。本期节目是由「无奇不游」和「过滤气泡工作室」联合推出的香港暑期媒体与可持续实践营的成果。有兴趣让孩子参与媒体实践营的家长，请添加微信：gobeyondx\n在学习生活中，我们习惯通过眼睛来认识世界。但你有没有想过，如果失去视觉，生活会变成什么样呢？本期节目我们想和大家分享进入黑暗一小时的特别体验，揭秘视障人士的“超能力”。\n延伸阅读\n黑暗中的对话（中国）（http://www.dialogueinthedark.com.cn）\nDialogue Experience | Dialogue in the Dark（https://dialogue-experience.hk/tc/homepage-tc/）\n☀️往期节目\n静默不是沉默：一间助残咖啡馆的12年｜1022\n让时尚不再有障碍：视障人士也可以打扮得光彩照人｜1024\n☀️本期制作\n☀️\n《放晴早安》由「放晴公园」制作播出，是一档以「解困式报道」（solutions journalism）为理念的节目。我们的第一、二季节目由看理想APP支持，第三、四、五季节目由香港中文大学社会科学学院「社会科学与创新实践」（CU-ASK）辅修项目支持。",
@@ -54,6 +72,24 @@
       "feedUrl": "https://feeds.fireside.fm/sv101/rss",
       "siteUrl": "https://sv101.fireside.fm",
       "articles": [
+        {
+          "id": "9e923c4c-1c87-499b-90a4-9a21cc83e4b1",
+          "author": "liuhj60@gmail.com (硅谷101)",
+          "description": "不久前，我们聊了硅谷最火的新职位FDE（前线部署工程师）。硅谷的逻辑是，AI要进企业，就要开行业最高的薪资，派一批最聪明的人驻扎进去。但这件事在中国，还是同一个剧本吗？\n【主播】\n【嘉宾】\n【你将听到】\n【延伸阅读】\nE240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE\n【硅谷101听友群】\n\n\n【监制】\n【后期】\n【运营】\n【BGM】\n【在这里找到我们】\npodcast@sv101.net\nSpecial Guest: 朋新宇.",
+          "link": "https://sv101.fireside.fm/261",
+          "publishedOn": "2026-08-11T01:45:00.000Z",
+          "wordCount": null,
+          "title": "E248｜一个“催发货”AI要跑通260步，和阿里瓴羊朋新宇聊聊中国式FDE",
+          "itunes": {
+            "duration": "1:03:54"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/9e923c4c-1c87-499b-90a4-9a21cc83e4b1.mp3",
+            "length": "92051981",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "6c9d13b1-ac9a-4a7a-a35b-99bfb8374668",
           "author": "liuhj60@gmail.com (硅谷101)",
@@ -129,6 +165,12 @@
       ]
     },
     {
+      "title": "自由人Libero",
+      "feedUrl": "http://rss.lizhi.fm/rss/187813584.xml",
+      "siteUrl": "http://www.lizhi.fm",
+      "articles": []
+    },
+    {
       "title": "蜜獾吃书",
       "feedUrl": "http://www.ximalaya.com/album/64689453.xml",
       "siteUrl": "https://www.ximalaya.com/album/64689453",
@@ -164,6 +206,12 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "一梦百晓",
+      "feedUrl": "http://rss.lizhi.fm/rss/60164802.xml",
+      "siteUrl": "http://www.lizhi.fm",
+      "articles": []
     },
     {
       "title": "万一火了",
