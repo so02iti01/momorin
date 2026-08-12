@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-11T01:46:48.297Z</id>
+    <id>urn:2026-08-12T01:57:43.033Z</id>
     <title>Sunny🕊️</title>
-    <updated>2026-08-11T01:46:48.297Z</updated>
+    <updated>2026-08-12T01:57:43.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[70岁时的你，还会想上班吗？｜暑期特辑0812]]></title>
+        <id>dfd577b3-b5dd-4ea0-a217-23dedda7e3a5</id>
+        <link href="https://sunshine.fireside.fm/ex0812"/>
+        <updated>2026-08-11T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[☀️ 本期放晴故事
+欢迎大家收听放晴早安的2026年暑期特别节目。本期节目是由「无奇不游」和「过滤气泡工作室」联合推出的香港暑期媒体与可持续实践营的成果。有兴趣让孩子参与媒体实践营的家长，请添加微信：gobeyondx
+这期节目我们以中小学生的视角，探索香港的银杏馆——一个帮助老年人再就业的机构。当温饱问题解决之后，他们更需要的是在这个社会中扮演一个角色，从而被看见，而不是被边缘化。
+延伸阅读
+银杏馆
+☀️ 往期节目
+s5e22. 柔软的幸福：软餐侠如何点亮长者餐桌上的色彩与笑容｜1111
+s5e69. 教老人学会使用电子产品｜0319
+☀️本期制作
+☀️
+《放晴早安》由「放晴公园」制作播出，是一档以「解困式报道」（solutions journalism）为理念的节目。我们的第一、二季节目由看理想APP支持，第三、四、五季节目由香港中文大学社会科学学院「社会科学与创新实践」（CU-ASK）辅修项目支持。]]></summary>
+        <author>
+            <name>kfang@cuhk.edu.hk (放晴公园)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[E248｜一个“催发货”AI要跑通260步，和阿里瓴羊朋新宇聊聊中国式FDE]]></title>
         <id>9e923c4c-1c87-499b-90a4-9a21cc83e4b1</id>
