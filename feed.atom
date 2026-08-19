@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-18T01:13:21.329Z</id>
+    <id>urn:2026-08-19T01:15:00.869Z</id>
     <title>Sunny🕊️</title>
-    <updated>2026-08-18T01:13:21.329Z</updated>
+    <updated>2026-08-19T01:15:00.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[追着落日度日，黑船驶过一片Mixtape海域]]></title>
+        <id>https://looper.typlog.io/episodes/487</id>
+        <link href="https://looper.typlog.io/episodes/487"/>
+        <updated>2026-08-18T08:52:24.000Z</updated>
+        <summary type="html"><![CDATA[The Sound of a Drill 00:01 蛋堡采样铃木弘 05:35 吴赫找来安藤樱 10:48 刮起一阵Mixtape Music Played 铃木弘 - シュリンプ・ダンス 蛋堡 - 给我一点时间 HYUKOH(혁오) - Godspeed! Mixtape Ludwig Göransson - 7 Years M83 - Spinning Fury Martyn - Musa at Erbil Sofiane Pamart, FKJ - Cinema Vladimir Cosma - Promenade sentimentale William Orbit - Barber's Adagio for Strings Beth Orton, Victor Van Vught - She Cries Your Name Madonna, William Orbit - Frozen (Widescreen Mix) Sun's Signature, Elizabeth Fraser - Underwater (Hinako Omori Remix) James Ellis Ford - Overtones Harold Budd - Bismillahi 'Rrahmani 'Rrahim Tim Buckley - Song To the Siren Cocteau Twins, Harold Budd - Sea, Swallow Me Ludwig Göransson - Sirens Alia - Aquamarine Dream Boards of Canada - You Retreat In Time And Space Gorillaz, Space Monkeyz - Dub Ø9 Grace Jones - Corporate Canni…]]></summary>
+        <author>
+            <name>卧房撸歌</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[寸土寸金的香港是如何发展农业的？｜暑期特辑0814]]></title>
         <id>aabbd8b7-6995-4a55-ab53-e836b5c6f88b</id>
