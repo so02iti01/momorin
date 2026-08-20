@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-19T01:15:00.869Z</id>
+    <id>urn:2026-08-20T01:13:52.957Z</id>
     <title>Sunny🕊️</title>
-    <updated>2026-08-19T01:15:00.869Z</updated>
+    <updated>2026-08-20T01:13:52.957Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路]]></title>
+        <id>6242033d-a14a-44e3-a622-cbfc7d3c3817</id>
+        <link href="https://www.sv101.net/262"/>
+        <updated>2026-08-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[去年年底，硅谷掀起了一股风潮——“Token Maxing”（最大化token使用量），科技公司创始人和工程师们争相晒出账单，比谁家Token消耗更吓人，以此彰显对AI的全力押注。但到了今年年中，成本失控和虚假生产力让这场烧钱竞赛到达了转折点。Uber在四个月里烧穿了全年的AI预算，Meta被迫给员工设定token使用上限，一些公司会提醒员工使用AI的时候注意成本。大家开始认真思考：如何更经济地使用Token？
+【主播】
+【嘉宾】
+【你将听到】
+【9月6日·成都 泓君线下开麦】
+
+
+【硅谷101听友群】
+
+
+【监制】
+【后期】
+【运营】
+【BGM】
+【在这里找到我们】
+podcast@sv101.net
+Special Guests: 张宏江 and 黄东旭.]]></summary>
+        <author>
+            <name>liuhj60@gmail.com (硅谷101)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[追着落日度日，黑船驶过一片Mixtape海域]]></title>
         <id>https://looper.typlog.io/episodes/487</id>
@@ -143,7 +169,7 @@ s5e69. 教老人学会使用电子产品｜0319
     <entry>
         <title type="html"><![CDATA[E248｜一个“催发货”AI要跑通260步，和阿里瓴羊朋新宇聊聊中国式FDE]]></title>
         <id>9e923c4c-1c87-499b-90a4-9a21cc83e4b1</id>
-        <link href="https://sv101.fireside.fm/261"/>
+        <link href="https://www.sv101.net/261"/>
         <updated>2026-08-11T01:45:00.000Z</updated>
         <summary type="html"><![CDATA[不久前，我们聊了硅谷最火的新职位FDE（前线部署工程师）。硅谷的逻辑是，AI要进企业，就要开行业最高的薪资，派一批最聪明的人驻扎进去。但这件事在中国，还是同一个剧本吗？
 【主播】
@@ -151,9 +177,6 @@ s5e69. 教老人学会使用电子产品｜0319
 【你将听到】
 【延伸阅读】
 E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE
-【硅谷101听友群】
-
-
 【监制】
 【后期】
 【运营】
@@ -222,7 +245,7 @@ Dialogue Experience | Dialogue in the Dark（https://dialogue-experience.hk/tc/h
     <entry>
         <title type="html"><![CDATA[E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”]]></title>
         <id>6c9d13b1-ac9a-4a7a-a35b-99bfb8374668</id>
-        <link href="https://sv101.fireside.fm/260"/>
+        <link href="https://www.sv101.net/260"/>
         <updated>2026-08-05T04:30:00.000Z</updated>
         <summary type="html"><![CDATA[这期播客的嘉宾是盛颖，xAI前推理团队负责人、开源推理引擎SGLang发起人及RadixArk联合创始人/CEO。
 
@@ -232,9 +255,6 @@ Dialogue Experience | Dialogue in the Dark（https://dialogue-experience.hk/tc/h
 【延伸阅读】
 本期节目视频版已上线，附精校字幕及术语注解，适合想逐句细听的听友
 “榨”出硅的极限：怎么让GPU不“闲着”？｜与SGLang、RadixArk深聊AI Infra技术与千亿美元市场-硅谷101视频 及文字版
-【硅谷101听友群】
-
-
 【硅谷101正在招聘】
 点击查看招聘详情
 
@@ -264,7 +284,7 @@ Special Guest: 盛颖.]]></summary>
     <entry>
         <title type="html"><![CDATA[E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿]]></title>
         <id>5fd236d7-9a72-4b15-9e84-e83ceadd1b41</id>
-        <link href="https://sv101.fireside.fm/259"/>
+        <link href="https://www.sv101.net/259"/>
         <updated>2026-08-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[7月27日，月之暗面正式发布Kimi K3的完整模型权重。自7月16日API上线以来，K3就在在多项测试中展现出接近前沿模型的能力。因此，它成为了硅谷最近讨论开源时的重要案例之一。从2025年初的DeepSeek时刻，到当下的Kimi K3，中国开源模型正在从成本更低、能力稍弱的替代品，逐渐逼近甚至超过最强的闭源前沿模型。
 本期播客，我们邀请到两位嘉宾来分别从开源生态和企业的视角，讨论这一波中国开源模型的影响：前Hugging Face亚太开源生态负责人王铁震，和TinyFish联合创始人Keith Zhai。
@@ -288,9 +308,6 @@ Special Guest: 盛颖.]]></summary>
 思维链（Chain of Thought）：指模型在生成最终答案之前，用一系列中间步骤拆解问题、组织信息和进行推理的过程。
 规模扩展效率（Scaling Effiency）：指模型将计算资源转化为能力提升的效率，也就是在使用相同或更少的算力、数据或训练成本时，能否获得更好的模型表现。
 键值缓存（KV Cache）：指模型在处理上下文和生成内容时，保存此前token在注意力计算中产生的Key和Value数据。这样，模型在生成下一个token时不必重新计算全部历史内容，可以显著降低重复计算，提高生成速度；但上下文越长，KV Cache占用的内存通常也越大。
-【硅谷101听友群】
-
-
 【硅谷101正在招聘】
 点击查看招聘详情
 
@@ -387,7 +404,7 @@ Part 3｜繁华过后，继续当一个普通人
     <entry>
         <title type="html"><![CDATA[E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的]]></title>
         <id>5aeaeb64-9165-4271-9884-23329b511e11</id>
-        <link href="https://sv101.fireside.fm/258"/>
+        <link href="https://www.sv101.net/258"/>
         <updated>2026-07-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[当你觉得AI“懂你”的那一刻——精准抓住一个你自己都没说清的情绪，问出一个让你陷入沉思的问题——你以为那来自数据中心的芯片、模型里的参数、程序员敲下的代码，但真相是，那些问进你心坎里的问题、让你会心一笑的遣词造句，背后站着一群人：他们曾是记者、编辑和纪录片导演，如今藏在大语言模型之后，有一个鲜为人知的名字——内容工程师（Content Engineer）。
 【主播】
