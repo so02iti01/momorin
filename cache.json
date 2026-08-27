@@ -124,13 +124,13 @@
     {
       "title": "硅谷101",
       "feedUrl": "https://feeds.fireside.fm/sv101/rss",
-      "siteUrl": "https://www.sv101.net",
+      "siteUrl": "https://sv101.fireside.fm",
       "articles": [
         {
           "id": "6242033d-a14a-44e3-a622-cbfc7d3c3817",
           "author": "liuhj60@gmail.com (硅谷101)",
-          "description": "去年年底，硅谷掀起了一股风潮——“Token Maxing”（最大化token使用量），科技公司创始人和工程师们争相晒出账单，比谁家Token消耗更吓人，以此彰显对AI的全力押注。但到了今年年中，成本失控和虚假生产力让这场烧钱竞赛到达了转折点。Uber在四个月里烧穿了全年的AI预算，Meta被迫给员工设定token使用上限，一些公司会提醒员工使用AI的时候注意成本。大家开始认真思考：如何更经济地使用Token？\n【主播】\n【嘉宾】\n【你将听到】\n【9月6日·成都 泓君线下开麦】\n\n\n【硅谷101听友群】\n\n\n【监制】\n【后期】\n【运营】\n【BGM】\n【在这里找到我们】\npodcast@sv101.net\nSpecial Guests: 张宏江 and 黄东旭.",
-          "link": "https://www.sv101.net/262",
+          "description": "去年年底，硅谷掀起了一股风潮——“Token Maxing”（最大化token使用量），科技公司创始人和工程师们争相晒出账单，比谁家Token消耗更吓人，以此彰显对AI的全力押注。但到了今年年中，成本失控和虚假生产力让这场烧钱竞赛到达了转折点。Uber在四个月里烧穿了全年的AI预算，Meta被迫给员工设定token使用上限，一些公司会提醒员工使用AI的时候注意成本。大家开始认真思考：如何更经济地使用Token？\n【主播】\n【嘉宾】\n【你将听到】\n【9月6日·成都 泓君线下开麦】\n\n\n【监制】\n【后期】\n【运营】\n【BGM】\n【在这里找到我们】\npodcast@sv101.net\nSpecial Guests: 张宏江 and 黄东旭.",
+          "link": "https://sv101.fireside.fm/262",
           "publishedOn": "2026-08-20T00:00:00.000Z",
           "wordCount": null,
           "title": "E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路",
@@ -148,7 +148,7 @@
           "id": "9e923c4c-1c87-499b-90a4-9a21cc83e4b1",
           "author": "liuhj60@gmail.com (硅谷101)",
           "description": "不久前，我们聊了硅谷最火的新职位FDE（前线部署工程师）。硅谷的逻辑是，AI要进企业，就要开行业最高的薪资，派一批最聪明的人驻扎进去。但这件事在中国，还是同一个剧本吗？\n【主播】\n【嘉宾】\n【你将听到】\n【延伸阅读】\nE240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE\n【监制】\n【后期】\n【运营】\n【BGM】\n【在这里找到我们】\npodcast@sv101.net\nSpecial Guest: 朋新宇.",
-          "link": "https://www.sv101.net/261",
+          "link": "https://sv101.fireside.fm/261",
           "publishedOn": "2026-08-11T01:45:00.000Z",
           "wordCount": null,
           "title": "E248｜一个“催发货”AI要跑通260步，和阿里瓴羊朋新宇聊聊中国式FDE",
@@ -166,7 +166,7 @@
           "id": "6c9d13b1-ac9a-4a7a-a35b-99bfb8374668",
           "author": "liuhj60@gmail.com (硅谷101)",
           "description": "这期播客的嘉宾是盛颖，xAI前推理团队负责人、开源推理引擎SGLang发起人及RadixArk联合创始人/CEO。\n\n【主播】\n【嘉宾】\n【你将听到】\n【延伸阅读】\n本期节目视频版已上线，附精校字幕及术语注解，适合想逐句细听的听友\n“榨”出硅的极限：怎么让GPU不“闲着”？｜与SGLang、RadixArk深聊AI Infra技术与千亿美元市场-硅谷101视频 及文字版\n【硅谷101正在招聘】\n点击查看招聘详情\n\n\n【监制】\n【采访】\n【后期】\n【运营】\n【BGM】\n【在这里找到我们】\npodcast@sv101.net\nSpecial Guest: 盛颖.",
-          "link": "https://www.sv101.net/260",
+          "link": "https://sv101.fireside.fm/260",
           "publishedOn": "2026-08-05T04:30:00.000Z",
           "wordCount": null,
           "title": "E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”",
@@ -184,7 +184,7 @@
           "id": "5fd236d7-9a72-4b15-9e84-e83ceadd1b41",
           "author": "liuhj60@gmail.com (硅谷101)",
           "description": "7月27日，月之暗面正式发布Kimi K3的完整模型权重。自7月16日API上线以来，K3就在在多项测试中展现出接近前沿模型的能力。因此，它成为了硅谷最近讨论开源时的重要案例之一。从2025年初的DeepSeek时刻，到当下的Kimi K3，中国开源模型正在从成本更低、能力稍弱的替代品，逐渐逼近甚至超过最强的闭源前沿模型。\n本期播客，我们邀请到两位嘉宾来分别从开源生态和企业的视角，讨论这一波中国开源模型的影响：前Hugging Face亚太开源生态负责人王铁震，和TinyFish联合创始人Keith Zhai。\n注：本期播客中提到的“开源”，更准确地说是开放权重（open weights）。K3官方称自己为开放模型，它使用的是Kimi K3 License，不是标准 MIT/Apache 这类完全开放的OSI license。\n【主播】\n【嘉宾】\n【你将听到】\n中国开放模型，硅谷怎么看？\n蒸馏争端始末\n开放模型对闭源商业模式的影响\n强大的开放能力下，Agent生态如何变化？\n开放模型的安全之争\n【延伸阅读和相关术】\n官方技术报告与模型权重\n授权协议\n指控\n《开放权重与美国AI领导力》\n【相关术语】\n开放权重（Open Weights）：指模型开发者公开模型训练完成后的参数文件，允许用户下载模型，并在自己的设备或云端进行部署、推理、微调或进一步开发。开放权重并不意味着训练数据、训练代码和完整训练流程也同时公开，具体使用方式还会受到模型授权协议的限制。\n开源模型（Open-Source Models）：通常指不仅公开模型权重，还公开足以让外部开发者研究、修改和复现模型的更多组成部分，例如训练代码、模型架构、数据处理方法、训练流程，以及在部分情况下使用的训练数据。由于大模型很少完整披露所有训练材料，目前业界对什么样的模型可以被严格称为“开源”仍存在争议。\n思维链（Chain of Thought）：指模型在生成最终答案之前，用一系列中间步骤拆解问题、组织信息和进行推理的过程。\n规模扩展效率（Scaling Effiency）：指模型将计算资源转化为能力提升的效率，也就是在使用相同或更少的算力、数据或训练成本时，能否获得更好的模型表现。\n键值缓存（KV Cache）：指模型在处理上下文和生成内容时，保存此前token在注意力计算中产生的Key和Value数据。这样，模型在生成下一个token时不必重新计算全部历史内容，可以显著降低重复计算，提高生成速度；但上下文越长，KV Cache占用的内存通常也越大。\n【硅谷101正在招聘】\n点击查看招聘详情\n\n\n【监制】\n【后期】\n【运营】\n【BGM】\n【在这里找到我们】\npodcast@sv101.net\nSpecial Guests: Keith Zhai and 王铁震.",
-          "link": "https://www.sv101.net/259",
+          "link": "https://sv101.fireside.fm/259",
           "publishedOn": "2026-08-01T00:00:00.000Z",
           "wordCount": null,
           "title": "E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿",
@@ -284,6 +284,24 @@
       "feedUrl": "https://looper.typlog.io/feed/audio.xml",
       "siteUrl": "https://looper.typlog.io/",
       "articles": [
+        {
+          "id": "https://looper.typlog.io/episodes/488",
+          "author": null,
+          "description": "Connecting the Dots 00:01 Infinity Mirror Rooms 01:58 I’m Here, but Nothing 05:26 戴口罩的郑东和 08:08 烧一张Mixtape给草间弥生 Music Played Four Tet, 4TLR - 4T Two Thousand - Live at Koreless - White Picket Fence TOWA TEI - LOVE FOREVER Mixtape Plumm - July Lucrecia Dalt, David Sylvian - cosa rara Julie Doiron - August 10 Radiohead - India Rubber Tara Clerkin Trio - Lazy Daisy Haruomi Hosono - Note of Mothership Massive Attack, Guy Garvey, Ryuichi Sakamoto, Yukihiro Takahashi - Fatalism Aphex Twin - To Cure A Weakling Child Oneohtrix Point Never - KGB Nights Tom Waits - The Fly Pussy Riot, Vladimir Putin - CYKA Dynoro, GIGI D'AGOSTINO - In My Mind James Massiah, MAY - Grave Mount Kimbie, King Krule - Empty And Silent Stereolab - Come And Play In The Milk Boards of Canada - You Retreat In Time And Space V…",
+          "link": "https://looper.typlog.io/episodes/488",
+          "publishedOn": "2026-08-27T06:42:30.000Z",
+          "wordCount": null,
+          "title": "波点在水面堆积Mixtape",
+          "itunes": {
+            "duration": "1:48:46"
+          },
+          "enclosure": {
+            "url": "https://r.typlog.com/eyJzIjoxMjY3LCJlIjo4OTQyOSwidCI6MX0.aHCBGSYwXV9YQkMY3_zXouTLMec/looper/8212189091_016968.mp3",
+            "length": "156640501",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://looper.typlog.io/episodes/487",
           "author": null,

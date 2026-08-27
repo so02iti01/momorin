@@ -1,23 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-26T01:18:05.808Z</id>
+    <id>urn:2026-08-27T07:54:10.647Z</id>
     <title>Sunny🕊️</title>
-    <updated>2026-08-26T01:18:05.808Z</updated>
+    <updated>2026-08-27T07:54:10.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
+        <title type="html"><![CDATA[波点在水面堆积Mixtape]]></title>
+        <id>https://looper.typlog.io/episodes/488</id>
+        <link href="https://looper.typlog.io/episodes/488"/>
+        <updated>2026-08-27T06:42:30.000Z</updated>
+        <summary type="html"><![CDATA[Connecting the Dots 00:01 Infinity Mirror Rooms 01:58 I’m Here, but Nothing 05:26 戴口罩的郑东和 08:08 烧一张Mixtape给草间弥生 Music Played Four Tet, 4TLR - 4T Two Thousand - Live at Koreless - White Picket Fence TOWA TEI - LOVE FOREVER Mixtape Plumm - July Lucrecia Dalt, David Sylvian - cosa rara Julie Doiron - August 10 Radiohead - India Rubber Tara Clerkin Trio - Lazy Daisy Haruomi Hosono - Note of Mothership Massive Attack, Guy Garvey, Ryuichi Sakamoto, Yukihiro Takahashi - Fatalism Aphex Twin - To Cure A Weakling Child Oneohtrix Point Never - KGB Nights Tom Waits - The Fly Pussy Riot, Vladimir Putin - CYKA Dynoro, GIGI D'AGOSTINO - In My Mind James Massiah, MAY - Grave Mount Kimbie, King Krule - Empty And Silent Stereolab - Come And Play In The Milk Boards of Canada - You Retreat In Time And Space V…]]></summary>
+        <author>
+            <name>卧房撸歌</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路]]></title>
         <id>6242033d-a14a-44e3-a622-cbfc7d3c3817</id>
-        <link href="https://www.sv101.net/262"/>
+        <link href="https://sv101.fireside.fm/262"/>
         <updated>2026-08-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[去年年底，硅谷掀起了一股风潮——“Token Maxing”（最大化token使用量），科技公司创始人和工程师们争相晒出账单，比谁家Token消耗更吓人，以此彰显对AI的全力押注。但到了今年年中，成本失控和虚假生产力让这场烧钱竞赛到达了转折点。Uber在四个月里烧穿了全年的AI预算，Meta被迫给员工设定token使用上限，一些公司会提醒员工使用AI的时候注意成本。大家开始认真思考：如何更经济地使用Token？
 【主播】
 【嘉宾】
 【你将听到】
 【9月6日·成都 泓君线下开麦】
-
-
-【硅谷101听友群】
 
 
 【监制】
@@ -169,7 +176,7 @@ s5e69. 教老人学会使用电子产品｜0319
     <entry>
         <title type="html"><![CDATA[E248｜一个“催发货”AI要跑通260步，和阿里瓴羊朋新宇聊聊中国式FDE]]></title>
         <id>9e923c4c-1c87-499b-90a4-9a21cc83e4b1</id>
-        <link href="https://www.sv101.net/261"/>
+        <link href="https://sv101.fireside.fm/261"/>
         <updated>2026-08-11T01:45:00.000Z</updated>
         <summary type="html"><![CDATA[不久前，我们聊了硅谷最火的新职位FDE（前线部署工程师）。硅谷的逻辑是，AI要进企业，就要开行业最高的薪资，派一批最聪明的人驻扎进去。但这件事在中国，还是同一个剧本吗？
 【主播】
@@ -245,7 +252,7 @@ Dialogue Experience | Dialogue in the Dark（https://dialogue-experience.hk/tc/h
     <entry>
         <title type="html"><![CDATA[E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”]]></title>
         <id>6c9d13b1-ac9a-4a7a-a35b-99bfb8374668</id>
-        <link href="https://www.sv101.net/260"/>
+        <link href="https://sv101.fireside.fm/260"/>
         <updated>2026-08-05T04:30:00.000Z</updated>
         <summary type="html"><![CDATA[这期播客的嘉宾是盛颖，xAI前推理团队负责人、开源推理引擎SGLang发起人及RadixArk联合创始人/CEO。
 
@@ -284,7 +291,7 @@ Special Guest: 盛颖.]]></summary>
     <entry>
         <title type="html"><![CDATA[E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿]]></title>
         <id>5fd236d7-9a72-4b15-9e84-e83ceadd1b41</id>
-        <link href="https://www.sv101.net/259"/>
+        <link href="https://sv101.fireside.fm/259"/>
         <updated>2026-08-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[7月27日，月之暗面正式发布Kimi K3的完整模型权重。自7月16日API上线以来，K3就在在多项测试中展现出接近前沿模型的能力。因此，它成为了硅谷最近讨论开源时的重要案例之一。从2025年初的DeepSeek时刻，到当下的Kimi K3，中国开源模型正在从成本更低、能力稍弱的替代品，逐渐逼近甚至超过最强的闭源前沿模型。
 本期播客，我们邀请到两位嘉宾来分别从开源生态和企业的视角，讨论这一波中国开源模型的影响：前Hugging Face亚太开源生态负责人王铁震，和TinyFish联合创始人Keith Zhai。
