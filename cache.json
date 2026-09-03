@@ -319,24 +319,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://looper.typlog.io/episodes/486",
-          "author": null,
-          "description": "Teardrop on the Fire 09:22 忽而今夏 Music Played 卢凯彤 - 人造卫星情人 The xx - On Hold The xx, Jamie xx - On Hold Other Episodes rockmui1 2 3 Mixtape This Mortal Coil - Song To The Siren Tom Leclerc - paisible jardin Nirosta Steel - Perfection Arthur Russell - That's Us/Wild Combination Alex Mills, Jess Dandy, Roderick Chadwick - I love you, my darkness Manfred Mann's Earth Band - Tribute Massive Attack, Elizabeth Fraser - Black Milk Tara Clerkin Trio - Silently Holden - C'est plus pareil Stereolab - Emperor Tomato Ketchup (Demo) Tortoise - Glass Museum Pascal Comelade - Jac B and His Dancing Dogs Françoise Hardy - Le martien Joni Mitchell - The Hissing of Summer Lawns Tom Zé, Zélia Duncan - Amor do Rio Luiz Henrique - Mas Que Nada Bad Bunny - NUEVAYoL Jamie xx - Idontknow Jamie xx, MC Moose - Gosh Fl…",
-          "link": "https://looper.typlog.io/episodes/486",
-          "publishedOn": "2026-08-04T11:32:30.000Z",
-          "wordCount": null,
-          "title": "怀念卢凯彤，摩天轮上举起Mixtape望向八年前的新世界",
-          "itunes": {
-            "duration": "1:47:47"
-          },
-          "enclosure": {
-            "url": "https://r.typlog.com/eyJzIjoxMjY3LCJlIjo4OTExMywidCI6MX0.OBON5R6W4UeI75A11zp7JBVd1wo/looper/8214170042_590692.mp3",
-            "length": "155228705",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     }
