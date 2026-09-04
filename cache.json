@@ -179,24 +179,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "6c9d13b1-ac9a-4a7a-a35b-99bfb8374668",
-          "author": "liuhj60@gmail.com (硅谷101)",
-          "description": "这期播客的嘉宾是盛颖，xAI前推理团队负责人、开源推理引擎SGLang发起人及RadixArk联合创始人/CEO。\n\n【主播】\n【嘉宾】\n【你将听到】\n【延伸阅读】\n本期节目视频版已上线，附精校字幕及术语注解，适合想逐句细听的听友\n“榨”出硅的极限：怎么让GPU不“闲着”？｜与SGLang、RadixArk深聊AI Infra技术与千亿美元市场-硅谷101视频 及文字版\n【硅谷101正在招聘】\n点击查看招聘详情\n\n\n【监制】\n【采访】\n【后期】\n【运营】\n【BGM】\n【在这里找到我们】\npodcast@sv101.net\nSpecial Guest: 盛颖.",
-          "link": "https://sv101.fireside.fm/260",
-          "publishedOn": "2026-08-05T04:30:00.000Z",
-          "wordCount": null,
-          "title": "E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”",
-          "itunes": {
-            "duration": "1:46:26"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/6c9d13b1-ac9a-4a7a-a35b-99bfb8374668.mp3",
-            "length": "153289565",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -284,6 +266,24 @@
       "feedUrl": "https://looper.typlog.io/feed/audio.xml",
       "siteUrl": "https://looper.typlog.io/",
       "articles": [
+        {
+          "id": "https://looper.typlog.io/episodes/489",
+          "author": null,
+          "description": "Fly Me to the Moon 00:01 Miranda July拍爱情你我他 03:13 尚未召唤的幻觉 07:35 一卷Mixtape Music Played Michael Andrews - When I Call a Name Gary Jules, Michael Andrews - Mad World Mixtape PJ Harvey - This Mess We're In (Demo) Earle Brown - Octet I Gil Scott‑Heron - Where Did the Night Go Appleblim, Peverelist - Circling Paul Lansky - Mild Und Leise Radiohead - Idioteque Tortoise - Almost Always is Nearly Enough Marina Herlop, Adri GOOR - Vas volant Obongjayar - Moon Eyes Shabaka, André 3000 - To The Moon Space Afrika - yyyyyy2222 Flash and the Pan - Walking in the Rain ZENA, SLICKnBOBBY - Tryst (Kazanchis dub) Easy Star All‑Stars - Great Dub In The Sky Rhythm & Sound - King in My Empire The Specials - Ghost Town The Horrors, Cleric - Ghost YHWH Nailgun - Ghost of Love Loraine James, Miho Hatori - Flatline…",
+          "link": "https://looper.typlog.io/episodes/489",
+          "publishedOn": "2026-09-03T08:31:11.000Z",
+          "wordCount": null,
+          "title": "悬在气球上的Mixtape飞向双子塔",
+          "itunes": {
+            "duration": "1:48:39"
+          },
+          "enclosure": {
+            "url": "https://r.typlog.com/eyJzIjoxMjY3LCJlIjo4OTUzMiwidCI6MX0.8XC8j-fVTwZ1flrsVQdX0b12IgE/looper/8211672921_049717.mp3",
+            "length": "156470849",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://looper.typlog.io/episodes/488",
           "author": null,

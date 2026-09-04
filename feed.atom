@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-03T03:17:46.725Z</id>
+    <id>urn:2026-09-04T03:16:46.279Z</id>
     <title>Sunny🕊️</title>
-    <updated>2026-09-03T03:17:46.725Z</updated>
+    <updated>2026-09-04T03:16:46.279Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[悬在气球上的Mixtape飞向双子塔]]></title>
+        <id>https://looper.typlog.io/episodes/489</id>
+        <link href="https://looper.typlog.io/episodes/489"/>
+        <updated>2026-09-03T08:31:11.000Z</updated>
+        <summary type="html"><![CDATA[Fly Me to the Moon 00:01 Miranda July拍爱情你我他 03:13 尚未召唤的幻觉 07:35 一卷Mixtape Music Played Michael Andrews - When I Call a Name Gary Jules, Michael Andrews - Mad World Mixtape PJ Harvey - This Mess We're In (Demo) Earle Brown - Octet I Gil Scott‑Heron - Where Did the Night Go Appleblim, Peverelist - Circling Paul Lansky - Mild Und Leise Radiohead - Idioteque Tortoise - Almost Always is Nearly Enough Marina Herlop, Adri GOOR - Vas volant Obongjayar - Moon Eyes Shabaka, André 3000 - To The Moon Space Afrika - yyyyyy2222 Flash and the Pan - Walking in the Rain ZENA, SLICKnBOBBY - Tryst (Kazanchis dub) Easy Star All‑Stars - Great Dub In The Sky Rhythm & Sound - King in My Empire The Specials - Ghost Town The Horrors, Cleric - Ghost YHWH Nailgun - Ghost of Love Loraine James, Miho Hatori - Flatline…]]></summary>
+        <author>
+            <name>卧房撸歌</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[114 谁说是“老登的灯”？重新认识虹吸咖啡]]></title>
         <id>xmly_track_1009788561</id>
@@ -381,35 +391,6 @@ Dialogue Experience | Dialogue in the Dark（https://dialogue-experience.hk/tc/h
 《放晴早安》由「放晴公园」制作播出，是一档以「解困式报道」（solutions journalism）为理念的节目。我们的第一、二季节目由看理想APP支持，第三、四、五季节目由香港中文大学社会科学学院「社会科学与创新实践」（CU-ASK）辅修项目支持。]]></summary>
         <author>
             <name>kfang@cuhk.edu.hk (放晴公园)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”]]></title>
-        <id>6c9d13b1-ac9a-4a7a-a35b-99bfb8374668</id>
-        <link href="https://sv101.fireside.fm/260"/>
-        <updated>2026-08-05T04:30:00.000Z</updated>
-        <summary type="html"><![CDATA[这期播客的嘉宾是盛颖，xAI前推理团队负责人、开源推理引擎SGLang发起人及RadixArk联合创始人/CEO。
-
-【主播】
-【嘉宾】
-【你将听到】
-【延伸阅读】
-本期节目视频版已上线，附精校字幕及术语注解，适合想逐句细听的听友
-“榨”出硅的极限：怎么让GPU不“闲着”？｜与SGLang、RadixArk深聊AI Infra技术与千亿美元市场-硅谷101视频 及文字版
-【硅谷101正在招聘】
-点击查看招聘详情
-
-
-【监制】
-【采访】
-【后期】
-【运营】
-【BGM】
-【在这里找到我们】
-podcast@sv101.net
-Special Guest: 盛颖.]]></summary>
-        <author>
-            <name>liuhj60@gmail.com (硅谷101)</name>
         </author>
     </entry>
 </feed>
