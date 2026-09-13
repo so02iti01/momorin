@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-12T03:28:14.669Z</id>
+    <id>urn:2026-09-13T03:34:14.986Z</id>
     <title>Sunny🕊️</title>
-    <updated>2026-09-12T03:28:14.669Z</updated>
+    <updated>2026-09-13T03:34:14.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -282,26 +282,6 @@ podcast@sv101.net
 Special Guests: 张宏江 and 黄东旭.]]></summary>
         <author>
             <name>liuhj60@gmail.com (硅谷101)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寸土寸金的香港是如何发展农业的？｜暑期特辑0814]]></title>
-        <id>aabbd8b7-6995-4a55-ab53-e836b5c6f88b</id>
-        <link href="https://sunshine.fireside.fm/ex0814"/>
-        <updated>2026-08-13T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[☀️本期放晴故事
-欢迎大家收听放晴早安的2026年暑期特别节目。本期节目是由「无奇不游」和「过滤气泡工作室」联合推出的香港暑期媒体与可持续实践营的成果。有兴趣让孩子参与媒体实践营的家长，请添加微信：gobeyondx
-在寸土寸金的香港，有一个自然美丽的小岛叫做梅窝，这里没有高楼大厦，没有车水马龙。当一座城市不断向上生长时，梅窝却似乎选择了另一种方向——扎根土壤。
-这也让我们不禁想问：一个地方的发展，真的一定意味着更多的高楼、更快的速度、更繁华的商业吗？还是说，人与自然共存、保留土地原本的样貌，也可以是一种发展方式？
-延伸阅读：
-☀️往期节目
-s3e54. 如果大自然是一家公司，那我可以投资大自然吗？｜0314
-s4e26. 香港梅子林村的乡村复育之路｜1111
-☀️本期制作
-☀️
-《放晴早安》由「放晴公园」制作播出，是一档以「解困式报道」（solutions journalism）为理念的节目。我们的第一、二季节目由看理想APP支持，第三、四、五季节目由香港中文大学社会科学学院「社会科学与创新实践」（CU-ASK）辅修项目支持。]]></summary>
-        <author>
-            <name>kfang@cuhk.edu.hk (放晴公园)</name>
         </author>
     </entry>
 </feed>

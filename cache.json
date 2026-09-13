@@ -4,26 +4,7 @@
       "title": "放晴早安",
       "feedUrl": "https://feeds.fireside.fm/sunshine/rss",
       "siteUrl": "https://sunshine.fireside.fm",
-      "articles": [
-        {
-          "id": "aabbd8b7-6995-4a55-ab53-e836b5c6f88b",
-          "author": "kfang@cuhk.edu.hk (放晴公园)",
-          "description": "☀️本期放晴故事\n欢迎大家收听放晴早安的2026年暑期特别节目。本期节目是由「无奇不游」和「过滤气泡工作室」联合推出的香港暑期媒体与可持续实践营的成果。有兴趣让孩子参与媒体实践营的家长，请添加微信：gobeyondx\n在寸土寸金的香港，有一个自然美丽的小岛叫做梅窝，这里没有高楼大厦，没有车水马龙。当一座城市不断向上生长时，梅窝却似乎选择了另一种方向——扎根土壤。\n这也让我们不禁想问：一个地方的发展，真的一定意味着更多的高楼、更快的速度、更繁华的商业吗？还是说，人与自然共存、保留土地原本的样貌，也可以是一种发展方式？\n延伸阅读：\n☀️往期节目\ns3e54. 如果大自然是一家公司，那我可以投资大自然吗？｜0314\ns4e26. 香港梅子林村的乡村复育之路｜1111\n☀️本期制作\n☀️\n《放晴早安》由「放晴公园」制作播出，是一档以「解困式报道」（solutions journalism）为理念的节目。我们的第一、二季节目由看理想APP支持，第三、四、五季节目由香港中文大学社会科学学院「社会科学与创新实践」（CU-ASK）辅修项目支持。",
-          "link": "https://sunshine.fireside.fm/ex0814",
-          "publishedOn": "2026-08-13T22:00:00.000Z",
-          "wordCount": null,
-          "title": "寸土寸金的香港是如何发展农业的？｜暑期特辑0814",
-          "itunes": {
-            "duration": "11:25"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/e0f2e192-ad76-4431-942c-c290cfbcda1f/aabbd8b7-6995-4a55-ab53-e836b5c6f88b.mp3",
-            "length": "10970050",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "故事FM",
