@@ -16,12 +16,57 @@
   <header>
     <dl>
       <dt><b>Site title</b></dt><dd>Sunny🕊️</dd>
-      <dt><b>Built on</b></dt><dd>2026-09-15T03:44:25.551Z</dd>
+      <dt><b>Built on</b></dt><dd>2026-09-16T03:41:18.168Z</dd>
       <dt><b>Cli version</b></dt><dd>1.15.1</dd>
       <dt><b>Documentation URL</b></dt><dd>https://github.com/osmoscraft/osmosfeed</dd>
     </dl>
   </header>
 
+  <article>
+      <h1><a href=https://sv101.fireside.fm/264>E251｜推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学</a></h1>
+      <div>
+        <span>Source: <a href=https://sv101.fireside.fm>硅谷101</a></span> | 
+        <span>Date: <time>2026-09-16</time></span> |
+        <span>Timestamp: <time>2026-09-16T00:00:00.000Z</time></span> |
+        <span>Reading time: <time>0 min</time></span> |
+        <span>Word count: <time></time></span>
+          <div><audio src="https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/786d63c4-d46c-4ff3-80f8-fc895b2a57f0.mp3" controls></audio></div>
+          <div>Duration: <time>1:31:32</time></div>
+      </div>
+      <p>过去几年，推理消耗的Token爆炸式增长，Token经济随之成型，推理专用芯片也持续升温：去年年底，英伟达以约200亿美元对AI芯片初创公司Groq进行“收购”（acqui-hire）；做晶圆级“大芯片”的Cerebras今年6月IPO，市值达到670亿美元；OpenAI联手博通，推出了首款自研推理芯片Jalapeño，从设计到流片仅用了9个月——加上我们之前聊过的谷歌TPU，推理芯片牌桌上的玩家越来越多。
+【主播】
+【嘉宾】
+【你将听到】
+Groq、Cerebras技术路线
+推理时代芯片护城河
+Bill Dally芯片设计哲学
+OpenAI自研推理芯片解析
+【硅谷101年会来了，线下见】
+报名链接
+
+
+【相关阅读和名词解释】
+挑战GPU、绕过HBM，深挖史上最大芯片背后的Cerebras
+谷歌TPU能撼动英伟达吗？前TPU工程师首次揭秘
+Prefill / Decode：大模型推理的两个阶段。Prefill（预填充）一次性并行处理完整输入提示词，生成KV缓存和第一个Token，是计算密集型，瓶颈在算力；Decode（解码）基于KV缓存逐个自回归生成后续Token，是内存带宽密集型，每生成一个词都要把整个模型权重从存储读到计算单元。
+KV Cache（键值缓存）：是注意力机制中的中间计算结果，避免每次生成新Token时重复计算历史Token的键值向量。当新请求与之前处理过的内容有相同前缀时，可直接复用已有KV Cache，称为“缓存命中”。
+Attention / FFN：Transformer架构的两个核心模块。Attention（注意力机制）负责“找关系”，让每个Token关注序列中其他Token的信息，参数量较小但计算模式随上下文长度变化。FFN（前馈网络）负责“加工信息”，独立处理每个Token，参数量极大，是模型静态权重的主要部分。
+SRAM / DRAM / HBM：SRAM用6个晶体管存1bit，延迟仅0.3-3ns，带宽性价比极高，但容量极小。DRAM用1晶体管+1电容，容量大、成本低，但延迟50-100ns且需刷新。HBM本质是3D堆叠的DRAM，通过超宽总线实现高带宽，容量较大但成本高，且市场上极度缺货。
+Kernel（算子）：连接AI算法与芯片硬件的“翻译官”，将矩阵乘法、注意力等算法操作转化为硬件可执行的指令。算子开发属于内核级编程，直接决定模型的推理速度、能耗和芯片兼容性。
+系统级异构：指在系统层面组合不同类型的计算芯片（如GPU、SRAM推理芯片、专用加速器），用最合适的硬件做对应部分的应用，而非用一颗芯片包揽所有工作。OpenAI Jalapeño则选择将异构收进单颗芯片内部。
+流片（Tape Out）：指芯片设计完成后，将电路版图数据交给晶圆厂进行实际制造的过程。晶圆厂据此制作掩模（Mask），再通过光刻等工序生产芯片。流片成本极高，先进制程一次可达数百万美元，且若设计有误，整批芯片可能报废。
+【硅谷101听友群】
+
+
+【监制】
+【后期】
+【运营】
+【BGM】
+【在这里找到我们】
+podcast@sv101.net
+Special Guests: Mark and 徐子扬.</p>
+    </details>
+  </article>
   <article>
       <h1><a href=https://www.lizhi.fm/dhp_static/static/h5_dhp_app/share.html#/voice?voiceId&#x3D;3233369537452071430&amp;podcastId&#x3D;5531188267596852351>Vol.005 橙县的疯女人</a></h1>
       <div>
