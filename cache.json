@@ -152,6 +152,67 @@
       "feedUrl": "https://www.ximalaya.com/album/76493732.xml",
       "siteUrl": "https://www.ximalaya.com/album/76493732",
       "articles": []
+    },
+    {
+      "title": "卧房撸歌",
+      "feedUrl": "https://looper.typlog.io/feed/audio.xml",
+      "siteUrl": "https://looper.typlog.io/",
+      "articles": [
+        {
+          "id": "https://looper.typlog.io/episodes/490",
+          "author": null,
+          "description": "NAZA 00:01 附带伤亡和利益区域 04:35 夏末初秋的Mixtape Music Played Mica Levi - Lipstick To Void Radiohead - Street Spirit (Fade Out) Abel Korzeniowski - Restless Mixtape Music From Auschwitz Ensemble of University of Michigan - Chinesische Straßenserenade (Chinese Street Music) Lone - Affinity (Into The Void) 甄凌 - 夏末初秋的爱情 毛阿敏 - 我不想再次被情伤 叶倩文 - 秋去秋來 Bobby Caldwell - What You Won't Do for Love Daft Punk - Something About Us (Theme from Interstella) John Carroll Kirby - Mates (Dub) Sade - Kiss of Life Kool & The Gang - Summer Madness Quincy Jones - Summer In The City 陈嫺静 - 科幻小说 (prod. by Sōryo) 蛋堡 - 前传 Andy Stott, Elaine Howley - Something in mind HYUKOH, Yu Su - KoK LCD Soundsystem - Losing My Edge War - Me And Baby Brother Emma-Jean Thackray - Sun (Jitwam & EJT Remix) Sly & Robbie, Black Uhuru - Sun Is Sh…",
+          "link": "https://looper.typlog.io/episodes/490",
+          "publishedOn": "2026-09-16T06:53:30.000Z",
+          "wordCount": null,
+          "title": "露天集中营被Mixtape凿开一条运河",
+          "itunes": {
+            "duration": "1:47:05"
+          },
+          "enclosure": {
+            "url": "https://r.typlog.com/eyJzIjoxMjY3LCJlIjo4OTcwMywidCI6MX0.C9fHwo0_uHOiJDjqTVVpD6k7TW8/looper/8210460310_643694.mp3",
+            "length": "154238649",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://looper.typlog.io/episodes/489",
+          "author": null,
+          "description": "Fly Me to the Moon 00:01 Miranda July拍爱情你我他 03:13 尚未召唤的幻觉 07:35 一卷Mixtape Music Played Michael Andrews - When I Call a Name Gary Jules, Michael Andrews - Mad World Mixtape PJ Harvey - This Mess We're In (Demo) Earle Brown - Octet I Gil Scott‑Heron - Where Did the Night Go Appleblim, Peverelist - Circling Paul Lansky - Mild Und Leise Radiohead - Idioteque Tortoise - Almost Always is Nearly Enough Marina Herlop, Adri GOOR - Vas volant Obongjayar - Moon Eyes Shabaka, André 3000 - To The Moon Space Afrika - yyyyyy2222 Flash and the Pan - Walking in the Rain ZENA, SLICKnBOBBY - Tryst (Kazanchis dub) Easy Star All‑Stars - Great Dub In The Sky Rhythm & Sound - King in My Empire The Specials - Ghost Town The Horrors, Cleric - Ghost YHWH Nailgun - Ghost of Love Loraine James, Miho Hatori - Flatline…",
+          "link": "https://looper.typlog.io/episodes/489",
+          "publishedOn": "2026-09-03T08:31:11.000Z",
+          "wordCount": null,
+          "title": "悬在气球上的Mixtape飞向双子塔",
+          "itunes": {
+            "duration": "1:48:39"
+          },
+          "enclosure": {
+            "url": "https://r.typlog.com/eyJzIjoxMjY3LCJlIjo4OTUzMiwidCI6MX0.8XC8j-fVTwZ1flrsVQdX0b12IgE/looper/8211672921_049717.mp3",
+            "length": "156470849",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://looper.typlog.io/episodes/488",
+          "author": null,
+          "description": "Connecting the Dots 00:01 Infinity Mirror Rooms 01:58 I’m Here, but Nothing 05:26 戴口罩的郑东和 08:08 烧一张Mixtape给草间弥生 Music Played Four Tet, 4TLR - 4T Two Thousand (live @ Alexandra Palace) Koreless - White Picket Fence TOWA TEI - LOVE FOREVER Mixtape Plumm - July Lucrecia Dalt, David Sylvian - cosa rara Julie Doiron - August 10 Radiohead - India Rubber Tara Clerkin Trio - Lazy Daisy Haruomi Hosono - Note of Mothership Massive Attack, Guy Garvey, Ryuichi Sakamoto, Yukihiro Takahashi - Fatalism Aphex Twin - To Cure A Weakling Child Oneohtrix Point Never - KGB Nights Tom Waits - The Fly Pussy Riot, Vladimir Putin - CYKA Dynoro, GIGI D'AGOSTINO - In My Mind James Massiah, MAY - Grave Mount Kimbie, King Krule - Empty And Silent Stereolab - Come And Play In The Milk Boards of Canada - You Retreat In …",
+          "link": "https://looper.typlog.io/episodes/488",
+          "publishedOn": "2026-08-27T06:42:30.000Z",
+          "wordCount": null,
+          "title": "波点在水面堆积Mixtape",
+          "itunes": {
+            "duration": "1:48:46"
+          },
+          "enclosure": {
+            "url": "https://r.typlog.com/eyJzIjoxMjY3LCJlIjo4OTQyOSwidCI6MX0.aHCBGSYwXV9YQkMY3_zXouTLMec/looper/8212189091_016968.mp3",
+            "length": "156640501",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
