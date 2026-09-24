@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-23T03:39:24.986Z</id>
+    <id>urn:2026-09-24T03:30:20.445Z</id>
     <title>Sunny🕊️</title>
-    <updated>2026-09-23T03:39:24.986Z</updated>
+    <updated>2026-09-24T03:30:20.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人]]></title>
+        <id>833a6b89-e6a1-4d61-a3b3-46f4d664894e</id>
+        <link href="https://sv101.fireside.fm/266"/>
+        <updated>2026-09-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[【本期节目由Eight Sleep赞助播出】
+本期节目由Eight Sleep赞助播出。访谈使用英文进行，播客采用中文配音。我们也将原版的英文访谈制作成了视频播客。如果想要收听原版，可以在硅谷101播客的B站或YouTube账号上收看本期节目。
+
+【主播】
+【嘉宾】
+【你将听到】
+【试睡感受】
+
+现在在国内购买Eight Sleep产品，除赠送长期有效的Autopolit标准版订阅之外，还有硅谷101听众专属的1200元优惠券，可以点击天猫优惠券、京东优惠券领取，或联系店铺客服报暗号【硅谷101】领取；海外听众可在eightsleep.com使用SV101折扣码，获得200美元优惠。
+【硅谷101年会来了，线下见】
+点击报名入口 ，使用折扣码【FANS15】注册，还可以获得15%折扣。
+
+
+【硅谷101听友群】
+
+
+【监制】
+【后期】
+【配音】
+【运营】
+【BGM】
+【在这里找到我们】
+podcast@sv101.net
+Special Guests: Alex Zatarain and Matteo Franceschetti.]]></summary>
+        <author>
+            <name>liuhj60@gmail.com (硅谷101)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建]]></title>
         <id>78ec2d74-0ad7-4c6f-9764-728eec0e6e87</id>
