@@ -70,24 +70,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "73a69583-98ee-43d6-a892-3e7c93012dd9",
-          "author": "liuhj60@gmail.com (硅谷101)",
-          "description": "2026年8月，Moderna与默沙东联合开发的个体化mRNA肿瘤疫苗公布三期临床积极结果，Moderna股价一度暴涨177%。这不是一款预防癌症的疫苗，而是一种为患者量身定制的治疗性疫苗。“一人一药”，似乎正在离现实越来越近。\n【主播】\n【嘉宾】\n\n【你将听到】\n【2026 外滩大会】\n外滩Token效率论坛注册报名\n更多论坛信息即将公布，请关注外滩官网\n【延伸阅读与相关术语】\n核酸药物 以DNA、RNA或其类似物为核心的一类药物，通过补充、调控或沉默遗传信息来治疗疾病。mRNA、小核酸等都属于核酸药物。\n小核酸 通常指较短的寡核苷酸药物，多通过与目标RNA配对，调控或抑制特定基因的表达。mRNA通常不归入“小核酸”范畴。\nmRNA（信使核糖核酸） 可以理解为细胞里的临时“蛋白质生产指令”，把遗传信息交给细胞的蛋白质合成系统，指导制造特定蛋白。\n个性化肿瘤疫苗 根据每位患者自身的肿瘤突变“量身定制”疫苗，训练免疫系统识别并攻击其肿瘤。它属于治疗性疫苗，不是给健康人预防癌症的疫苗。\nCMC Chemistry, Manufacturing and Controls，药物的工艺开发、生产与质量控制体系，决定一种药能否稳定、合规地从实验室走向临床和商业化。\n核酸递送 把核酸药物安全、稳定地送进目标细胞，并在正确位置释放。由于RNA本身容易降解、也很难直接进入细胞，递送是核酸药物的核心技术之一。\nLNP（脂质纳米颗粒） 由多种脂质自组装形成的纳米级载体，可以理解为mRNA的“运输胶囊”：包裹并保护mRNA，帮助它进入细胞。\nGalNAc N-乙酰半乳糖胺，一种能“精准找到”肝细胞的糖分子，常与小核酸连接，用于实现肝脏靶向递送。\n三期临床试验 药物上市前最关键的大规模验证阶段之一，通常用于进一步确认疗效和安全性，并与现有治疗或对照方案进行比较。\nPD-1（程序性死亡受体 1） 位于 T 细胞表面，可以理解为免疫系统的“刹车”。很多肿瘤细胞会在表面表达 PD-L1，与 T 细胞上的 PD-1 结合后，传递抑制信号，从而降低它的活性，借此逃避免疫系统的追杀。抗 PD-1 药物通过阻断这条通路，让免疫系统重新攻击肿瘤。\nRFS（Recurrence free survival）无复发生存期，通常指治疗或手术后，到肿瘤复发或死亡的时间。\n免疫原性 一种物质激发人体免疫反应的能力。疫苗通常希望产生足够强的免疫原性。\n免疫耐受 免疫系统对某种抗原“不攻击”或反应较弱的状态。肿瘤可以利用这种机制逃避免疫系统的清除。\nNeoantigen 新抗原，肿瘤细胞发生基因突变后，会制造出一些正常细胞里没有的蛋白质。免疫系统有机会把这些“从没见过的蛋白质”识别为异常，并攻击产生它们的肿瘤细胞。\nIn Vitro Transcription（IVT） 体外转录，以DNA为模板，在无细胞体系中合成mRNA，是目前mRNA药物生产中的核心步骤。\nSOC（Standard of Care） 标准治疗，即当前临床上普遍认可、常规采用的治疗方案，也是新疗法常用的比较基线。\nDC疗法 又称树突状细胞疗法，通常把患者自身的树突状细胞取出，在体外加载肿瘤抗原后再回输，用它们“教会”T细胞识别并攻击肿瘤。\nOff-the-shelf 现货型疗法，固定配方、可以提前批量生产，并用于多个符合条件的患者；相对的是“一人一药”的个性化治疗。\nDriver Mutation 驱动突变，能够直接推动肿瘤发生、生长的关键基因突变。并不是所有肿瘤突变都是驱动突变。 这里后面提到的 EGFR、KRAS，都是常见的肿瘤驱动基因。\nCAR-T 把患者的T细胞取出，在体外进行基因改造，让它们拥有识别特定肿瘤抗原的“雷达”，再回输患者体内杀伤肿瘤。\nCRS 细胞因子释放综合征，免疫细胞短时间内被大量激活并释放细胞因子，引发发热、低血压等全身炎症反应，是CAR-T等免疫疗法的重要副作用之一。\n可电离阳离子脂质 LNP最关键的成分之一。在生理环境下大多接近中性，进入细胞内的酸性环境后会带正电，从而帮助mRNA释放到细胞质，同时降低毒性。\npre-F 融合前F蛋白，RSV的F蛋白在病毒与细胞融合之前的结构状态，是RSV疫苗非常重要的抗原靶点；针对pre-F可以诱导较强的中和抗体反应。\n【监制】\n【后期】\n【运营】\n【BGM】\n【在这里找到我们】\npodcast@sv101.net\nSpecial Guest: 英博.",
-          "link": "https://sv101.fireside.fm/263",
-          "publishedOn": "2026-08-28T00:45:00.000Z",
-          "wordCount": null,
-          "title": "E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破",
-          "itunes": {
-            "duration": "1:16:50"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/73a69583-98ee-43d6-a892-3e7c93012dd9.mp3",
-            "length": "110675639",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -170,6 +152,67 @@
       "feedUrl": "https://www.ximalaya.com/album/76493732.xml",
       "siteUrl": "https://www.ximalaya.com/album/76493732",
       "articles": []
+    },
+    {
+      "title": "卧房撸歌",
+      "feedUrl": "https://looper.typlog.io/feed/audio.xml",
+      "siteUrl": "https://looper.typlog.io/",
+      "articles": [
+        {
+          "id": "https://looper.typlog.io/episodes/491",
+          "author": null,
+          "description": "Time And Time Again 01:36 六零年代的小鸡 03:50 偷渡客 10:03 北京人在纽约&上海人在东京 13:16 大象和蚊子的对话 18:33 旅行美食 24:31 六零年代的小鸟 Music Played 儿歌 - 奶奶喂鸡 刘欢 - 喂鸡 刘欢 - Far Away 刘欢 - 千万次地问 刘欢 - 梦回的家乡 刘欢, 王菲 - 笑傲江湖 Leonard Cohen - Bird on the Wire Judy Collins - Who Knows Where The Time Goes Contacts 听友群: looperfm (+微信小助手) 小红书: 卧房撸歌 Email: looperfm@163.com 卧谈会GPS🧭 男生宿舍 彭于晏 张震岳1 2 热狗 国蛋 陶喆 王力宏 林宥嘉 杨宗纬 谢霆锋 关楚耀 黄家强 李克勤 吕方 雷颂德 苏永康 许志安 梁汉文 杜德伟 小虫 曹格 品冠 伍佰1 2 张楚 宋冬野 方文山 黄俊郎 周华健 赵传 张信哲 庾澄庆 张洪量 李泉 周传雄 林志炫 任贤齐 吴克群 黄义达 苏见信 陈楚生 林志颖 钟汉良 王耀庆 施鑫文月 地磁卡 夏之禹 Lu1 姜思达 肖骏 安雨 Chace 裘德1 2 鱼翅 Leo1Bee 女生宿舍 孙燕姿1 2 陈洁仪 戴佩妮1 2 周蕙 梁静茹 蔡健雅 蔡依林 张惠妹 A-Lin 范晓萱 莫文蔚 郑秀文 林忆莲 陈慧娴 徐佳莹 黄韵玲 艾敬 杨乃文 陈珊妮 张悬1 2 黄龄 伊能静 黄圣依 金海心 那英 丁当 阿兰 小娟 容祖儿 周笔畅 张靓颖 田馥甄 万芳 雷光夏1 2 阿肆 朱婧汐 斯丹曼簇1 2 刘若英 张韶涵 徐怀钰 柯泯薰 希林娜依·高 吴莫愁 Band房见 新裤子 旅行团 Joyside 木马 南拳妈妈 动力火车 张淇和黑豹 At17 Twins INNOUT NaraBara Tokyo Ska Paradise Orchestra 后乐园 卢凯彤1 2 3 方大同 李玟 刘欢 访客...躲在ta的宿舍 王心凌 蔡健雅 田馥甄 林宥嘉 黄立行 刘若英 张芸京 周华健 李宗盛 张艾嘉 许鞍华 莫文蔚 任贤齐 陈奂仁 吕方 钟汉良 蔡依林 苏运莹 顺子 辛晓琪 卓文萱 萧煌奇 赵传 潘越云 黄韵玲 李宇春 王心凌 潘玮柏 游鸿明 教工宿舍 许鞍华1 2 3 4 徐小凤 齐豫 潘越云 谭咏麟 钟镇涛 关维麟 许冠杰 欧丁玉 泰迪罗宾 高晓松 老狼 金宇澄 李宗盛 蔡康永 王伟忠 罗大佑 张培仁 段钟潭 林强 胡德夫 Mick Jagger",
+          "link": "https://looper.typlog.io/episodes/491",
+          "publishedOn": "2026-09-26T13:37:03.000Z",
+          "wordCount": null,
+          "title": "怀念刘欢，让音乐种子在土地里生根发芽",
+          "itunes": {
+            "duration": "30:01"
+          },
+          "enclosure": {
+            "url": "https://r.typlog.com/eyJzIjoxMjY3LCJlIjo4OTg5MiwidCI6MX0.XbIVnBZKl2A3fj5KUbQzl7Dj8H4/looper/8209570301_680122.mp3",
+            "length": "43258217",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://looper.typlog.io/episodes/490",
+          "author": null,
+          "description": "NAZA 00:01 附带伤亡和利益区域 04:35 夏末初秋的Mixtape Music Played Mica Levi - Lipstick To Void Radiohead - Street Spirit (Fade Out) Abel Korzeniowski - Restless Mixtape Music From Auschwitz Ensemble of University of Michigan - Chinesische Straßenserenade (Chinese Street Music) Lone - Affinity (Into The Void) 甄凌 - 夏末初秋的爱情 毛阿敏 - 我不想再次被情伤 叶倩文 - 秋去秋來 Bobby Caldwell - What You Won't Do for Love Daft Punk - Something About Us (Theme from Interstella) John Carroll Kirby - Mates (Dub) Sade - Kiss of Life Kool & The Gang - Summer Madness Quincy Jones - Summer In The City 陈嫺静 - 科幻小说 (prod. by Sōryo) 蛋堡 - 前传 Andy Stott, Elaine Howley - Something in mind HYUKOH, Yu Su - KoK LCD Soundsystem - Losing My Edge War - Me And Baby Brother Emma-Jean Thackray - Sun (Jitwam & EJT Remix) Sly & Robbie, Black Uhuru - Sun Is Sh…",
+          "link": "https://looper.typlog.io/episodes/490",
+          "publishedOn": "2026-09-16T06:53:30.000Z",
+          "wordCount": null,
+          "title": "露天集中营被Mixtape凿开一条运河",
+          "itunes": {
+            "duration": "1:47:05"
+          },
+          "enclosure": {
+            "url": "https://r.typlog.com/eyJzIjoxMjY3LCJlIjo4OTcwMywidCI6MX0.C9fHwo0_uHOiJDjqTVVpD6k7TW8/looper/8210460310_643694.mp3",
+            "length": "154238649",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://looper.typlog.io/episodes/489",
+          "author": null,
+          "description": "Fly Me to the Moon 00:01 Miranda July拍爱情你我他 03:13 尚未召唤的幻觉 07:35 一卷Mixtape Music Played Michael Andrews - When I Call a Name Gary Jules, Michael Andrews - Mad World Mixtape PJ Harvey - This Mess We're In (Demo) Earle Brown - Octet I Gil Scott‑Heron - Where Did the Night Go Appleblim, Peverelist - Circling Paul Lansky - Mild Und Leise Radiohead - Idioteque Tortoise - Almost Always is Nearly Enough Marina Herlop, Adri GOOR - Vas volant Obongjayar - Moon Eyes Shabaka, André 3000 - To The Moon Space Afrika - yyyyyy2222 Flash and the Pan - Walking in the Rain ZENA, SLICKnBOBBY - Tryst (Kazanchis dub) Easy Star All‑Stars - Great Dub In The Sky Rhythm & Sound - King in My Empire The Specials - Ghost Town The Horrors, Cleric - Ghost YHWH Nailgun - Ghost of Love Loraine James, Miho Hatori - Flatline…",
+          "link": "https://looper.typlog.io/episodes/489",
+          "publishedOn": "2026-09-03T08:31:11.000Z",
+          "wordCount": null,
+          "title": "悬在气球上的Mixtape飞向双子塔",
+          "itunes": {
+            "duration": "1:48:39"
+          },
+          "enclosure": {
+            "url": "https://r.typlog.com/eyJzIjoxMjY3LCJlIjo4OTUzMiwidCI6MX0.8XC8j-fVTwZ1flrsVQdX0b12IgE/looper/8211672921_049717.mp3",
+            "length": "156470849",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
