@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-29T04:38:22.178Z</id>
+    <id>urn:2026-09-30T04:22:16.342Z</id>
     <title>Sunny🕊️</title>
-    <updated>2026-09-29T04:38:22.178Z</updated>
+    <updated>2026-09-30T04:22:16.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？]]></title>
+        <id>0b644f51-461c-4ddb-b707-d2a39b9a7d80</id>
+        <link href="https://sv101.fireside.fm/268"/>
+        <updated>2026-09-29T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[这个夏天，来自全球各地的多个气象机构都拉响了同一个的警报，一场史无前例的超级厄尔尼诺正在上演。
+【主播】
+【嘉宾】
+【你将听到】
+超级厄尔尼诺，如何影响农业生产
+极端气候之外，生产资料的供应紧张和农民的应对之策
+巴拿马运河和全球铜矿的减产，厄尔尼诺要背多大的锅
+【延伸阅读】
+  《纽约时报：This Year’s Record-Breaking El Niño in 3 Charts》
+
+• NOAA: 美国国家海洋和大气管理局，隶属美国商务部。它负责监测海洋、大气和气象变化，提供天气预报、气候预测和海洋资源管理服务。
+El Niño set to become very strong, raising risks of extreme weather into 2027
+IFPRI: Will extreme weather lead to multiple breadbasket failures and threaten global food security?
+Forbes: 巴拿马运河运力使用经济体Top20
+USDA:U.S. Department of Agriculture
+【硅谷AI视频黑客松招募】
+报名入口
+【硅谷101年会来了，线下见】
+点击报名入口 ，使用折扣码【FANS15】注册，还可以获得15%折扣。
+听友福利：在评论区说出你对Alignment大会的期待，我们将在小宇宙、B站、YouTube各抽取3位幸运听众，赠送Alignment 2026现场门票，参与截止时间：10月2日24:00。
+
+
+【硅谷101听友群】
+
+
+【监制】
+【后期】
+【运营】
+【BGM】
+【在这里找到我们】
+podcast@sv101.net
+Special Guest: 张思齐.]]></summary>
+        <author>
+            <name>liuhj60@gmail.com (硅谷101)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长]]></title>
         <id>0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d</id>
