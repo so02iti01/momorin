@@ -247,24 +247,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://looper.typlog.io/episodes/489",
-          "author": null,
-          "description": "Fly Me to the Moon 00:01 Miranda July拍爱情你我他 03:13 尚未召唤的幻觉 07:35 一卷Mixtape Music Played Michael Andrews - When I Call a Name Gary Jules, Michael Andrews - Mad World Mixtape PJ Harvey - This Mess We're In (Demo) Earle Brown - Octet I Gil Scott‑Heron - Where Did the Night Go Appleblim, Peverelist - Circling Paul Lansky - Mild Und Leise Radiohead - Idioteque Tortoise - Almost Always is Nearly Enough Marina Herlop, Adri GOOR - Vas volant Obongjayar - Moon Eyes Shabaka, André 3000 - To The Moon Space Afrika - yyyyyy2222 Flash and the Pan - Walking in the Rain ZENA, SLICKnBOBBY - Tryst (Kazanchis dub) Easy Star All‑Stars - Great Dub In The Sky Rhythm & Sound - King in My Empire The Specials - Ghost Town The Horrors, Cleric - Ghost YHWH Nailgun - Ghost of Love Loraine James, Miho Hatori - Flatline…",
-          "link": "https://looper.typlog.io/episodes/489",
-          "publishedOn": "2026-09-03T08:31:11.000Z",
-          "wordCount": null,
-          "title": "悬在气球上的Mixtape飞向双子塔",
-          "itunes": {
-            "duration": "1:48:39"
-          },
-          "enclosure": {
-            "url": "https://r.typlog.com/eyJzIjoxMjY3LCJlIjo4OTUzMiwidCI6MX0.8XC8j-fVTwZ1flrsVQdX0b12IgE/looper/8211672921_049717.mp3",
-            "length": "156470849",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     }
