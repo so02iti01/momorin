@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-11T04:25:53.046Z</id>
+    <id>urn:2026-10-12T04:41:53.603Z</id>
     <title>Sunny🕊️</title>
-    <updated>2026-10-11T04:25:53.046Z</updated>
+    <updated>2026-10-12T04:41:53.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[秋照一抹Mixtape洒在天花板]]></title>
+        <id>https://looper.typlog.io/episodes/492</id>
+        <link href="https://looper.typlog.io/episodes/492"/>
+        <updated>2026-10-11T13:44:32.000Z</updated>
+        <summary type="html"><![CDATA[Off Hours 00:01 布鲁克林的房间 03:30 被Anne Carson影响的音乐人 08:06 来自未来的艾伦图灵 15:14 按下Mixtape Music Played Anne Carson, Caroline Shaw, Sō Percussion - A Gradual Dazzle Julia Holter - I Would Rather See Pet Shop Boys, Sven Helbig, Juliet Stevenson - A man from the future Mixtape Art Garfunkel - 99 Miles from L.A. Fleet Foxes - Tiger Mountain Peasant Song The Vernon Spring - Tiger Mountain Peasant Song Serge Gainsbourg - L'anamour Dr. Hook - Sexy Eyes 叶德娴 - 轻轻叹 Boca Livre - Um Canto De Trabalho Jeanette - Corazón de Poeta Toquinho, Jorge Ben Jor - Carolina, Carol Bela Tim Maia - O Caminho Do Bem Arthur Verocai - Dedicada a ela SY3 - 梦游 Sleepwalker 33EMYBW - 金光 The Golden Elixir Madvillain, MF DOOM, Madlib - All Caps (Instrumental) Pu Poo Platter - Cha Kee 茶记 Alice Coltrane - My Favorite Things Billie Hol…]]></summary>
+        <author>
+            <name>卧房撸歌</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔]]></title>
         <id>8fa0b58e-8359-4609-8e84-30c9a632df50</id>
