@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-18T03:22:17.118Z</id>
+    <id>urn:2026-10-19T03:34:20.818Z</id>
     <title>Sunny🕊️</title>
-    <updated>2026-10-18T03:22:17.118Z</updated>
+    <updated>2026-10-19T03:34:20.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[秋风吹起Mixtape肚皮上的肥肉]]></title>
+        <id>https://looper.typlog.io/episodes/493</id>
+        <link href="https://looper.typlog.io/episodes/493"/>
+        <updated>2026-10-18T13:28:46.000Z</updated>
+        <summary type="html"><![CDATA[Facing Atlas 04:34 PTA在卡内基拍片 08:43 绿木头和偶像 11:59 Mixtape发射 Music Played Cameron Winter - Drinking Age (Live at Carnegie Hall) Steve Reich, Alan Pierson, Alarm Will Sound - Radio Rewrite: II. Slow Otis Sandsjö, Petter Eldh, Dan Nicholls - RHUBARBS Mixtape James Blake - Lindisfarne I Bon Iver - 715 - CRΣΣKS Astrid Engberg - Time and Space Eddie Harris - I Don't Want Nobody Ray Charles - I Had a Dream James Blake - I Had a Dream She Took My Hand Laraaji, Brian Eno - The Dance No.1 Dylan Thomas - Poem in October Tiago Caetano, Céline Dessberg - Eco do Futuro Gal Go - crumbs (miguitas de pan) King Krule - Alone, Omen 3 Eartheater - Nova Herbert - I'll Do it ROSALÍA - A Palé Saul Williams, Carlos Niño - Great, Great-Grandmother Jon Hopkins - Collider Mario Batkovic - MENDICOR Crystal Castles - Al…]]></summary>
+        <author>
+            <name>卧房撸歌</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[秋照一抹Mixtape洒在天花板]]></title>
         <id>https://looper.typlog.io/episodes/492</id>
