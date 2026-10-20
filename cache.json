@@ -18,9 +18,27 @@
       "siteUrl": "https://sv101.fireside.fm",
       "articles": [
         {
+          "id": "9e6e1db1-f30b-492d-8a09-d8756b9df700",
+          "author": "liuhj60@gmail.com (硅谷101)",
+          "description": "回顾9月，AI圈的重磅新闻一个接一个。\n本期节目录制于2026年9月29日\n【主播】\n【嘉宾】\n【你将听到】\n《消费101》 上线啦！\nAgent领域\n机器人领域\n生物医学领域\n尾声\n【消费101】\n《消费101》是《硅谷101》团队新开设的消费垂类节目，由资深消费记者&研究员麻花担任主播，是一档提供有趣、有料、有用的消费行业观察与品牌解读的播客。每周更新，欢迎关注！\n\n\n【硅谷101听友群】\n\n\n【监制】\n【后期】\n【运营】\n【BGM】\n【在这里找到我们】\npodcast@sv101.net\nSpecial Guests: 朱哲清, 王晟, and 许华哲.",
+          "link": "https://sv101.fireside.fm/270",
+          "publishedOn": "2026-10-19T23:00:00.000Z",
+          "wordCount": null,
+          "title": "E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？",
+          "itunes": {
+            "duration": "1:19:40"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/9e6e1db1-f30b-492d-8a09-d8756b9df700.mp3",
+            "length": "114745549",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "8fa0b58e-8359-4609-8e84-30c9a632df50",
           "author": "liuhj60@gmail.com (硅谷101)",
-          "description": "模型在榜单上越来越强，为什么真正把工作交给AI，还是需要人反复解释、检查和兜底？\n【主播】\n【嘉宾】\n【你将听到】\n从写代码到做生意，Agent还差什么？\n通用模型越来越强，垂直产品还有什么优势？\n榜单接近满分，真实工作为什么还会失败？\n最贵的模型，不一定是最好的选择\n【往期相关】\nE231｜从B2B到A2A：Agent新基建，如何让“一人企业”做全球生意？\n【硅谷101年会来了，线下见】\n点击报名入口 ，使用折扣码【FANS15】注册，还可以获得15%折扣。\n\n\n【硅谷101听友群】\n\n\n【监制】\n【后期】\n【运营】\n【BGM】\n【在这里找到我们】\npodcast@sv101.net\nSpecial Guest: 张阔.",
+          "description": "模型在榜单上越来越强，为什么真正把工作交给AI，还是需要人反复解释、检查和兜底？\n【主播】\n【嘉宾】\n【你将听到】\n从写代码到做生意，Agent还差什么？\n通用模型越来越强，垂直产品还有什么优势？\n榜单接近满分，真实工作为什么还会失败？\n最贵的模型，不一定是最好的选择\n【往期相关】\nE231｜从B2B到A2A：Agent新基建，如何让“一人企业”做全球生意？\n【硅谷101年会来了，线下见】\n点击报名入口 ，使用折扣码【FANS15】注册，还可以获得15%折扣。\n\n\n【监制】\n【后期】\n【运营】\n【BGM】\n【在这里找到我们】\npodcast@sv101.net\nSpecial Guest: 张阔.",
           "link": "https://sv101.fireside.fm/269",
           "publishedOn": "2026-10-08T23:00:00.000Z",
           "wordCount": null,

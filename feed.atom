@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-19T03:34:20.818Z</id>
+    <id>urn:2026-10-20T03:44:48.145Z</id>
     <title>Sunny🕊️</title>
-    <updated>2026-10-19T03:34:20.818Z</updated>
+    <updated>2026-10-20T03:44:48.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？]]></title>
+        <id>9e6e1db1-f30b-492d-8a09-d8756b9df700</id>
+        <link href="https://sv101.fireside.fm/270"/>
+        <updated>2026-10-19T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[回顾9月，AI圈的重磅新闻一个接一个。
+本期节目录制于2026年9月29日
+【主播】
+【嘉宾】
+【你将听到】
+《消费101》 上线啦！
+Agent领域
+机器人领域
+生物医学领域
+尾声
+【消费101】
+《消费101》是《硅谷101》团队新开设的消费垂类节目，由资深消费记者&研究员麻花担任主播，是一档提供有趣、有料、有用的消费行业观察与品牌解读的播客。每周更新，欢迎关注！
+
+
+【硅谷101听友群】
+
+
+【监制】
+【后期】
+【运营】
+【BGM】
+【在这里找到我们】
+podcast@sv101.net
+Special Guests: 朱哲清, 王晟, and 许华哲.]]></summary>
+        <author>
+            <name>liuhj60@gmail.com (硅谷101)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[秋风吹起Mixtape肚皮上的肥肉]]></title>
         <id>https://looper.typlog.io/episodes/493</id>
@@ -42,9 +75,6 @@
 E231｜从B2B到A2A：Agent新基建，如何让“一人企业”做全球生意？
 【硅谷101年会来了，线下见】
 点击报名入口 ，使用折扣码【FANS15】注册，还可以获得15%折扣。
-
-
-【硅谷101听友群】
 
 
 【监制】
