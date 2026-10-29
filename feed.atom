@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-28T04:24:10.391Z</id>
+    <id>urn:2026-10-29T04:43:25.524Z</id>
     <title>Sunny🕊️</title>
-    <updated>2026-10-28T04:24:10.391Z</updated>
+    <updated>2026-10-29T04:43:25.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？]]></title>
+        <id>7a1e61d3-f02c-498b-ac84-cf68f59b4ca9</id>
+        <link href="https://sv101.fireside.fm/271"/>
+        <updated>2026-10-28T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[怎样用有限的钱帮助更多人？有效利他主义（Effective Altruism，简称“EA”），就是从这个朴素的问题出发，推动人们比较不同慈善项目的效果，从捐赠蚊帐、预防疟疾，到后来投入数亿美元研究AI安全。
+节目全程以中文录制，前半段由Afra介绍背景，后半段是我们与Vitalik的对话。本期涉及英文人名和机构名较多，为方便大家理解，我们在shownotes文末整理了名词解释，也在Bilibili、YouTube、视频号等平台也上线了带字幕版本，方便大家对照收听。
+【主播】
+【嘉宾】
+【你将听到】
+有效利他主义是什么，它如何走到AI安全中心？
+Vitalik的捐赠：一笔意外的加密货币如何变成数亿美元
+当“帮助人类”变成机构、政策与权力
+除了加速与暂停，还有什么选择？
+【相关阅读和名词解释】
+E233｜硅谷右翼的权力网如何形成？聊聊彼得·蒂尔的思想启蒙拼图
+人物：
+机构：
+作品：
+思想和流派：
+【新播客：消费101】
+《消费101》是《硅谷101》团队新开设的消费垂类节目，由资深消费记者&研究员麻花担任主播，是一档提供有趣、有料、有用的消费行业观察与品牌解读的播客。每周更新，欢迎关注！
+【硅谷101听友群】
+
+
+【监制】
+【后期】
+【运营】
+【BGM】
+【在这里找到我们】
+podcast@sv101.net
+Special Guests: Afra and Vitalik Buterin.]]></summary>
+        <author>
+            <name>liuhj60@gmail.com (硅谷101)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[斯丹曼簇卧谈会，又香又脏，我是鲜花也是牛粪]]></title>
         <id>https://looper.typlog.io/episodes/494</id>
