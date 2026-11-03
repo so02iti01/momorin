@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-02T04:47:44.993Z</id>
+    <id>urn:2026-11-03T05:38:41.571Z</id>
     <title>Sunny🕊️</title>
-    <updated>2026-11-02T04:47:44.993Z</updated>
+    <updated>2026-11-03T05:38:41.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[画地为牢的Mixtape捧着布丁烧直打转]]></title>
+        <id>https://looper.typlog.io/episodes/495</id>
+        <link href="https://looper.typlog.io/episodes/495"/>
+        <updated>2026-11-02T14:24:58.000Z</updated>
+        <summary type="html"><![CDATA[Brush the Cobwebs Out of the Sky 00:01 哈姆雷特 04:04 伦敦巴比肯 08:50 擢升之月 09:56 翻开Mixtape Music Played Radiohead - Sail To The Moon (Live) Noah Yorke - Return Again (If I Wait) Damon Albarn - The Moon Exalted Mixtape Ryuichi Sakamoto - 20220304 Prince - A Case of You (Piano & A Microphone) Nailah Hunter - We aja monet - i came to the poem Turnstile, Oklou - LIGHT DESIGN: OKLOU VERSION Enya - Amarantine Chris Watson - El Divisadero Lorenzo Esposito Fornasari, Lisa Gerrard - I'm Not Alone Anna von Hausswolff - The Iconoclast Otis Sandsjö, Petter Eldh, Dan Nicholls - LOOMY Gabriels, Say She She - Break It CAN - Vitamin C Goya Gumbani, Joe Armon-Jones - Shouldn't Be Knats - 7 Bridges To Burn Rebecca Pan - Willow Pattern Blues Marina Herlop - Bliss DjRUM - Turning Pet Shop Boys - He dreamed of machine…]]></summary>
+        <author>
+            <name>卧房撸歌</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？]]></title>
         <id>7a1e61d3-f02c-498b-ac84-cf68f59b4ca9</id>
