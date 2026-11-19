@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-18T06:17:51.083Z</id>
+    <id>urn:2026-11-19T06:23:06.895Z</id>
     <title>Sunny🕊️</title>
-    <updated>2026-11-18T06:17:51.083Z</updated>
+    <updated>2026-11-19T06:23:06.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[东风自不破，不负Mixtape不负卿]]></title>
+        <id>https://looper.typlog.io/episodes/497</id>
+        <link href="https://looper.typlog.io/episodes/497"/>
+        <updated>2026-11-18T13:43:01.000Z</updated>
+        <summary type="html"><![CDATA[2nd Childhood 01:11 林强的话 13:01 蹲守一张Mixtape Music Played 林强 - 春风少年兄 林强, 侯孝贤 - 无声的所在 Mixtape Ryuichi Sakamoto, LIM GIONG - Walker (Follow the Steps Remodel) Pygmées Aka - Mobandi: Mo boma (Berceuse) Baka Forest People of Southeast Cameroon - Liquindi 2 Jorge Ben Jor - Errare Humanum Est Hermanos Gutiérrez - Low Sun Milton Nascimento - Tudo O Que Você Podia Ser Anna McLuckie - Winterlude Robert "3D" Del Naja - Explosives Of The Future Felicia Atkinson, Christina Vantzou - With / You / Movement / Creatures Yussef Dayes - Birds of Paradise anaiis - Deus Deus corto.alto, Jacob Alon - NOBLEHILL 喜辰晨 - 最后一个睡着的人 claire rousay, Martyna Basta - the single pure thing left André 3000 - Ants To You, Gods To Who ? Matt Rogers, Michael John Harrison, M. John Harrison - I'm old enough to remember things tha…]]></summary>
+        <author>
+            <name>卧房撸歌</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[六十七期——战斧牛排能用嫩肉粉吗？]]></title>
         <id>xmly_track_1031726898</id>
@@ -471,39 +481,6 @@ Special Guests: Afra and Vitalik Buterin.]]></summary>
 也可以搜索添加微信yujiajia_wx, 记得备注“播客”哦，邀请您进入微信社群～]]></summary>
         <author>
             <name>Coffeeplus播客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？]]></title>
-        <id>9e6e1db1-f30b-492d-8a09-d8756b9df700</id>
-        <link href="https://sv101.fireside.fm/270"/>
-        <updated>2026-10-19T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[回顾9月，AI圈的重磅新闻一个接一个。
-本期节目录制于2026年9月29日
-【主播】
-【嘉宾】
-【你将听到】
-《消费101》 上线啦！
-Agent领域
-机器人领域
-生物医学领域
-尾声
-【消费101】
-《消费101》是《硅谷101》团队新开设的消费垂类节目，由资深消费记者&研究员麻花担任主播，是一档提供有趣、有料、有用的消费行业观察与品牌解读的播客。每周更新，欢迎关注！
-
-
-【硅谷101听友群】
-
-
-【监制】
-【后期】
-【运营】
-【BGM】
-【在这里找到我们】
-podcast@sv101.net
-Special Guests: 朱哲清, 王晟, and 许华哲.]]></summary>
-        <author>
-            <name>liuhj60@gmail.com (硅谷101)</name>
         </author>
     </entry>
 </feed>
